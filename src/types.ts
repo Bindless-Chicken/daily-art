@@ -11,6 +11,11 @@ export type ChallengeIndex = {
   challenges: Challenge[];
 };
 
+export type Origin = {
+  name: string;
+  url: URL;
+};
+
 export type Artwork = {
   id: string;
   name: string;
@@ -19,5 +24,7 @@ export type Artwork = {
   material: string;
   dimensions: string;
   exhibitScript: string;
+  tags: string[];
   imageUrl: string;
+  origin: Origin;
 };

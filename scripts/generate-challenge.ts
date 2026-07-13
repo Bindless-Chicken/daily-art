@@ -3,7 +3,7 @@ import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import type { Artwork, Challenge, ChallengeIndex } from "../src/types";
-import {queryArtwork, queryArtworkCount, queryArtworkList} from "./rijksmuseum-api.ts";
+import {queryArtwork, queryArtworkCount, queryArtworkList, queryArtworkListByTag} from "./rijksmuseum-api.ts";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const challengePath = path.join(root, "public", "challenges.json");
@@ -23,6 +23,34 @@ type ArtworkCandidateSource = {
   label: string;
   findIds: () => Promise<string[]>;
 };
+
+function adjacentCenturySource(year: number, seed: number): ArtworkCandidateSource {
+  const century = Math.floor(year / 100);
+  const direction = seed % 2 === 0 ? -1 : 1;
+  const directionLabel = direction < 0 ? "earlier" : "later";
+
+  return {
+    label: `an ${directionLabel} century`,
+    findIds: async () => {
+      const latestCentury = Math.floor(new Date().getUTCFullYear() / 100);
+      for (
+        let candidateCentury = century + direction;
+        candidateCentury >= 0 && candidateCentury <= latestCentury;
+        candidateCentury += direction
+      ) {
+        const creationDate = `${candidateCentury.toString().padStart(2, "0")}??`;
+        const ids = await queryArtworkList({ creationDate });
+
+        if (ids.length > 0) {
+          console.debug(`Found artworks in ${creationDate} while searching ${directionLabel} centuries`);
+          return ids;
+        }
+      }
+
+      return [];
+    },
+  };
+}
 
 async function pickArtwork(
   sources: ArtworkCandidateSource[],
@@ -86,21 +114,27 @@ async function buildChallenge(date: string, number: number): Promise<Challenge> 
   // Pick the valid artwork
   const artwork = await queryArtwork(artworkList[artworkIdInPage]);
 
-  const year = artwork.timespan.match(/\b\d{4}\b/)?.[0];
-  const maskedYear = year ? year.slice(0, 2) + "??" : undefined;
+  const yearText = artwork.timespan.match(/\b\d{4}\b/)?.[0];
+  const year = yearText === undefined ? undefined : Number.parseInt(yearText, 10);
   const pageCount = Math.max(1, Math.ceil(artworkCount / 100));
   const excludedIds = new Set([artwork.id]);
   const globalSource = (pageSeed: number): ArtworkCandidateSource => ({
     label: "the full collection",
     findIds: () => queryArtworkList({ page: pageSeed % pageCount }),
   });
-  const periodSource: ArtworkCandidateSource[] = maskedYear === undefined ? [] : [{
-    label: `the same period (${maskedYear})`,
-    findIds: () => queryArtworkList({ creationDate: maskedYear }),
-  }];
+  const periodSource = (seed: number): ArtworkCandidateSource[] => year === undefined
+    ? []
+    : [adjacentCenturySource(year, seed)];
   const materialSource: ArtworkCandidateSource[] = artwork.material === "undefined" ? [] : [{
     label: `the same material (${artwork.material})`,
     findIds: () => queryArtworkList({ material: artwork.material }),
+  }];
+  const selectedTag = artwork.tags.length === 0
+    ? undefined
+    : artwork.tags[option2Seed % artwork.tags.length];
+  const tagSource: ArtworkCandidateSource[] = selectedTag === undefined ? [] : [{
+    label: `the same tag (${selectedTag})`,
+    findIds: () => queryArtworkListByTag(selectedTag),
   }];
 
   // Prefer another work by the same artist, then progressively broaden the search.
@@ -109,13 +143,14 @@ async function buildChallenge(date: string, number: number): Promise<Challenge> 
       label: `the same artist (${artwork.artist})`,
       findIds: () => queryArtworkList({ creator: artwork.artist }),
     }]),
-    ...periodSource,
+    ...periodSource(option1Seed),
     ...materialSource,
     globalSource(option1Seed),
   ], excludedIds, option1Seed);
 
   const artwork3 = await pickArtwork([
-    ...periodSource,
+    ...tagSource,
+    ...periodSource(option2Seed),
     ...materialSource,
     globalSource(option2Seed),
   ], excludedIds, option2Seed);
@@ -126,7 +161,7 @@ async function buildChallenge(date: string, number: number): Promise<Challenge> 
       findIds: () => queryArtworkList({ technique: artwork.name }),
     }]),
     ...materialSource,
-    ...periodSource,
+    ...periodSource(option3Seed),
     globalSource(option3Seed),
   ], excludedIds, option3Seed);
 

@@ -16,6 +16,7 @@ type ArtworkListResponse = {
 
 type ArtworkSearchTerms = {
     page?: number;
+    title?: string;
     creator?: string;
     material?: string;
     technique?: string;
@@ -28,6 +29,9 @@ export async function queryArtworkCount(terms?: ArtworkSearchTerms): Promise<num
     collectionUrl.searchParams.set("type", "painting");
     collectionUrl.searchParams.set("imageAvailable", "true");
 
+    if (terms?.title !== undefined) {
+        collectionUrl.searchParams.set("title", terms.title);
+    }
     if (terms?.creator !== undefined) {
         collectionUrl.searchParams.set("creator", terms.creator);
     }
@@ -51,6 +55,8 @@ export async function queryArtworkCount(terms?: ArtworkSearchTerms): Promise<num
     return artworkList.partOf?.totalItems ?? 0;
 }
 
+// https://data.rijksmuseum.nl/search/collection?description=(story of) Venus (Aphrodite)&type=painting&imageAvailable=true
+
 async function queryArtworkListContinue(nextPageUrl: URL, targetPage: number, currentPage: number): Promise<ArtworkListResponse> {
     console.debug(`Requesting page ${currentPage}/${targetPage}`);
     const response = await fetch(nextPageUrl);
@@ -60,7 +66,7 @@ async function queryArtworkListContinue(nextPageUrl: URL, targetPage: number, cu
 
     let artworkList = (await response.json()) as ArtworkListResponse;
 
-    if( targetPage !== currentPage && artworkList.next?.id !== undefined ) {
+    if (targetPage !== currentPage && artworkList.next?.id !== undefined) {
         artworkList = await queryArtworkListContinue(new URL(artworkList.next.id), targetPage, currentPage + 1);
     }
 
@@ -68,39 +74,65 @@ async function queryArtworkListContinue(nextPageUrl: URL, targetPage: number, cu
 }
 
 export async function queryArtworkList(terms?: ArtworkSearchTerms): Promise<string[]> {
-  const collectionUrl = new URL("search/collection", baseApiAdress);
-  collectionUrl.searchParams.set("type", "painting");
-  collectionUrl.searchParams.set("imageAvailable", "true");
+    const collectionUrl = new URL("search/collection", baseApiAdress);
+    collectionUrl.searchParams.set("type", "painting");
+    collectionUrl.searchParams.set("imageAvailable", "true");
 
-  if (terms?.creator !== undefined) {
-      collectionUrl.searchParams.set("creator", terms.creator);
-  }
-  if (terms?.material !== undefined) {
-      collectionUrl.searchParams.set("material", terms.material);
-  }
-  if (terms?.technique !== undefined) {
-      collectionUrl.searchParams.set("description", terms.technique);
-  }
-  if (terms?.creationDate !== undefined) {
-      collectionUrl.searchParams.set("creationDate", terms.creationDate);
-  }
+    if (terms?.title !== undefined) {
+        collectionUrl.searchParams.set("title", terms.title);
+    }
+    if (terms?.creator !== undefined) {
+        collectionUrl.searchParams.set("creator", terms.creator);
+    }
+    if (terms?.material !== undefined) {
+        collectionUrl.searchParams.set("material", terms.material);
+    }
+    if (terms?.technique !== undefined) {
+        collectionUrl.searchParams.set("description", terms.technique);
+    }
+    if (terms?.creationDate !== undefined) {
+        collectionUrl.searchParams.set("creationDate", terms.creationDate);
+    }
 
-  const response = await fetch(collectionUrl);
-  if (!response.ok) {
-    throw new Error(`Rijksmuseum collection query failed: ${response.status} ${response.statusText}`);
-  }
+    const response = await fetch(collectionUrl);
+    if (!response.ok) {
+        throw new Error(`Rijksmuseum collection query failed: ${response.status} ${response.statusText}`);
+    }
 
-  let artworkList = (await response.json()) as ArtworkListResponse;
+    let artworkList = (await response.json()) as ArtworkListResponse;
 
-  if( terms?.page !== undefined && terms?.page !== 0 && artworkList.next?.id !== undefined ) {
-      artworkList = await queryArtworkListContinue(new URL(artworkList.next.id), terms.page, 1);
-  }
+    if (terms?.page !== undefined && terms?.page !== 0 && artworkList.next?.id !== undefined) {
+        artworkList = await queryArtworkListContinue(new URL(artworkList.next.id), terms.page, 1);
+    }
 
-  return (
-    artworkList.orderedItems
-      ?.map((item) => (typeof item.id === "string" ? item.id.match(/\/(\d+)$/)?.[1] : undefined))
-      .filter((id): id is string => id !== undefined) ?? []
-  );
+    return (
+        artworkList.orderedItems
+            ?.map((item) => (typeof item.id === "string" ? item.id.match(/\/(\d+)$/)?.[1] : undefined))
+            .filter((id): id is string => id !== undefined) ?? []
+    );
+}
+
+export async function queryArtworkListByTag(tagId: string): Promise<string[]> {
+    const tagUrl = new URL(tagId, "https://id.rijksmuseum.nl/");
+    const response = await fetch(tagUrl, {
+        headers: {
+            Accept: "text/html",
+        },
+    });
+    if (!response.ok) {
+        throw new Error(`Rijksmuseum tag (${tagUrl}) query failed: ${response.status} ${response.statusText}`);
+    }
+
+    const html = await response.text();
+    const nuxtData = html.match(/<script[^>]*\bid=["']__NUXT_DATA__["'][^>]*>([\s\S]*?)<\/script>/i)?.[1];
+    if (nuxtData === undefined) {
+        throw new Error(`Rijksmuseum tag (${tagUrl}) response is missing __NUXT_DATA__`);
+    }
+
+    const decodedNuxtData = nuxtData.replaceAll("\\u002F", "/");
+    const artworkUrls = decodedNuxtData.match(/https:\/\/(?:data|id)\.rijksmuseum\.nl\/\d+/g) ?? [];
+
+    return [...new Set(artworkUrls.map((url) => retrieveResourceId(url, "artwork")))];
 }
 
 type ArtworkDataResponse = {
@@ -160,7 +192,7 @@ type ArtworkDataResponse = {
     }>;
 };
 
-function getName(artwork: ArtworkDataResponse): string|undefined {
+function getName(artwork: ArtworkDataResponse): string | undefined {
     let name;
 
     // First try to find the repository name in English
@@ -242,11 +274,19 @@ export async function queryArtwork(id: string): Promise<Artwork> {
         material: getMaterial(artworkData),
         dimensions: getDimensions(artworkData),
         exhibitScript: getExhibitScript(artworkData),
+        tags: (await retrieveArtworkTags(artworkData)),
         imageUrl: (await retrieveArtworkUrl(artworkData)).toString(),
+        origin: {
+            name: "Rijksmuseum",
+            url: new URL("https://www.rijksmuseum.nl"),
+        },
     }
 }
 
 type ArtworkVisualItemResponse = {
+    represents_instance_of_type?: Array<{
+        id?: string;
+    }>;
     digitally_shown_by?: Array<{
         id?: string;
         type?: string;
@@ -267,6 +307,20 @@ function retrieveResourceId(resourceUrl: string | undefined, resourceName: strin
     }
 
     return resourceId;
+}
+async function retrieveArtworkTags(artwork: ArtworkDataResponse): Promise<string[]> {
+    const visualItem: string = retrieveResourceId(artwork.shows?.[0].id, "visual item");
+    const visualItemUrl = new URL(visualItem, baseApiAdress);
+    const response = await fetch(visualItemUrl);
+    if (!response.ok) {
+        throw new Error(`Rijksmuseum visual item query failed: ${response.status} ${response.statusText}`);
+    }
+
+    const visualItemData = (await response.json()) as ArtworkVisualItemResponse;
+
+    return visualItemData.represents_instance_of_type?.map((entry) => {
+        return entry.id ?? ""
+    }) ?? [];
 }
 
 async function retrieveArtworkUrl(artwork: ArtworkDataResponse): Promise<URL> {
