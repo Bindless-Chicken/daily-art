@@ -1,7 +1,11 @@
 import type { Challenge, ChallengeIndex } from "./types";
 
+const challengesUrl =
+  import.meta.env.VITE_CHALLENGES_URL ??
+  `${import.meta.env.BASE_URL}challenges.json`;
+
 export async function loadChallenges(): Promise<Challenge[]> {
-  const response = await fetch(`${import.meta.env.BASE_URL}challenges.json`, {
+  const response = await fetch(challengesUrl, {
     cache: "no-store",
   });
 

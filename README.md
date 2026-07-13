@@ -44,6 +44,10 @@ docker compose up
 npm run build
 ```
 
+Set `VITE_CHALLENGES_URL` during the build to load challenges from a different
+JSON URL. Without it, the app uses `public/challenges.json`. The GitHub Pages
+workflow sets this to the raw `main` branch challenge file.
+
 The frontend is a Vite app with hash-based routes:
 
 - `#/` lists all generated days.
