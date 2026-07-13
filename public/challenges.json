@@ -1,0 +1,616 @@
+{
+  "generatedAt": "2026-07-13T08:17:55.606Z",
+  "challenges": [
+    {
+      "date": "2026-07-01",
+      "number": 1,
+      "title": "Daily Art #1",
+      "answer": {
+        "id": "20026693",
+        "name": "Portret van een man",
+        "timespan": "1640 - 1681",
+        "artist": "Gerard ter Borch (II)",
+        "material": "oil on copper",
+        "dimensions": "frame: depth 5 cm",
+        "exhibitScript": "undefined",
+        "imageUrl": "https://iiif.micr.io/UVHHx/full/max/0/default.jpg"
+      },
+      "options": [
+        {
+          "id": "20026690",
+          "name": "Portret van François de Vicq (1646-1707)",
+          "timespan": "1670",
+          "artist": "Gerard ter Borch (II)",
+          "material": "oil on canvas",
+          "dimensions": "height 39 cm x width 31.5 cm x depth 3 cm",
+          "exhibitScript": "undefined",
+          "imageUrl": "https://iiif.micr.io/MVYdt/full/max/0/default.jpg"
+        },
+        {
+          "id": "200108272",
+          "name": "Portret van Johanna Bardoel (gest. na 1667)",
+          "timespan": "1644",
+          "artist": "Gerard ter Borch (II)",
+          "material": "oil on panel",
+          "dimensions": "height 29.6 cm x width 23.2 cm",
+          "exhibitScript": "undefined",
+          "imageUrl": "https://iiif.micr.io/vnkjW/full/max/0/default.jpg"
+        },
+        {
+          "id": "200108260",
+          "name": "Portrait of an Old Lady, possibly Elisabeth Bas",
+          "timespan": "c. 1640 - c. 1645",
+          "artist": "attributed to Ferdinand Bol",
+          "material": "oil on canvas",
+          "dimensions": "height 118 cm x width 91.5 cm",
+          "exhibitScript": "This portrait may depict Elisabeth Bas. Like many seafarers’ wives, Bas managed the provisioning of the fleet of her husband, Admiral Jochem Swartenhondt. Together with him, she also ran a distinguished inn, which she continued on her own after his demise. This painting was long attributed to Rembrandt, but it was painted in his style by one of his pupils, Ferdinand Bol.",
+          "imageUrl": "https://iiif.micr.io/otwWP/full/max/0/default.jpg"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "number": 2,
+      "title": "Daily Art #2",
+      "answer": {
+        "id": "20025833",
+        "name": "Moeder met kind",
+        "timespan": "c. 1880 - c. 1899",
+        "artist": "Albert Neuhuys (1844-1914)",
+        "material": "oil on canvas",
+        "dimensions": "height 162 cm x width 107 cm",
+        "exhibitScript": "undefined",
+        "imageUrl": "https://iiif.micr.io/XXcXj/full/max/0/default.jpg"
+      },
+      "options": [
+        {
+          "id": "20027279",
+          "name": "'Vissersvrijage'",
+          "timespan": "1880",
+          "artist": "Albert Neuhuys (1844-1914)",
+          "material": "oil on canvas",
+          "dimensions": "height 78 cm x width 59.5 cm",
+          "exhibitScript": "undefined",
+          "imageUrl": "https://iiif.micr.io/BUuMQ/full/max/0/default.jpg"
+        },
+        {
+          "id": "200106078",
+          "name": "The Raampoortje in Amsterdam",
+          "timespan": "1809",
+          "artist": "Wouter Johannes van Troostwijk",
+          "material": "oil on canvas",
+          "dimensions": "height 57 cm x width 48 cm",
+          "exhibitScript": "The 18th-century Raampoortje was part of Amsterdam’s city rampart near the Bloemgracht. The small gate gave access to the bleaching fields outside the city wall, where dyed cloth was laid out to dry on wooden frames, from which the Raampoortje (Frame Gate) got its name. Here we look from the bleaching fields past the houses on the Bloemgracht towards the cold and wintry city. The Westertoren rises in the distance. The gate was demolished in 1846.",
+          "imageUrl": "https://iiif.micr.io/vHCad/full/max/0/default.jpg"
+        },
+        {
+          "id": "20028225",
+          "name": "Groentemarkt",
+          "timespan": "1655 - 1665",
+          "artist": "Nicolaes Maes",
+          "material": "oil on canvas",
+          "dimensions": "depth 8.5 cm",
+          "exhibitScript": "undefined",
+          "imageUrl": "https://iiif.micr.io/nGnYh/full/max/0/default.jpg"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "number": 3,
+      "title": "Daily Art #3",
+      "answer": {
+        "id": "20027351",
+        "name": "Gezicht op Algiers met Michiel Adriaenszoon de Ruyters schip 'De Liefde', 1662",
+        "timespan": "1662 - 1668",
+        "artist": "Reinier Nooms (signed by artist)",
+        "material": "oil on canvas",
+        "dimensions": "support: height 65.5 cm x width 110 cm",
+        "exhibitScript": "Four views of North-African cities. Reinier Nooms, c. 1665. To protect the Dutch merchant fleet, the navy took the fight the enemy, far beyond the country's coastal waters. The Mediterranean harbours shown here - Algiers, Tunis, Tripoli and Salee - were bases from which privateers attacked Dutch merchant shipping. Attempts were made to impose treaties on these cities using the threat of naval force. Between 1661 and 1663 Admiral Michiel de Ruyter cruised the Mediterranean Sea in an effort to stamp out piracy. De Ruyter's ship, de Liefde, is shown in the foreground of the view of Algiers. This series of paintings was displayed in one of the rooms of the Amsterdam Admiralty. The Republic's navy was divided into five regional admiralties, one of which was based in Amsterdam.",
+        "imageUrl": "https://iiif.micr.io/nAPLf/full/max/0/default.jpg"
+      },
+      "options": [
+        {
+          "id": "200107991",
+          "name": "The Vegetable Market",
+          "timespan": "1664",
+          "artist": "Hendrick Martensz Sorgh",
+          "material": "oil on panel",
+          "dimensions": "frame: height 67.3 cm x width 88.2 cm x thickness 10 cm",
+          "exhibitScript": "undefined",
+          "imageUrl": "https://iiif.micr.io/NRfCv/full/max/0/default.jpg"
+        },
+        {
+          "id": "200108147",
+          "name": "Still Life with Fruits and Flowers",
+          "timespan": "undefined",
+          "artist": "Balthasar van der Ast (signed by artist)",
+          "material": "oil on panel",
+          "dimensions": "support: height 39.2 cm x width 69.8 cm",
+          "exhibitScript": "This still life invites close examination of all the details and elicits marvel at the richness of God’s creation: the colourful flowers, the exotic shells, but certainly also the beautiful insects. At the same time, decay is spreading. Fruit shows the first rotten spots, leaves are eaten away by caterpillars and snails and ants drag a dead fly. The painting is thus also about impermanence.",
+          "imageUrl": "https://iiif.micr.io/jygAk/full/max/0/default.jpg"
+        },
+        {
+          "id": "200107968",
+          "name": "View of the Rhine near Rheineck Castle",
+          "timespan": "1654",
+          "artist": "Herman Saftleven (signed by artist)",
+          "material": "oil on panel",
+          "dimensions": "support: height 30.4 cm x width 45.3 cm",
+          "exhibitScript": "undefined",
+          "imageUrl": "https://iiif.micr.io/yuZXn/full/max/0/default.jpg"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "number": 4,
+      "title": "Daily Art #4",
+      "answer": {
+        "id": "20025942",
+        "name": "Farmstead with the Gentleman Farmer and his Wife and the Painter in the foreground",
+        "timespan": "1650 - 1680",
+        "artist": "Jan Pietersz Opperdoes",
+        "material": "oil on panel",
+        "dimensions": "height 39 cm x width 58 cm",
+        "exhibitScript": "undefined",
+        "imageUrl": "https://iiif.micr.io/smBOr/full/max/0/default.jpg"
+      },
+      "options": [
+        {
+          "id": "200108406",
+          "name": "Interior of the Portuguese Synagogue in Amsterdam",
+          "timespan": "1680",
+          "artist": "Emanuel de Witte",
+          "material": "oil on canvas",
+          "dimensions": "height 110 cm x width 99 cm",
+          "exhibitScript": "undefined",
+          "imageUrl": "https://iiif.micr.io/COzbA/full/max/0/default.jpg"
+        },
+        {
+          "id": "200107889",
+          "name": "Cows in a meadow near a farm",
+          "timespan": "1653",
+          "artist": "Paulus Potter",
+          "material": "oil on canvas",
+          "dimensions": "height 58 cm x width 66.5 cm",
+          "exhibitScript": "Paulus Potter favoured painting animals in the countryside and at farms. He rendered the typical Dutch\r\nlandscape – the pollard willows, the meadow, and the pond in the background –with great precision. In this painting the sun hangs low, calling to mind the late afternoon, when the languid cows and sheep take their rest.",
+          "imageUrl": "https://iiif.micr.io/ynTUE/full/max/0/default.jpg"
+        },
+        {
+          "id": "200107829",
+          "name": "Venus and Adonis",
+          "timespan": "1629",
+          "artist": "Joos de Pape",
+          "material": "oil on panel",
+          "dimensions": "outer size: height 149 cm x width 130 cm x depth 10 cm (support incl. frame)",
+          "exhibitScript": "undefined",
+          "imageUrl": "https://iiif.micr.io/kmGDy/full/max/0/default.jpg"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-05",
+      "number": 5,
+      "title": "Daily Art #5",
+      "answer": {
+        "id": "20027468",
+        "name": "Old Jewish Woman",
+        "timespan": "1880",
+        "artist": "Meijer Isaäc de Haan",
+        "material": "oil on canvas",
+        "dimensions": "height 63 cm x width 52 cm",
+        "exhibitScript": "undefined",
+        "imageUrl": "https://iiif.micr.io/XeJDC/full/max/0/default.jpg"
+      },
+      "options": [
+        {
+          "id": "20027981",
+          "name": "Petrus Franciscus Greive (1811-72), Painter",
+          "timespan": "1870 - 1895",
+          "artist": "Meijer Isaäc de Haan",
+          "material": "oil on panel",
+          "dimensions": "height 14.3 cm x width 11.7 cm",
+          "exhibitScript": "undefined",
+          "imageUrl": "https://iiif.micr.io/OEobm/full/max/0/default.jpg"
+        },
+        {
+          "id": "200108008",
+          "name": "The Waterfall at Tivoli",
+          "timespan": "1824",
+          "artist": "Abraham Teerlink",
+          "material": "oil on canvas",
+          "dimensions": "height 101 cm x width 141 cm",
+          "exhibitScript": "In 1807 Abraham Teerlink received a grant from Louis Napoleon to travel to Italy. After the King’s abdication, he decided to stay there and became a highly success-ful landscape painter. These two views of Tivoli, near Rome, are pendants. On top of the hill is the village of Tivoli, and in the background is the circular Temple of Vesta, goddess of domestic harmony.",
+          "imageUrl": "https://iiif.micr.io/psrnF/full/max/0/default.jpg"
+        },
+        {
+          "id": "200108223",
+          "name": "Portrait of Carolina Frederica Kerst (1803-1883)",
+          "timespan": "1830",
+          "artist": "Charles van Beveren",
+          "material": "oil on panel",
+          "dimensions": "height 25 cm x width 21 cm",
+          "exhibitScript": "The couple Louis Royer and Carolina Kerst were captured in a portrait after their return from a yearlong sojourn in Rome. Louis is seen in his sculptor’s studio surrounded by his work, some of which is on view in this gallery. One of his sculptures is visible in Carolina’s likeness. A letter and an Italian landscape allude to their Italian trip and the cross around her neck signifies her Catholic faith.",
+          "imageUrl": "https://iiif.micr.io/SaBmk/full/max/0/default.jpg"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-06",
+      "number": 6,
+      "title": "Daily Art #6",
+      "answer": {
+        "id": "200108154",
+        "name": "Arcadisch landschap met figuren bij een rivieroever",
+        "timespan": "1771",
+        "artist": "Jurriaan Andriessen",
+        "material": "oil on canvas",
+        "dimensions": "height 325 cm x width 214 cm",
+        "exhibitScript": "undefined",
+        "imageUrl": "https://iiif.micr.io/cwkFn/full/max/0/default.jpg"
+      },
+      "options": [
+        {
+          "id": "200108151",
+          "name": "Arcadisch landschap met linksvoor kinderen met een vogel en een hond",
+          "timespan": "1771",
+          "artist": "Jurriaan Andriessen",
+          "material": "oil on canvas",
+          "dimensions": "height 325 cm x width 248 cm",
+          "exhibitScript": "undefined",
+          "imageUrl": "https://iiif.micr.io/wtuTZ/full/max/0/default.jpg"
+        },
+        {
+          "id": "200108386",
+          "name": "Italianate Landscape with Pines",
+          "timespan": "1795",
+          "artist": "Hendrik Voogd",
+          "material": "oil on canvas",
+          "dimensions": "height 72.5 cm x width 90 cm",
+          "exhibitScript": "In 1788 the financial support of an Amsterdam art patron allowed Hendrik Voogd to travel to Rome, where he joined the colony of international artists. This painting, the artist’s earliest known work, is a good example of his speciality: the campagna landscape around Rome, dotted with ancient remains, painted in a cool, clear light.",
+          "imageUrl": "https://iiif.micr.io/TwvEJ/full/max/0/default.jpg"
+        },
+        {
+          "id": "200108827",
+          "name": "Inspectors of the Collegium Medicum in Amsterdam, 1724",
+          "timespan": "1724",
+          "artist": "Cornelis Troost",
+          "material": "oil on canvas",
+          "dimensions": "height 40 cm x width 49 cm",
+          "exhibitScript": "undefined",
+          "imageUrl": "https://iiif.micr.io/AuZGY/full/max/0/default.jpg"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-07",
+      "number": 7,
+      "title": "Daily Art #7",
+      "answer": {
+        "id": "200108470",
+        "name": "Maria met kind",
+        "timespan": "c. 1525 - c. 1530",
+        "artist": "workshop of Quinten Massijs (I)",
+        "material": "oil on panel",
+        "dimensions": "support: height 75.4 cm x width 62.9 cm",
+        "exhibitScript": "undefined",
+        "imageUrl": "https://iiif.micr.io/SxcMf/full/max/0/default.jpg"
+      },
+      "options": [
+        {
+          "id": "200415346",
+          "name": "De zeven werken van barmhartigheid",
+          "timespan": "1504",
+          "artist": "Master of Alkmaar",
+          "material": "oil on panel",
+          "dimensions": "support: height 103.5 cm x width 56.8 cm",
+          "exhibitScript": "A Dutch city is the backdrop to this narrative that shows how a good Christian should help those in need. Christ stands among the spectators in almost every panel. The scenes give an impression of urban society around 1500. The work was badly damaged during the Iconoclasm of 1566, when Roman Catholic churches were vandalized by Protestants.",
+          "imageUrl": "https://iiif.micr.io/ERNxZ/full/max/0/default.jpg"
+        },
+        {
+          "id": "20027379",
+          "name": "Pierre de Moucheron (1508-67), his Wife Isabeau de Gerbier, their eighteen Children, their Son-in-Law Allard de la Dale and their first Grandchild",
+          "timespan": "1563",
+          "artist": "anonymous",
+          "material": "oil on panel",
+          "dimensions": "height 108 cm x width 246 cm",
+          "exhibitScript": "The De Moucheron Family. Antwerp school, 1563. Pierre de Moucheron (1508-1567) and his wife Isabeau de Gerbier are surrounded by their children and grandchildren. Beside Pierre: his son-in-law and sons - oldest to youngest. The daughters are standing beside their mother, also oldest to youngest. Their ages are written above their heads. Pierre de Moucheron and his equally enterprising sons were active at the start of the Dutch Golden Age. Pierre founded a dynasty of Protestant merchants and ship owners. He ran a trading company in Antwerp. When the city fell to Spain in 1585, the firm moved to Middelburg. The towns of Zeeland and Holland profited immensely from the influx of wealthy refugees from the Southern Netherlands.",
+          "imageUrl": "https://iiif.micr.io/dSCpX/full/max/0/default.jpg"
+        },
+        {
+          "id": "20026702",
+          "name": "Madonna met slapend kind",
+          "timespan": "1540 - 1560",
+          "artist": "Paris Bordone",
+          "material": "oil on canvas",
+          "dimensions": "height 69.5 cm x width 83.2 cm x thickness 3.5 cm",
+          "exhibitScript": "undefined",
+          "imageUrl": "https://iiif.micr.io/rZcax/full/max/0/default.jpg"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-08",
+      "number": 8,
+      "title": "Daily Art #8",
+      "answer": {
+        "id": "20028237",
+        "name": "Landscape with Saint Bruno ?",
+        "timespan": "1700 - 1749",
+        "artist": "Alessandro Magnasco",
+        "material": "oil on canvas",
+        "dimensions": "depth 4.8 cm",
+        "exhibitScript": "undefined",
+        "imageUrl": "https://iiif.micr.io/CHsNt/full/max/0/default.jpg"
+      },
+      "options": [
+        {
+          "id": "20028236",
+          "name": "The Raising of Lazarus",
+          "timespan": "1715 - 1740",
+          "artist": "Alessandro Magnasco",
+          "material": "oil on canvas",
+          "dimensions": "depth 6.7 cm",
+          "exhibitScript": "Alessandro Magnasco (1667 - 1749). The Raising of Lazarus, c. 1725. On loan from the Mauritshuis, The Hague, 1948.",
+          "imageUrl": "https://iiif.micr.io/uUJBE/full/max/0/default.jpg"
+        },
+        {
+          "id": "20026143",
+          "name": "Margaretha van Leuvenigh (1705-85). Echtgenote van Bernardus de Bosch",
+          "timespan": "1743",
+          "artist": "Jan Maurits Quinkhard",
+          "material": "undefined",
+          "dimensions": "height 11 cm x width 9.5 cm",
+          "exhibitScript": "Jan Maurits Quinckhard (1688 - 1772). Margaretha van Leuvenigh (1705 - 85), wife of Bernardus de Bosch. Copper, 1743.",
+          "imageUrl": "https://iiif.micr.io/uMaLJ/full/max/0/default.jpg"
+        },
+        {
+          "id": "200108953",
+          "name": "Portrait of the Physician Herman Boerhaave, Professor at the University of Leiden",
+          "timespan": "1735",
+          "artist": "Cornelis Troost",
+          "material": "oil on canvas",
+          "dimensions": "height 90 cm x width 70 cm",
+          "exhibitScript": "undefined",
+          "imageUrl": "https://iiif.micr.io/Ispbw/full/max/0/default.jpg"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "number": 9,
+      "title": "Daily Art #9",
+      "answer": {
+        "id": "200110540",
+        "name": "Portrait of Cornelis Matelieff the Younger, Director of the Rotterdam Chamber of the Dutch East India Company, elected 1602",
+        "timespan": "1695 - 1722",
+        "artist": "Pieter van der Werff",
+        "material": "oil on canvas",
+        "dimensions": "height 82 cm x width 68 cm",
+        "exhibitScript": "undefined",
+        "imageUrl": "https://iiif.micr.io/pQRlY/full/max/0/default.jpg"
+      },
+      "options": [
+        {
+          "id": "20026948",
+          "name": "The Infant Hercules with a Serpent",
+          "timespan": "1700 - 1722",
+          "artist": "Pieter van der Werff",
+          "material": "oil on panel",
+          "dimensions": "height 34.5 cm x width 43 cm",
+          "exhibitScript": "undefined",
+          "imageUrl": "https://iiif.micr.io/YJJGe/full/max/0/default.jpg"
+        },
+        {
+          "id": "200108173",
+          "name": "Portrait of  Hieronymus van Beverningk (1614-1690). Lord of Teylingen. Government Paymaster",
+          "timespan": "1670",
+          "artist": "Jan de Baen",
+          "material": "oil on canvas",
+          "dimensions": "height 156 cm x width 121.5 cm",
+          "exhibitScript": "As envoy of the States-General of the Netherlands, Hieronymus van Beverningk took part in many diplomatic negotiations, including the Peace of Aachen in May 1668. The state documents on the table mention the city’s Latin name Aquisgrani. The picture frame emphasizes the stateliness of the sitter and corresponds with that of his wife, Johanna le Gillon. In the cartouche at the bottom is his motto, in translation: ‘Seek thyself, not outside thyself.’",
+          "imageUrl": "https://iiif.micr.io/LqJWs/full/max/0/default.jpg"
+        },
+        {
+          "id": "200107935",
+          "name": "Musical Company",
+          "timespan": "1626",
+          "artist": "Rembrandt van Rijn",
+          "material": "oil on panel",
+          "dimensions": "height 63.5 cm x width 48 cm",
+          "exhibitScript": "The subject of this painting is a mystery: is it an exhortation to praise God through singing and string music, or a scene of seduction with the old woman as a procuress? In any case, in this early work Rembrandt used elements from his own surroundings: his mother modelled for the old woman, and Rembrandt’s own features can be recognized in the young man.",
+          "imageUrl": "https://iiif.micr.io/hdvov/full/max/0/default.jpg"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-10",
+      "number": 10,
+      "title": "Daily Art #10",
+      "answer": {
+        "id": "20027851",
+        "name": "Portrait of Reijnier Ottsz Hinlopen (1608/09-1653)",
+        "timespan": "1631",
+        "artist": "anonymous",
+        "material": "oil on panel",
+        "dimensions": "support: height 122.1 cm x width 89.6 cm",
+        "exhibitScript": "undefined",
+        "imageUrl": "https://iiif.micr.io/UHohm/full/max/0/default.jpg"
+      },
+      "options": [
+        {
+          "id": "20015959",
+          "name": "The Battle of the Sound with the Eendracht Engaging Two Swedish Warships, 1658",
+          "timespan": "c. 1670",
+          "artist": "anonymous",
+          "material": "oil on panel",
+          "dimensions": "support: height 70.4 cm x width 107.5 cm",
+          "exhibitScript": "undefined",
+          "imageUrl": "https://iiif.micr.io/zLYYj/full/max/0/default.jpg"
+        },
+        {
+          "id": "200108235",
+          "name": "The Battle of the Zuider Zee, 1573",
+          "timespan": "1663",
+          "artist": "Jan Theunisz. Blanckerhoff (mentioned on object)",
+          "material": "oil on canvas",
+          "dimensions": "height 229 cm x width 271.5 cm",
+          "exhibitScript": "undefined",
+          "imageUrl": "https://iiif.micr.io/iLfNl/full/max/0/default.jpg"
+        },
+        {
+          "id": "200108210",
+          "name": "Italiaanse ruïne",
+          "timespan": "1658",
+          "artist": "Nicolaes Pietersz Berchem",
+          "material": "oil on panel",
+          "dimensions": "height 51.5 cm x width 41.5 cm",
+          "exhibitScript": "undefined",
+          "imageUrl": "https://iiif.micr.io/SsOOn/full/max/0/default.jpg"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-11",
+      "number": 11,
+      "title": "Daily Art #11",
+      "answer": {
+        "id": "20026632",
+        "name": "Bosgezicht",
+        "timespan": "c. 1850 - c. 1890",
+        "artist": "Johannes Warnardus Bilders (mentioned on object)",
+        "material": "oil on canvas",
+        "dimensions": "depth 10.4 cm",
+        "exhibitScript": "undefined",
+        "imageUrl": "https://iiif.micr.io/YOARK/full/max/0/default.jpg"
+      },
+      "options": [
+        {
+          "id": "200108008",
+          "name": "The Waterfall at Tivoli",
+          "timespan": "1824",
+          "artist": "Abraham Teerlink",
+          "material": "oil on canvas",
+          "dimensions": "height 101 cm x width 141 cm",
+          "exhibitScript": "In 1807 Abraham Teerlink received a grant from Louis Napoleon to travel to Italy. After the King’s abdication, he decided to stay there and became a highly success-ful landscape painter. These two views of Tivoli, near Rome, are pendants. On top of the hill is the village of Tivoli, and in the background is the circular Temple of Vesta, goddess of domestic harmony.",
+          "imageUrl": "https://iiif.micr.io/psrnF/full/max/0/default.jpg"
+        },
+        {
+          "id": "200108706",
+          "name": "Drie meisjes uit het Amsterdamse Burgerweeshuis",
+          "timespan": "1885",
+          "artist": "Thérèse Schwartze",
+          "material": "oil on canvas",
+          "dimensions": "height 81.5 cm x width 96 cm",
+          "exhibitScript": "undefined",
+          "imageUrl": "https://iiif.micr.io/DiSsw/full/max/0/default.jpg"
+        },
+        {
+          "id": "20027613",
+          "name": "The Forest of Fontainebleau",
+          "timespan": "1871",
+          "artist": "Narcisse Virgile Diaz de la Peña",
+          "material": "oil on canvas",
+          "dimensions": "height 50.5 cm x width 63.5 cm",
+          "exhibitScript": "undefined",
+          "imageUrl": "https://iiif.micr.io/smcAr/full/max/0/default.jpg"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-12",
+      "number": 12,
+      "title": "Daily Art #12",
+      "answer": {
+        "id": "20026214",
+        "name": "Maria met kind",
+        "timespan": "1475 - 1525",
+        "artist": "attributed to Nicolò Rondinello",
+        "material": "oil on panel",
+        "dimensions": "height 77 cm x width 57 cm x thickness 1.8 cm",
+        "exhibitScript": "undefined",
+        "imageUrl": "https://iiif.micr.io/EesGt/full/max/0/default.jpg"
+      },
+      "options": [
+        {
+          "id": "20027213",
+          "name": "Portrait of Laurens de Witte van Citters (1781-1862). Father of Jonkheer J. de Witte van Citters, testator of a series of Family portraits to the Museum",
+          "timespan": "c. 1815",
+          "artist": "anonymous",
+          "material": "oil on panel",
+          "dimensions": "height 22 cm x width 18.1 cm x thickness 1.4 cm",
+          "exhibitScript": "undefined",
+          "imageUrl": "https://iiif.micr.io/gKXSQ/full/max/0/default.jpg"
+        },
+        {
+          "id": "200108017",
+          "name": "Self Portrait",
+          "timespan": "c. 1809",
+          "artist": "Wouter Johannes van Troostwijk",
+          "material": "undefined",
+          "dimensions": "height 51.3 cm x width 40 cm",
+          "exhibitScript": "The promising painter Wouter van Troostwijk is said to have died young from a cold he caught while drawing outside at night. An artist’s life could hardly end more romantically! His atelier is pictured in this informal self-portrait, which he made shortly before his death. Grouped together on top of the cupboard are plaster casts of Classical sculptures, the models traditionally used by a painter.",
+          "imageUrl": "https://iiif.micr.io/quBNB/full/max/0/default.jpg"
+        },
+        {
+          "id": "20087838",
+          "name": "Rechtervleugel van een memoriedrieluik (voorheen genoemd de Gertz memorietafel) met negen stichteressen met Maria met Kind (binnenzijde), en de heilige Maria Magdalena (buitenzijde)",
+          "timespan": "after c. 1527",
+          "artist": "copy after Hugo van der Goes",
+          "material": "undefined",
+          "dimensions": "height 99.5 cm x width 59.6 cm x depth 5 cm",
+          "exhibitScript": "undefined",
+          "imageUrl": "https://iiif.micr.io/ofgwz/full/max/0/default.jpg"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-13",
+      "number": 13,
+      "title": "Daily Art #13",
+      "answer": {
+        "id": "20027760",
+        "name": "Johannes Bosboom (1817-91), Painter",
+        "timespan": "1885 - 1891",
+        "artist": "Charles Dankmeijer (signed by artist)",
+        "material": "oil on canvas",
+        "dimensions": "depth 13.8 cm",
+        "exhibitScript": "undefined",
+        "imageUrl": "https://iiif.micr.io/QrWOm/full/max/0/default.jpg"
+      },
+      "options": [
+        {
+          "id": "200109334",
+          "name": "Portrait of Don Ramón Satué y Allué (1765-1824)",
+          "timespan": "1823",
+          "artist": "Francisco de Goya",
+          "material": "oil on canvas",
+          "dimensions": "outersize: height 135.5 cm (support incl. frame) x width 112 cm x depth 7 cm",
+          "exhibitScript": "Goya owes his fame to his portraits of the Spanish court and to his idiosyncratic prints. He had already turned 76 when he painted this powerful portrait. Satué was a judge in the highest tribunal of Castile. The casual pose and open collar have an informality that Goya usually reserved for portraits of his most intimate friends.",
+          "imageUrl": "https://iiif.micr.io/GRbAZ/full/max/0/default.jpg"
+        },
+        {
+          "id": "200108228",
+          "name": "Jacob van Ruisdael Sketching a Watermill",
+          "timespan": "1864",
+          "artist": "Gerard Bilders",
+          "material": "oil on canvas",
+          "dimensions": "height 86.5 cm x width 61.5 cm",
+          "exhibitScript": "This painting was part of a ‘historical gallery’, a collection of paintings and sculptures glorifying Dutch art. The landscape painter Jacob van Ruisdael was one of the 17th-century artists to be honoured with a painting. He is shown here out-of-doors, in the act of sketching a watermill. Bilders was clearly more skilled in painting the landscape than in rendering the figure.",
+          "imageUrl": "https://iiif.micr.io/FLhJr/full/max/0/default.jpg"
+        },
+        {
+          "id": "200108657",
+          "name": "Market Day in Courtrai",
+          "timespan": "1828",
+          "artist": "Jan Baptiste De Jonghe",
+          "material": "oil on panel",
+          "dimensions": "height 40 cm x width 32.5 cm",
+          "exhibitScript": "undefined",
+          "imageUrl": "https://iiif.micr.io/tlvYg/full/max/0/default.jpg"
+        }
+      ]
+    }
+  ]
+}
