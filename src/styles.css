@@ -406,6 +406,10 @@ main {
   line-height: 1.35;
 }
 
+.fact-sheet dd a {
+  color: inherit;
+}
+
 .exhibit-script p:last-child {
   color: #d9d0c1;
   font-weight: 600;

@@ -2,6 +2,13 @@ import {Artwork} from "../src/types.ts";
 
 const baseApiAdress: URL = new URL("https://data.rijksmuseum.nl/");
 
+type OneOrMany<T> = T | T[];
+
+function asArray<T>(value: OneOrMany<T> | undefined): T[] {
+    if (value === undefined) return [];
+    return Array.isArray(value) ? value : [value];
+}
+
 type ArtworkListResponse = {
     partOf?: {
         totalItems?: number;
@@ -21,6 +28,16 @@ type ArtworkSearchTerms = {
     material?: string;
     technique?: string;
     creationDate?: string;
+};
+
+type ArtworkTagResponse = {
+    identified_by?: Array<{
+        type?: string;
+        content?: string;
+        language?: Array<{
+            id?: string;
+        }>;
+    }>;
 };
 
 
@@ -135,7 +152,40 @@ export async function queryArtworkListByTag(tagId: string): Promise<string[]> {
     return [...new Set(artworkUrls.map((url) => retrieveResourceId(url, "artwork")))];
 }
 
+export async function queryArtworkTagLabel(tagId: string): Promise<string> {
+    const tagUrl = new URL(tagId, "https://id.rijksmuseum.nl/");
+    const response = await fetch(tagUrl, {
+        headers: {
+            Accept: "application/ld+json, application/json",
+        },
+    });
+    if (!response.ok) {
+        throw new Error(`Rijksmuseum tag (${tagUrl}) query failed: ${response.status} ${response.statusText}`);
+    }
+
+    const tag = (await response.json()) as ArtworkTagResponse;
+    const names = tag.identified_by?.filter((entry) => entry.type === "Name" && entry.content !== undefined) ?? [];
+    const englishName = names.find((entry) =>
+        entry.language?.some((language) => language.id === "http://vocab.getty.edu/aat/300388277")
+    );
+    const label = englishName?.content ?? names[0]?.content;
+    if (label === undefined) {
+        throw new Error(`Rijksmuseum tag (${tagUrl}) is missing a name`);
+    }
+
+    return label;
+}
+
 type ArtworkDataResponse = {
+    classified_as?: Array<{
+        notation?: OneOrMany<{
+            "@language"?: string;
+            "@value"?: string;
+        }>;
+        equivalent?: OneOrMany<{
+            id?: string;
+        }>;
+    }>;
     produced_by?: {
         referred_to_by?: Array<{
             content?: string;
@@ -254,6 +304,34 @@ function getTimespan(artwork: ArtworkDataResponse): string {
     return artwork.produced_by?.timespan?.identified_by?.find((entry) => {
         return entry.language?.[0].id === "http://vocab.getty.edu/aat/300388277";
     })?.content ?? "undefined";
+}
+
+export type ArtworkSelectionMetadata = {
+    isPainting: boolean;
+    year?: number;
+};
+
+export async function queryArtworkSelectionMetadata(id: string): Promise<ArtworkSelectionMetadata> {
+    const artworkUrl = new URL(id, baseApiAdress);
+    const response = await fetch(artworkUrl);
+    if (!response.ok) {
+        throw new Error(`Rijksmuseum artwork (${artworkUrl}) query failed: ${response.status} ${response.statusText}`);
+    }
+
+    const artworkData = (await response.json()) as ArtworkDataResponse;
+    const yearText = getTimespan(artworkData).match(/\b\d{3,4}\b/)?.[0];
+    const isPainting = artworkData.classified_as?.some((classification) =>
+        asArray(classification.equivalent).some((equivalent) =>
+            equivalent.id === "http://vocab.getty.edu/aat/300033618"
+        ) || asArray(classification.notation).some((notation) =>
+            notation["@language"] === "en" && notation["@value"]?.toLowerCase() === "painting"
+        )
+    ) ?? false;
+
+    return {
+        isPainting,
+        year: yearText === undefined ? undefined : Number.parseInt(yearText, 10),
+    };
 }
 
 export async function queryArtwork(id: string): Promise<Artwork> {

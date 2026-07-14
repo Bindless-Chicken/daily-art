@@ -238,6 +238,14 @@ function renderAnswerDetails(artwork: Artwork): string {
             <dt>Dimensions</dt>
             <dd id="detail-dimensions">${escapeHtml(displayValue(artwork.dimensions))}</dd>
           </div>
+          <div>
+            <dt>Origin</dt>
+            <dd>
+              <a id="detail-origin" href="${escapeHtml(String(artwork.origin.url))}" target="_blank" rel="noreferrer">
+                ${escapeHtml(displayValue(artwork.origin.name))}
+              </a>
+            </dd>
+          </div>
         </dl>
       </div>
       <div class="exhibit-script">
@@ -322,6 +330,7 @@ function renderChallenge(challenge: Challenge | undefined): void {
   const detailArtist = document.querySelector<HTMLElement>("#detail-artist");
   const detailMaterial = document.querySelector<HTMLElement>("#detail-material");
   const detailDimensions = document.querySelector<HTMLElement>("#detail-dimensions");
+  const detailOrigin = document.querySelector<HTMLAnchorElement>("#detail-origin");
   const detailExhibitScript = document.querySelector<HTMLElement>("#detail-exhibit-script");
   const clueTilesElements = Array.from(document.querySelectorAll<HTMLElement>(".clue-tile"));
   let visibleClues = Math.min(Math.max(savedProgress?.cluesRevealed ?? 1, 1), clues.length);
@@ -385,6 +394,11 @@ function renderChallenge(challenge: Challenge | undefined): void {
 
     if (detailDimensions) {
       detailDimensions.textContent = displayValue(artwork.dimensions);
+    }
+
+    if (detailOrigin) {
+      detailOrigin.textContent = displayValue(artwork.origin.name);
+      detailOrigin.href = String(artwork.origin.url);
     }
 
     if (detailExhibitScript) {
