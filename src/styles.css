@@ -162,28 +162,73 @@ main {
 
 .clue-progress {
   display: grid;
-  grid-template-columns: repeat(4, 24px);
-  gap: 6px;
+  grid-template-columns: 82px repeat(4, 22px);
+  align-items: center;
+  gap: 5px;
   flex: 0 0 auto;
 }
 
+.completion-marker,
 .clue-marker {
-  width: 24px;
-  height: 12px;
   background: #5c5851;
-  border-radius: 5px;
+  border-radius: 999px;
 }
 
-.clue-marker[data-status="correct"] {
+.completion-marker {
+  display: grid;
+  place-items: center;
+  height: 20px;
+  padding: 0 8px;
+  color: #f3efe7;
+  font-size: 0.65rem;
+  font-weight: 750;
+  letter-spacing: 0.025em;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.completion-marker[data-status="correct"] {
   background: #8bd17c;
+  color: #172015;
 }
 
-.clue-marker[data-status="incorrect"] {
+.completion-marker[data-status="incorrect"] {
   background: #ff8f8f;
+  color: #251313;
 }
 
-.clue-marker[data-status="in-progress"] {
+.completion-marker[data-status="in-progress"] {
   background: #d4a84f;
+  color: #211a0d;
+}
+
+.clue-marker {
+  height: 20px;
+}
+
+.clue-marker[data-status="used"] {
+  background: #c9c0b3;
+}
+
+@media (max-width: 480px) {
+  .day-row {
+    gap: 12px;
+  }
+
+  .clue-progress {
+    grid-template-columns: 70px repeat(4, 18px);
+    gap: 4px;
+  }
+
+  .completion-marker {
+    height: 18px;
+    padding: 0 5px;
+    font-size: 0.58rem;
+  }
+
+  .clue-marker {
+    height: 18px;
+  }
 }
 
 .palette {

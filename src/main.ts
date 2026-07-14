@@ -17,6 +17,14 @@ if (!app) {
 
 const appRoot = app;
 const TOTAL_CLUES = 4;
+const ARTWORK_IMAGE_MAX_WIDTH = 1500;
+
+function getArtworkImageUrl(imageUrl: string): string {
+  return imageUrl.replace(
+    "/full/max/0/default.jpg",
+    `/full/^${ARTWORK_IMAGE_MAX_WIDTH},/0/default.jpg`,
+  );
+}
 
 function route(): { page: "list" | "challenge"; date?: string } {
   const [, page, date] = window.location.hash.match(/^#\/([^/]+)\/?([^/]*)?/) ?? [];
@@ -87,21 +95,26 @@ function renderList(challenges: Challenge[]): void {
         Math.max(progress?.cluesRevealed ?? 0, 0),
         TOTAL_CLUES,
       );
-      let usedClueStatus = "in-progress";
+      let completionStatus = "new";
+      let completionLabel = "New";
       let progressLabel = "Not started, no clues used";
 
       if (progress) {
         const clueLabel = `${cluesUsed} ${cluesUsed === 1 ? "clue" : "clues"} used`;
         if (progress.validationResult) {
-          progressLabel = `${clueLabel} · ${progress.validationResult === "correct" ? "Found" : "Not found"}`;
-          usedClueStatus = progress.validationResult;
+          const wasSolved = progress.validationResult === "correct";
+          completionStatus = wasSolved ? "correct" : "incorrect";
+          completionLabel = wasSolved ? "Solved" : "Missed";
+          progressLabel = `${completionLabel}, ${clueLabel}`;
         } else {
-          progressLabel = `${clueLabel} · In progress`;
+          completionStatus = "in-progress";
+          completionLabel = "In progress";
+          progressLabel = `In progress, ${clueLabel}`;
         }
       }
 
       const clueMarkers = Array.from({ length: TOTAL_CLUES }, (_, index) => {
-        const markerStatus = index < cluesUsed ? usedClueStatus : "unused";
+        const markerStatus = index < cluesUsed ? "used" : "unused";
         return `<span class="clue-marker" data-status="${markerStatus}" aria-hidden="true"></span>`;
       }).join("");
 
@@ -113,6 +126,7 @@ function renderList(challenges: Challenge[]): void {
               <small>${escapeHtml(challenge.date)} - #${challenge.number}</small>
             </span>
             <span class="clue-progress" role="img" aria-label="${escapeHtml(progressLabel)}" title="${escapeHtml(progressLabel)}">
+              <span class="completion-marker" data-status="${completionStatus}" aria-hidden="true">${completionLabel}</span>
               ${clueMarkers}
             </span>
           </button>
@@ -144,7 +158,7 @@ function renderList(challenges: Challenge[]): void {
 function renderSelectedArtwork(artwork: Artwork): string {
   return `
     <section class="selected-artwork" aria-live="polite">
-      <img id="selected-artwork-image" src="${escapeHtml(artwork.imageUrl)}" alt="${escapeHtml(artwork.name)}" draggable="false" />
+      <img id="selected-artwork-image" src="${escapeHtml(getArtworkImageUrl(artwork.imageUrl))}" alt="${escapeHtml(artwork.name)}" draggable="false" />
     </section>
   `;
 }
@@ -152,7 +166,7 @@ function renderSelectedArtwork(artwork: Artwork): string {
 function renderArtworkOption(artwork: Artwork, selected: boolean): string {
   return `
     <button class="artwork-option" type="button" data-artwork-id="${escapeHtml(artwork.id)}" data-selected="${String(selected)}" aria-label="Show artwork">
-      <img src="${escapeHtml(artwork.imageUrl)}" alt="${escapeHtml(artwork.name)}" draggable="false" />
+      <img src="${escapeHtml(getArtworkImageUrl(artwork.imageUrl))}" alt="${escapeHtml(artwork.name)}" draggable="false" />
     </button>
   `;
 }
@@ -457,7 +471,7 @@ function renderChallenge(challenge: Challenge | undefined): void {
       const selectedArtwork = artworks.find((artwork) => artwork.id === button.dataset.artworkId);
       if (selectedArtwork && selectedImage) {
         selectedArtworkId = selectedArtwork.id;
-        selectedImage.src = selectedArtwork.imageUrl;
+        selectedImage.src = getArtworkImageUrl(selectedArtwork.imageUrl);
         selectedImage.alt = selectedArtwork.name;
         if (hasValidatedChoice) {
           updateAnswerDetails(selectedArtwork);
