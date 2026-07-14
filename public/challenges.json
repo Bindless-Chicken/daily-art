@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-13T18:40:01.084Z",
+  "generatedAt": "2026-07-14T14:45:48.795Z",
   "challenges": [
     {
       "date": "2026-07-01",
       "number": 1,
-      "title": "Daily Art #1",
+      "title": "Daily Art #1 — Anonymous historical person portrayed",
       "answer": {
         "id": "20026693",
         "name": "Portret van een man",
@@ -24,53 +24,52 @@
       },
       "options": [
         {
-          "id": "20026690",
-          "name": "Portret van François de Vicq (1646-1707)",
-          "timespan": "1670",
-          "artist": "Gerard ter Borch (II)",
+          "id": "20026794",
+          "name": "Portret van een edelman in harnas",
+          "timespan": "1540 - 1560",
+          "artist": "anonymous",
           "material": "oil on canvas",
-          "dimensions": "height 39 cm x width 31.5 cm x depth 3 cm",
-          "exhibitScript": "undefined",
-          "tags": [
-            "https://id.rijksmuseum.nl/22123",
-            "https://id.rijksmuseum.nl/2211662"
-          ],
-          "imageUrl": "https://iiif.micr.io/MVYdt/full/max/0/default.jpg",
-          "origin": {
-            "name": "Rijksmuseum",
-            "url": "https://www.rijksmuseum.nl/"
-          }
-        },
-        {
-          "id": "200636624",
-          "name": "Man met donkere bril",
-          "timespan": "c. 1885",
-          "artist": "Rudolf Martinelli (mentioned on object)",
-          "material": "undefined",
-          "dimensions": "height 0 mm x width 0 mm",
-          "exhibitScript": "undefined",
+          "dimensions": "height 92.5 cm x width 70 cm",
+          "exhibitScript": "Brescian school, attributed to Giovanni Moroni. Portrait of a man in armour, c. 1550. From the Augusteum, Oldenburg. Presented by a group of members of the Vereniging Rembrandt, 1925.",
           "tags": [
             "https://id.rijksmuseum.nl/221382",
-            "https://id.rijksmuseum.nl/22118067"
+            "https://id.rijksmuseum.nl/221217"
           ],
-          "imageUrl": "https://iiif.micr.io/SctDX/full/max/0/default.jpg",
+          "imageUrl": "https://iiif.micr.io/bpdjX/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
           }
         },
         {
-          "id": "200108260",
-          "name": "Portrait of an Old Lady, possibly Elisabeth Bas",
-          "timespan": "c. 1640 - c. 1645",
-          "artist": "attributed to Ferdinand Bol",
-          "material": "oil on canvas",
-          "dimensions": "height 118 cm x width 91.5 cm",
-          "exhibitScript": "This portrait may depict Elisabeth Bas. Like many seafarers’ wives, Bas managed the provisioning of the fleet of her husband, Admiral Jochem Swartenhondt. Together with him, she also ran a distinguished inn, which she continued on her own after his demise. This painting was long attributed to Rembrandt, but it was painted in his style by one of his pupils, Ferdinand Bol.",
+          "id": "20027699",
+          "name": "Portrait of a Woman",
+          "timespan": "1450 - 1470",
+          "artist": "circle of Giovanni Bellini",
+          "material": "oil on panel",
+          "dimensions": "depth 4.2 cm",
+          "exhibitScript": "undefined",
           "tags": [
-            "https://id.rijksmuseum.nl/221578"
+            "https://id.rijksmuseum.nl/221382"
           ],
-          "imageUrl": "https://iiif.micr.io/otwWP/full/max/0/default.jpg",
+          "imageUrl": "https://iiif.micr.io/wFEYq/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20028792",
+          "name": "Portret van een man",
+          "timespan": "1930 - 1940",
+          "artist": "Han van Meegeren",
+          "material": "oil on canvas",
+          "dimensions": "height 28 cm x width 23 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221382"
+          ],
+          "imageUrl": "https://iiif.micr.io/DOJyj/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
@@ -81,7 +80,7 @@
     {
       "date": "2026-07-02",
       "number": 2,
-      "title": "Daily Art #2",
+      "title": "Daily Art #2 — Mother and baby or young child",
       "answer": {
         "id": "20025833",
         "name": "Moeder met kind",
@@ -101,56 +100,59 @@
       },
       "options": [
         {
-          "id": "20027279",
-          "name": "'Vissersvrijage'",
-          "timespan": "1880",
-          "artist": "Albert Neuhuys (1844-1914)",
+          "id": "20028137",
+          "name": "'The Joy of Motherhood'",
+          "timespan": "1890",
+          "artist": "Jozef Israëls",
           "material": "oil on canvas",
-          "dimensions": "height 78 cm x width 59.5 cm",
+          "dimensions": "depth 10 cm",
           "exhibitScript": "undefined",
           "tags": [
-            "https://id.rijksmuseum.nl/2214756"
-          ],
-          "imageUrl": "https://iiif.micr.io/BUuMQ/full/max/0/default.jpg",
-          "origin": {
-            "name": "Rijksmuseum",
-            "url": "https://www.rijksmuseum.nl/"
-          }
-        },
-        {
-          "id": "20058999",
-          "name": "Kakemono familie Cock Blomhoff",
-          "timespan": "1817 - 1825",
-          "artist": "anonymous",
-          "material": "undefined",
-          "dimensions": "height 64 cm x width 43 cm",
-          "exhibitScript": "A Dutch woman on Deshima. Kakimono (wallscroll), c. 1817. Everyday life for the Dutch at the trading post of Deshima was bound by strict rules. For example, no European women were permitted. Nevertheless, one Dutch head, Jan Cock Blomhoff, brought his wife to Japan in 1817. Within a few months the Japanese authorities had sent her home to the Netherlands. There, in 1822, she died without ever having seen her husband again. This rare appearance of a European woman in Japan made an enormous impact. Titia Cock Blomhoff became the subject of numerous Japanese portraits. Here she is shown together with a Javanese servant and a European wet-nurse. The wet-nurse is carrying the woman's son wrapped in a Japanese shawl. The silk painting is pasted on paper.",
-          "tags": [
+            "https://id.rijksmuseum.nl/221202",
+            "https://id.rijksmuseum.nl/221812",
+            "https://id.rijksmuseum.nl/221397",
             "https://id.rijksmuseum.nl/22145",
-            "https://id.rijksmuseum.nl/221848",
-            "https://id.rijksmuseum.nl/221610"
+            "https://id.rijksmuseum.nl/2216441"
           ],
-          "imageUrl": "https://iiif.micr.io/kOmcd/full/max/0/default.jpg",
+          "imageUrl": "https://iiif.micr.io/jVQva/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
           }
         },
         {
-          "id": "20028225",
-          "name": "Groentemarkt",
-          "timespan": "1655 - 1665",
-          "artist": "Nicolaes Maes",
-          "material": "oil on canvas",
-          "dimensions": "depth 8.5 cm",
+          "id": "20025820",
+          "name": "Interior with a Mother Combing her Child’s Hair",
+          "timespan": "1669",
+          "artist": "Caspar Netscher",
+          "material": "oil on panel",
+          "dimensions": "height 44.5 cm x width 38 cm x height 61 cm x width 53.5 cm x thickness 4.7 cm",
+          "exhibitScript": "These two children serve as examples of good and bad upbringing. Toys litter the floor in a dimly lit bedroom. A mother combs the long curls of her son, who obediently leans on her lap. Meanwhile, her daughter mischievously sticks out her tongue in the mirror – is it directed at her reflection or at the maid in the background?",
+          "tags": [
+            "https://id.rijksmuseum.nl/221219",
+            "https://id.rijksmuseum.nl/221220",
+            "https://id.rijksmuseum.nl/22145"
+          ],
+          "imageUrl": "https://iiif.micr.io/keTFT/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20029049",
+          "name": "The Housewife",
+          "timespan": "1800 - 1811",
+          "artist": "Abraham van Strij (I)",
+          "material": "oil on panel",
+          "dimensions": "height 56.5 cm x width 49 cm",
           "exhibitScript": "undefined",
           "tags": [
-            "https://id.rijksmuseum.nl/221677",
-            "https://id.rijksmuseum.nl/221256",
-            "https://id.rijksmuseum.nl/2211112",
-            "https://id.rijksmuseum.nl/2211786"
+            "https://id.rijksmuseum.nl/22143",
+            "https://id.rijksmuseum.nl/22145",
+            "https://id.rijksmuseum.nl/2214953"
           ],
-          "imageUrl": "https://iiif.micr.io/nGnYh/full/max/0/default.jpg",
+          "imageUrl": "https://iiif.micr.io/qrePa/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
@@ -161,7 +163,7 @@
     {
       "date": "2026-07-03",
       "number": 3,
-      "title": "Daily Art #3",
+      "title": "Daily Art #3 — Sailing-ship, sailing-boat",
       "answer": {
         "id": "20027351",
         "name": "Gezicht op Algiers met Michiel Adriaenszoon de Ruyters schip 'De Liefde', 1662",
@@ -182,52 +184,56 @@
       },
       "options": [
         {
-          "id": "20089791",
-          "name": "Johannes de Doper vermaant de Farizeeërs, middenpaneel van een drieluik",
-          "timespan": "1557",
-          "artist": "Jan van Coninxloo (II)",
-          "material": "undefined",
-          "dimensions": "height 208.5 cm x width 201.5 cm x depth 7.5 cm",
-          "exhibitScript": "undefined",
+          "id": "200107959",
+          "name": "The windmill at Wijk bij Duurstede",
+          "timespan": "c. 1668 - c. 1670",
+          "artist": "Jacob Isaacksz van Ruisdael",
+          "material": "oil on canvas",
+          "dimensions": "height 83 cm x width 101 cm",
+          "exhibitScript": "The windmill rises up majestically, defying the dark rain clouds and overshadowing the castle and the church of Wijk bij Duurstede. The River Lek flows in the foreground. This painting is world famous, and rightly so. In this impressive composition, Ruisdael united all the typical Dutch elements – the low-lying land, the water and the expansive sky – manipulating them to converge on the equally characteristic Dutch mill.",
           "tags": [
-            "https://id.rijksmuseum.nl/2216002"
+            "https://id.rijksmuseum.nl/221171",
+            "https://id.rijksmuseum.nl/221132",
+            "https://id.rijksmuseum.nl/221352"
           ],
-          "imageUrl": "https://iiif.micr.io/LrNjD/full/max/0/default.jpg",
+          "imageUrl": "https://iiif.micr.io/XWEFp/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
           }
         },
         {
-          "id": "200372441",
-          "name": "Spaans fregat",
-          "timespan": "1834 - 1893",
-          "artist": "Willem Anthonie van Deventer",
-          "material": "undefined",
-          "dimensions": "height 670 mm x width 850 mm",
+          "id": "20027186",
+          "name": "The Caulking of Ships at the Bothuisje on Het IJ in Amsterdam",
+          "timespan": "1660 - 1668",
+          "artist": "Reinier Nooms",
+          "material": "oil on canvas",
+          "dimensions": "depth 7 cm",
+          "exhibitScript": "Caulking the ships on the IJ at Amsterdam by Reinier Nooms, mid 17th century. Wooden sailing ships needed constant maintenance. They had to be examined after every voyage. To close gaps in the ship's outer planking with pitch and old rope(caulking), the vessel was careened on to its side bringing the hull out of water. Big ships only came into the harbour if they were due for repairs or to be laid up. Otherwise, they would remain out in the open water: in front of the line of posts (left) that protected the city and harbour from the IJ. The cargo was transported to and from the quay in smaller boats.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221132",
+            "https://id.rijksmuseum.nl/2213742"
+          ],
+          "imageUrl": "https://iiif.micr.io/TjGjA/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026301",
+          "name": "Schepen op een onstuimige zee",
+          "timespan": "1826",
+          "artist": "Johannes Christiaan Schotel",
+          "material": "oil on canvas",
+          "dimensions": "depth 14.4 cm",
           "exhibitScript": "undefined",
           "tags": [
-            "https://id.rijksmuseum.nl/221740",
+            "https://id.rijksmuseum.nl/221337",
+            "https://id.rijksmuseum.nl/221541",
             "https://id.rijksmuseum.nl/221132"
           ],
-          "imageUrl": "https://iiif.micr.io/GbXvU/full/max/0/default.jpg",
-          "origin": {
-            "name": "Rijksmuseum",
-            "url": "https://www.rijksmuseum.nl/"
-          }
-        },
-        {
-          "id": "20027918",
-          "name": "Jean Fourmenois",
-          "timespan": "1590",
-          "artist": "Gortzius Geldorp",
-          "material": "oil on panel",
-          "dimensions": "height 96 cm x width 71 cm",
-          "exhibitScript": "undefined",
-          "tags": [
-            "https://id.rijksmuseum.nl/22123"
-          ],
-          "imageUrl": "https://iiif.micr.io/anjkg/full/max/0/default.jpg",
+          "imageUrl": "https://iiif.micr.io/QSgUk/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
@@ -238,7 +244,7 @@
     {
       "date": "2026-07-04",
       "number": 4,
-      "title": "Daily Art #4",
+      "title": "Daily Art #4 — Milking",
       "answer": {
         "id": "20025942",
         "name": "Farmstead with the Gentleman Farmer and his Wife and the Painter in the foreground",
@@ -262,57 +268,61 @@
       },
       "options": [
         {
-          "id": "200107879",
-          "name": "Rich Children, Poor Parents",
-          "timespan": "1599",
-          "artist": "Aert Pietersz.",
+          "id": "20026268",
+          "name": "Cows in a Stable; Witches in the Four Corners",
+          "timespan": "1615",
+          "artist": "Roelant Savery (signed by artist)",
           "material": "oil on panel",
-          "dimensions": "height 61 cm x width 163 cm",
-          "exhibitScript": "The parents have spent all their money on providing their son with a good upbringing. They now turn to him for help, which he flatly refuses because he has to maintain his status. In so doing, he breaks the Fifth\r\nCommandment: ‘Honour your father and your mother.’ But the parents, too, have failed to act according to\r\nthe Bible; had they been more mindful of their money, they would not have become destitute.",
-          "tags": [
-            "https://id.rijksmuseum.nl/221198",
-            "https://id.rijksmuseum.nl/221276",
-            "https://id.rijksmuseum.nl/221277"
-          ],
-          "imageUrl": "https://iiif.micr.io/hFCRi/full/max/0/default.jpg",
-          "origin": {
-            "name": "Rijksmuseum",
-            "url": "https://www.rijksmuseum.nl/"
-          }
-        },
-        {
-          "id": "200578953",
-          "name": "Kolos van Rhodos",
-          "timespan": "1572",
-          "artist": "Philips Galle (mentioned on object)",
-          "material": "undefined",
-          "dimensions": "height 539 mm x width 370 mm",
+          "dimensions": "support: height 30.2 cm x width 30.6 cm",
           "exhibitScript": "undefined",
           "tags": [
-            "https://id.rijksmuseum.nl/221592",
-            "https://id.rijksmuseum.nl/2219152",
-            "https://id.rijksmuseum.nl/2211003"
+            "https://id.rijksmuseum.nl/221630",
+            "https://id.rijksmuseum.nl/2216618",
+            "https://id.rijksmuseum.nl/2213718",
+            "https://id.rijksmuseum.nl/2212280",
+            "https://id.rijksmuseum.nl/221885",
+            "https://id.rijksmuseum.nl/221174",
+            "https://id.rijksmuseum.nl/221130"
           ],
-          "imageUrl": "https://iiif.micr.io/DtwVq/full/max/0/default.jpg",
+          "imageUrl": "https://iiif.micr.io/QhkNA/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
           }
         },
         {
-          "id": "200109331",
-          "name": "Portrait of Hendrik Swaardecroon (Hendrick Zwaardecroon), Governor General of the Dutch East Indies",
-          "timespan": "1723",
-          "artist": "Hendrik van den Bosch (mentioned on object)",
+          "id": "200109267",
+          "name": "Italian Landscape with Girl milking a Goat",
+          "timespan": "1652",
+          "artist": "Karel du Jardin",
           "material": "oil on panel",
-          "dimensions": "height 98.5 cm x width 80.5 cm",
-          "exhibitScript": "The highest-ranking Dutch East India Company (VOC) official in Asia was the governor-general. He presided in the Castle of Batavia (now Jakarta, Indonesia), a fort built by the Dutch. The assembly hall in the Castle of Batavia was the centre of Dutch power in Asia. The walls were hung with portraits of all of the governors-general. Most of the 18th-century examples shown here were painted in Asia, often by anony¬mous artists.",
+          "dimensions": "height 37 cm x width 50 cm",
+          "exhibitScript": "These Italian peasants have risen early to milk the, cattle. A soft yellow mist still hangs in the valley. Du Jardin underscored their simple life by portraying the woman with bare feet. Clad in vibrant blue and red clothes, the two figures stand out brightly against\r\nthe yellow-brown mountain landscape.",
           "tags": [
-            "https://id.rijksmuseum.nl/22123",
-            "https://id.rijksmuseum.nl/221712",
-            "https://id.rijksmuseum.nl/2211131"
+            "https://id.rijksmuseum.nl/221884",
+            "https://id.rijksmuseum.nl/221885",
+            "https://id.rijksmuseum.nl/221205",
+            "https://id.rijksmuseum.nl/22150"
           ],
-          "imageUrl": "https://iiif.micr.io/wKPju/full/max/0/default.jpg",
+          "imageUrl": "https://iiif.micr.io/BUKEU/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027446",
+          "name": "De melkbocht",
+          "timespan": "1870 - 1888",
+          "artist": "Anton Mauve",
+          "material": "oil on canvas",
+          "dimensions": "depth 6.5 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221885",
+            "https://id.rijksmuseum.nl/221130"
+          ],
+          "imageUrl": "https://iiif.micr.io/rycDX/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
@@ -323,20 +333,20 @@
     {
       "date": "2026-07-05",
       "number": 5,
-      "title": "Daily Art #5",
+      "title": "Daily Art #5 — Ambassador",
       "answer": {
-        "id": "20027468",
-        "name": "Old Jewish Woman",
-        "timespan": "1880",
-        "artist": "Meijer Isaäc de Haan",
+        "id": "20027469",
+        "name": "Aernout van Citters (1633-96). Ambassadeur van de Verenigde Nederlanden te Londen",
+        "timespan": "1700 - 1753",
+        "artist": "copy after Gottfried Kneller",
         "material": "oil on canvas",
-        "dimensions": "height 63 cm x width 52 cm",
+        "dimensions": "height 45 cm x width 35 cm",
         "exhibitScript": "undefined",
         "tags": [
-          "https://id.rijksmuseum.nl/221803",
-          "https://id.rijksmuseum.nl/221319"
+          "https://id.rijksmuseum.nl/221476",
+          "https://id.rijksmuseum.nl/22123"
         ],
-        "imageUrl": "https://iiif.micr.io/XeJDC/full/max/0/default.jpg",
+        "imageUrl": "https://iiif.micr.io/LySfk/full/max/0/default.jpg",
         "origin": {
           "name": "Rijksmuseum",
           "url": "https://www.rijksmuseum.nl/"
@@ -344,55 +354,53 @@
       },
       "options": [
         {
-          "id": "20027981",
-          "name": "Petrus Franciscus Greive (1811-72), Painter",
-          "timespan": "1870 - 1895",
-          "artist": "Meijer Isaäc de Haan",
+          "id": "200108036",
+          "name": "Cornelis Calkoen on his Way to his Audience with Sultan Ahmed III",
+          "timespan": "c. 1727 - c. 1730",
+          "artist": "Jean Baptiste Vanmour",
+          "material": "oil on canvas",
+          "dimensions": "height 91.5 cm x width 125 cm",
+          "exhibitScript": "Calkoen’s audience with Sultan Ahmed III took place on 14 September 1727 and followed a strict protocol. Here we see the retinue, unarmed according to convention, enter-ing the second courtyard of Topkapı Palace. Audiences were always held on the day that the Janissaries, the elite fighting force, received their pay. Just as Calkoen enters, the soldiers lunge noisily at the dishes of rice.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221476",
+            "https://id.rijksmuseum.nl/221475"
+          ],
+          "imageUrl": "https://iiif.micr.io/pUqCQ/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20025880",
+          "name": "Portrait of Cornelis Haga (1578-1654)",
+          "timespan": "c. 1645",
+          "artist": "anonymous",
           "material": "oil on panel",
-          "dimensions": "height 14.3 cm x width 11.7 cm",
+          "dimensions": "height 62 cm x width 46.5 cm",
           "exhibitScript": "undefined",
           "tags": [
-            "https://id.rijksmuseum.nl/221328",
-            "https://id.rijksmuseum.nl/221451",
-            "https://id.rijksmuseum.nl/22123"
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221476"
           ],
-          "imageUrl": "https://iiif.micr.io/OEobm/full/max/0/default.jpg",
+          "imageUrl": "https://iiif.micr.io/VfuCW/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
           }
         },
         {
-          "id": "200569091",
-          "name": "Het nieuw vermakelyk spel / Genaamd de Jood",
-          "timespan": "1818 - 1845",
-          "artist": "attributed to Jan Oortman (Sr.)",
-          "material": "undefined",
-          "dimensions": "height 533 mm x width 452 mm",
+          "id": "20026517",
+          "name": "Shepherd with Sheep",
+          "timespan": "1900 - 1945",
+          "artist": "Cornelis Albert van Assendelft (mentioned on object)",
+          "material": "oil on canvas",
+          "dimensions": "height 56.7 cm x width 79.2 cm x thickness 2.9 cm",
           "exhibitScript": "undefined",
           "tags": [
-            "https://id.rijksmuseum.nl/221445",
-            "https://id.rijksmuseum.nl/22114517",
-            "https://id.rijksmuseum.nl/221803",
-            "https://id.rijksmuseum.nl/2216549",
-            "https://id.rijksmuseum.nl/2214686"
+            "https://id.rijksmuseum.nl/221476"
           ],
-          "imageUrl": "https://iiif.micr.io/BGRrf/full/max/0/default.jpg",
-          "origin": {
-            "name": "Rijksmuseum",
-            "url": "https://www.rijksmuseum.nl/"
-          }
-        },
-        {
-          "id": "20026208",
-          "name": "Night",
-          "timespan": "1915",
-          "artist": "Richard Nicolaüs Roland Holst",
-          "material": "undefined",
-          "dimensions": "height 91 cm x width 65 cm",
-          "exhibitScript": "undefined",
-          "tags": [],
-          "imageUrl": "https://iiif.micr.io/qpOCl/full/max/0/default.jpg",
+          "imageUrl": "https://iiif.micr.io/ZTxdl/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
@@ -403,7 +411,7 @@
     {
       "date": "2026-07-06",
       "number": 6,
-      "title": "Daily Art #6",
+      "title": "Daily Art #6 — Pastorals, Arcadian scenes",
       "answer": {
         "id": "200108154",
         "name": "Arcadisch landschap met figuren bij een rivieroever",
@@ -423,55 +431,55 @@
       },
       "options": [
         {
-          "id": "200108151",
-          "name": "Arcadisch landschap met linksvoor kinderen met een vogel en een hond",
-          "timespan": "1771",
-          "artist": "Jurriaan Andriessen",
-          "material": "oil on canvas",
-          "dimensions": "height 325 cm x width 248 cm",
-          "exhibitScript": "undefined",
-          "tags": [
-            "https://id.rijksmuseum.nl/221670"
-          ],
-          "imageUrl": "https://iiif.micr.io/wtuTZ/full/max/0/default.jpg",
-          "origin": {
-            "name": "Rijksmuseum",
-            "url": "https://www.rijksmuseum.nl/"
-          }
-        },
-        {
-          "id": "200213076",
-          "name": "Twee figuren bij een tombe omgeven door grote planten en andere begroeiing",
-          "timespan": "c. 1801",
-          "artist": "Carl Wilhelm Kolbe (I) (mentioned on object)",
-          "material": "undefined",
-          "dimensions": "height 406 mm x width 526 mm",
+          "id": "200109485",
+          "name": "\"Shepherds and Shepherdesses in a Landscape",
+          "timespan": "1735",
+          "artist": "Hieronymus van der Mij",
+          "material": "oil on panel",
+          "dimensions": "height 59 cm x width 69.5 cm",
           "exhibitScript": "undefined",
           "tags": [
             "https://id.rijksmuseum.nl/221670",
-            "https://id.rijksmuseum.nl/2213138",
-            "https://id.rijksmuseum.nl/22118661"
+            "https://id.rijksmuseum.nl/221174"
           ],
-          "imageUrl": "https://iiif.micr.io/fWoII/full/max/0/default.jpg",
+          "imageUrl": "https://iiif.micr.io/XRHMS/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
           }
         },
         {
-          "id": "200108404",
-          "name": "Shipwreck off a Rocky Coast",
-          "timespan": "1614",
-          "artist": "Adam Willaerts (signed by artist)",
-          "material": "oil on panel",
-          "dimensions": "support: height 64.5 cm x width 85.2 cm (oval)",
-          "exhibitScript": "Those who went to sea played roulette with their lives. The wooden ships were small and fragile, and the very real dangers were exaggerated with horror stories of hideous creatures living in the unfathomable depths. Willaerts created an image of every seaman’s worst nightmare. One ship has been dashed on the rocks, and the other two are heeling over. The survivors at centre are threatened by a monstrous fish.",
+          "id": "20027938",
+          "name": "Arcadian Landscape with Diana Bathing",
+          "timespan": "1680 - 1726",
+          "artist": "Johannes Glauber",
+          "material": "oil on canvas",
+          "dimensions": "depth 6 cm",
+          "exhibitScript": "undefined",
           "tags": [
-            "https://id.rijksmuseum.nl/221234",
-            "https://id.rijksmuseum.nl/221656",
-            "https://id.rijksmuseum.nl/221541"
+            "https://id.rijksmuseum.nl/221670",
+            "https://id.rijksmuseum.nl/2213361"
           ],
-          "imageUrl": "https://iiif.micr.io/BMwns/full/max/0/default.jpg",
+          "imageUrl": "https://iiif.micr.io/HaOzL/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026025",
+          "name": "Arcadisch landschap",
+          "timespan": "1813",
+          "artist": "Jan Willem Pieneman",
+          "material": "oil on canvas",
+          "dimensions": "depth 7 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221670",
+            "https://id.rijksmuseum.nl/221292",
+            "https://id.rijksmuseum.nl/221346"
+          ],
+          "imageUrl": "https://iiif.micr.io/WkNwM/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
@@ -482,20 +490,19 @@
     {
       "date": "2026-07-07",
       "number": 7,
-      "title": "Daily Art #7",
+      "title": "Daily Art #7 — Historical persons",
       "answer": {
-        "id": "200108470",
-        "name": "Maria met kind",
-        "timespan": "c. 1525 - c. 1530",
-        "artist": "workshop of Quinten Massijs (I)",
-        "material": "oil on panel",
-        "dimensions": "support: height 75.4 cm x width 62.9 cm",
+        "id": "200108471",
+        "name": "Portret van Willem I (1533-84), prins van Oranje, genaamd Willem de Zwijger",
+        "timespan": "c. 1632",
+        "artist": "workshop of Michiel Jansz van Mierevelt",
+        "material": "oil on canvas",
+        "dimensions": "support: height 112.5 cm x width 88.5 cm",
         "exhibitScript": "undefined",
         "tags": [
-          "https://id.rijksmuseum.nl/22123559",
-          "https://id.rijksmuseum.nl/2211152"
+          "https://id.rijksmuseum.nl/22123"
         ],
-        "imageUrl": "https://iiif.micr.io/SxcMf/full/max/0/default.jpg",
+        "imageUrl": "https://iiif.micr.io/mLASi/full/max/0/default.jpg",
         "origin": {
           "name": "Rijksmuseum",
           "url": "https://www.rijksmuseum.nl/"
@@ -503,54 +510,64 @@
       },
       "options": [
         {
-          "id": "200107815",
-          "name": "Triptych with the Virgin and Child, and Saints Mary Magdalene and Ansanus",
-          "timespan": "1350",
-          "artist": "Andrea di Cione named Orcagna",
-          "material": "tempera on panel",
-          "dimensions": "height 82 cm x width 24.5 cm",
-          "exhibitScript": "Orcagna was the leading Florentine painter of the mid-14th century. This altarpiece, which has survived almost intact, was commissioned in 1350 by a promi-nent citizen for a side-altar in a church. The depiction of the figures of the Virgin and Child and two saints reflects the rather stiff, hieratical style of the period. The frame is reminiscent of Gothic architecture.",
-          "tags": [
-            "https://id.rijksmuseum.nl/221237",
-            "https://id.rijksmuseum.nl/221236",
-            "https://id.rijksmuseum.nl/221238"
-          ],
-          "imageUrl": "https://iiif.micr.io/QtBeY/full/max/0/default.jpg",
-          "origin": {
-            "name": "Rijksmuseum",
-            "url": "https://www.rijksmuseum.nl/"
-          }
-        },
-        {
-          "id": "200253144",
-          "name": "Madonna met kind",
-          "timespan": "1618 - 1655",
-          "artist": "Cornelis Schut (I) (mentioned on object)",
-          "material": "undefined",
-          "dimensions": "height 146 mm x width 96 mm",
-          "exhibitScript": "undefined",
-          "tags": [
-            "https://id.rijksmuseum.nl/2211152"
-          ],
-          "imageUrl": "https://iiif.micr.io/aUSvE/full/max/0/default.jpg",
-          "origin": {
-            "name": "Rijksmuseum",
-            "url": "https://www.rijksmuseum.nl/"
-          }
-        },
-        {
-          "id": "20026702",
-          "name": "Madonna met slapend kind",
-          "timespan": "1540 - 1560",
-          "artist": "Paris Bordone",
+          "id": "200109346",
+          "name": "Portrait of a Couple in a Landscape, probably Isaac Abrahamsz Massa (1586-1643) and Beatrix van der Laen (1592-1639)",
+          "timespan": "c. 1622",
+          "artist": "Frans Hals",
           "material": "oil on canvas",
-          "dimensions": "height 69.5 cm x width 83.2 cm x thickness 3.5 cm",
-          "exhibitScript": "undefined",
+          "dimensions": "support: height 140 cm x width 166.5 cm",
+          "exhibitScript": "It was rare for a married couple to be portrayed lifesize and together in a single painting, and even more so in such an intimate and joyful manner. The patron would have had to have been receptive to such innovation. The close friendship between Hals and the newlywed couple, presumably Isaac Abrahamsz Massa and Beatrix van der Laen, likely played a crucial role in facilitating the creation of this audacious portrait.",
           "tags": [
-            "https://id.rijksmuseum.nl/2211152",
-            "https://id.rijksmuseum.nl/221136"
+            "https://id.rijksmuseum.nl/221930",
+            "https://id.rijksmuseum.nl/221317",
+            "https://id.rijksmuseum.nl/221221",
+            "https://id.rijksmuseum.nl/221177",
+            "https://id.rijksmuseum.nl/221173",
+            "https://id.rijksmuseum.nl/221205",
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221931"
           ],
-          "imageUrl": "https://iiif.micr.io/rZcax/full/max/0/default.jpg",
+          "imageUrl": "https://iiif.micr.io/ZrjcE/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107876",
+          "name": "Giuliano & Francesco Giamberti da Sangallo Piero di Cosimo (1462–1522)",
+          "timespan": "1482 - 1485",
+          "artist": "Piero di Cosimo",
+          "material": "oil on panel",
+          "dimensions": "height 47.5 cm x width 33.5 cm",
+          "exhibitScript": "In these pendant portraits, the Florentine architect Giuliano da Sangallo is portrayed with his recently deceased father Francesco, who was a musician as well as an architect. These two panels are among the earliest examples of portraits in which the sitter’s vocation is central. The quill and compass denote architecture, the sheet of notes refers to music: both arts are based on harmony and proportion.",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221264",
+            "https://id.rijksmuseum.nl/221205",
+            "https://id.rijksmuseum.nl/221266",
+            "https://id.rijksmuseum.nl/221265"
+          ],
+          "imageUrl": "https://iiif.micr.io/RXrQw/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200109794",
+          "name": "Self Portrait",
+          "timespan": "1887",
+          "artist": "Vincent van Gogh",
+          "material": "undefined",
+          "dimensions": "depth 8 cm",
+          "exhibitScript": "Vincent moved to Paris in 1886, after hearing from his brother Theo about the new, colourful style of French painting. Wasting no time, he tried it out in several self-portraits. He did this mostly to avoid having to pay for a model. Using rhythmic brushstrokes in striking colours, he portrayed himself here as a fashionably dressed Parisian.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221328",
+            "https://id.rijksmuseum.nl/221451",
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/vjYfT/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
@@ -561,19 +578,20 @@
     {
       "date": "2026-07-08",
       "number": 8,
-      "title": "Daily Art #8",
+      "title": "Daily Art #8 — Anchorite, hermit",
       "answer": {
-        "id": "20028237",
-        "name": "Landscape with Saint Bruno ?",
-        "timespan": "1700 - 1749",
-        "artist": "Alessandro Magnasco",
+        "id": "20028238",
+        "name": "Landscape with Hermit, Pilgrim and Peasant Woman",
+        "timespan": "1690 - 1740",
+        "artist": "attributed to Antonio Francesco Peruzzini",
         "material": "oil on canvas",
-        "dimensions": "depth 4.8 cm",
+        "dimensions": "height 139 cm x width 110.2 cm x thickness 4.2 cm",
         "exhibitScript": "undefined",
         "tags": [
-          "https://id.rijksmuseum.nl/2211900"
+          "https://id.rijksmuseum.nl/221292",
+          "https://id.rijksmuseum.nl/2213621"
         ],
-        "imageUrl": "https://iiif.micr.io/CHsNt/full/max/0/default.jpg",
+        "imageUrl": "https://iiif.micr.io/cOIAp/full/max/0/default.jpg",
         "origin": {
           "name": "Rijksmuseum",
           "url": "https://www.rijksmuseum.nl/"
@@ -581,52 +599,51 @@
       },
       "options": [
         {
-          "id": "20028236",
-          "name": "The Raising of Lazarus",
-          "timespan": "1715 - 1740",
-          "artist": "Alessandro Magnasco",
-          "material": "oil on canvas",
-          "dimensions": "depth 6.7 cm",
-          "exhibitScript": "Alessandro Magnasco (1667 - 1749). The Raising of Lazarus, c. 1725. On loan from the Mauritshuis, The Hague, 1948.",
-          "tags": [
-            "https://id.rijksmuseum.nl/2211546"
-          ],
-          "imageUrl": "https://iiif.micr.io/uUJBE/full/max/0/default.jpg",
-          "origin": {
-            "name": "Rijksmuseum",
-            "url": "https://www.rijksmuseum.nl/"
-          }
-        },
-        {
-          "id": "200170925",
-          "name": "Heilige Bruno ontvangt een boodschap van paus Urbanus II",
-          "timespan": "1647 - 1714",
-          "artist": "Sébastien Leclerc (I)",
-          "material": "undefined",
-          "dimensions": "height 329 mm x width 211 mm",
+          "id": "20027806",
+          "name": "A Hermitin Prayer",
+          "timespan": "c. 1662 - c. 1665",
+          "artist": "Gerrit Dou",
+          "material": "oil on panel",
+          "dimensions": "frame: depth 5.5 cm",
           "exhibitScript": "undefined",
           "tags": [
-            "https://id.rijksmuseum.nl/2211900"
+            "https://id.rijksmuseum.nl/2213621"
           ],
-          "imageUrl": "https://iiif.micr.io/UKBqc/full/max/0/default.jpg",
+          "imageUrl": "https://iiif.micr.io/KfgBh/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
           }
         },
         {
-          "id": "200109352",
-          "name": "The Rapenburg, Leiden, Three Days after the Explosion of a Powder Ship on 12 January 1807",
-          "timespan": "1807",
-          "artist": "Carel Lodewijk Hansen (signed by artist)",
-          "material": "oil on canvas",
-          "dimensions": "height 94.5 cm x width 125.5 cm",
-          "exhibitScript": "On 12 January 1807 a ship laden with 37,000 pounds of gunpowder exploded in the centre of Leiden. It was a national disaster: 150 people died and many houses were destroyed. King Louis Napoleon, shown at left among Leiden city officials, acted like a true father to his subjects. Three days after the explosion, he visited the scene and organized financial help. This made him very popular with the Dutch.",
+          "id": "20027802",
+          "name": "A Hermit",
+          "timespan": "1664",
+          "artist": "Gerrit Dou",
+          "material": "oil on panel",
+          "dimensions": "frame: depth 4.1 cm",
+          "exhibitScript": "undefined",
           "tags": [
-            "https://id.rijksmuseum.nl/221936",
-            "https://id.rijksmuseum.nl/221391"
+            "https://id.rijksmuseum.nl/2213621"
           ],
-          "imageUrl": "https://iiif.micr.io/TUOMX/full/max/0/default.jpg",
+          "imageUrl": "https://iiif.micr.io/VyeUF/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20028349",
+          "name": "The Hermit",
+          "timespan": "1721",
+          "artist": "Frans van Mieris (II)",
+          "material": "oil on panel",
+          "dimensions": "height 16 cm x width 14 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2213621"
+          ],
+          "imageUrl": "https://iiif.micr.io/WExBM/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
@@ -637,17 +654,21 @@
     {
       "date": "2026-07-09",
       "number": 9,
-      "title": "Daily Art #9",
+      "title": "Daily Art #9 — Christ alone (also called 'Ecce Homo')",
       "answer": {
-        "id": "200110540",
-        "name": "Portrait of Cornelis Matelieff the Younger, Director of the Rotterdam Chamber of the Dutch East India Company, elected 1602",
-        "timespan": "1695 - 1722",
-        "artist": "Pieter van der Werff",
-        "material": "oil on canvas",
-        "dimensions": "height 82 cm x width 68 cm",
+        "id": "200110637",
+        "name": "Ecce Homo",
+        "timespan": "c. 1520",
+        "artist": "anonymous",
+        "material": "oil on panel",
+        "dimensions": "support: height 60 cm x width 45 cm",
         "exhibitScript": "undefined",
-        "tags": [],
-        "imageUrl": "https://iiif.micr.io/pQRlY/full/max/0/default.jpg",
+        "tags": [
+          "https://id.rijksmuseum.nl/2212276",
+          "https://id.rijksmuseum.nl/2212257",
+          "https://id.rijksmuseum.nl/221423"
+        ],
+        "imageUrl": "https://iiif.micr.io/tmPoJ/full/max/0/default.jpg",
         "origin": {
           "name": "Rijksmuseum",
           "url": "https://www.rijksmuseum.nl/"
@@ -655,51 +676,52 @@
       },
       "options": [
         {
-          "id": "20026948",
-          "name": "The Infant Hercules with a Serpent",
-          "timespan": "1700 - 1722",
-          "artist": "Pieter van der Werff",
+          "id": "200108285",
+          "name": "Ecce Homo",
+          "timespan": "c. 1530 - c. 1550",
+          "artist": "copy after Jheronimus Bosch",
           "material": "oil on panel",
-          "dimensions": "height 34.5 cm x width 43 cm",
+          "dimensions": "support: height 73 cm x width 54.5 cm",
           "exhibitScript": "undefined",
           "tags": [
-            "https://id.rijksmuseum.nl/2212162"
+            "https://id.rijksmuseum.nl/221423"
           ],
-          "imageUrl": "https://iiif.micr.io/YJJGe/full/max/0/default.jpg",
+          "imageUrl": "https://iiif.micr.io/Kuwwh/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
           }
         },
         {
-          "id": "200109786",
-          "name": "The Summer",
-          "timespan": "1740",
-          "artist": "Jacob de Wit (signed by artist)",
-          "material": "oil on canvas",
-          "dimensions": "height 109 cm x width 110.5 cm",
-          "exhibitScript": "The provenance of this overdoor is the same as that of Autumn and Winter, also on view in this gallery. Unfortunately, Spring has not come down to us, but it was probably round, like Winter. As in the other overdoors, three putti play with various attributes. The scythe, the cornstalks and the harvested fruit allude to summer.",
-          "tags": [
-            "https://id.rijksmuseum.nl/221705",
-            "https://id.rijksmuseum.nl/2211072",
-            "https://id.rijksmuseum.nl/2211078"
-          ],
-          "imageUrl": "https://iiif.micr.io/xovXT/full/max/0/default.jpg",
-          "origin": {
-            "name": "Rijksmuseum",
-            "url": "https://www.rijksmuseum.nl/"
-          }
-        },
-        {
-          "id": "200110515",
-          "name": "Portrait of a Woman",
-          "timespan": "1548",
-          "artist": "Catharina van Hemessen",
+          "id": "20027676",
+          "name": "Marketplace, with the Flagellation, the Ecce Homo and the Bearing of the Cross in the background",
+          "timespan": "1550 - 1590",
+          "artist": "copy after Joachim Bueckelaer",
           "material": "oil on panel",
-          "dimensions": "height 34.7 cm x width 27 cm x depth 2.5 cm",
-          "exhibitScript": "The self-assured Catharina van Hemessen signed and dated this portrait of an unknown woman. In large gilt letters, she inscribed in Latin ‘Catherina de Hemessen pinxit 1548,’ which translates as ‘Catharina van Hemessen painted this in 1548.’ Van Hemessen is the first Southern Netherlandish female painter by whom signed and dated works are known. This portrait is likely one of her earliest pieces.",
-          "tags": [],
-          "imageUrl": "https://iiif.micr.io/gtsVg/full/max/0/default.jpg",
+          "dimensions": "weight 32 kg",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221423",
+            "https://id.rijksmuseum.nl/221544"
+          ],
+          "imageUrl": "https://iiif.micr.io/QoSDY/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108475",
+          "name": "Ecce homo",
+          "timespan": "1800 - 1857",
+          "artist": "copy after Peter Paul Rubens",
+          "material": "oil on panel",
+          "dimensions": "height 125 cm x width 95 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221423"
+          ],
+          "imageUrl": "https://iiif.micr.io/ZgRBT/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
@@ -710,7 +732,7 @@
     {
       "date": "2026-07-10",
       "number": 10,
-      "title": "Daily Art #10",
+      "title": "Daily Art #10 — Historical persons",
       "answer": {
         "id": "20027851",
         "name": "Portrait of Reijnier Ottsz Hinlopen (1608/09-1653)",
@@ -730,58 +752,58 @@
       },
       "options": [
         {
-          "id": "20015959",
-          "name": "The Battle of the Sound with the Eendracht Engaging Two Swedish Warships, 1658",
-          "timespan": "c. 1670",
-          "artist": "anonymous",
+          "id": "200109367",
+          "name": "Gerard Andriesz Bicker (1622-66), Lord of Engelenburg. High Bailiff of Muiden",
+          "timespan": "c. 1642",
+          "artist": "Bartholomeus van der Helst",
           "material": "oil on panel",
-          "dimensions": "support: height 70.4 cm x width 107.5 cm",
-          "exhibitScript": "undefined",
+          "dimensions": "height 94 cm x width 70.5 cm",
+          "exhibitScript": "Like his father, the twenty-year-old Gerard Bicker is portrayed as self-assured, his arm akimbo. The striking differences in the garments worn by father and son confirm that they are from different generations. While his father Andries is dressed in dignified black clothing with an old-fashioned ruff, Gerard wears a colourful and showy outfit with a flat collar and elegant gloves. Gerard was not awarded as many key administrative positions in Amsterdam.",
           "tags": [
-            "https://id.rijksmuseum.nl/2219611"
-          ],
-          "imageUrl": "https://iiif.micr.io/zLYYj/full/max/0/default.jpg",
-          "origin": {
-            "name": "Rijksmuseum",
-            "url": "https://www.rijksmuseum.nl/"
-          }
-        },
-        {
-          "id": "200158415",
-          "name": "Portret van Johann Christoph Richter",
-          "timespan": "1739",
-          "artist": "Johann Martin Bernigeroth (mentioned on object)",
-          "material": "undefined",
-          "dimensions": "height 358 mm x width 222 mm",
-          "exhibitScript": "undefined",
-          "tags": [
-            "https://id.rijksmuseum.nl/2211470",
-            "https://id.rijksmuseum.nl/22134",
-            "https://id.rijksmuseum.nl/22112445",
-            "https://id.rijksmuseum.nl/22123",
-            "https://id.rijksmuseum.nl/22189"
-          ],
-          "imageUrl": "https://iiif.micr.io/OTpOV/full/max/0/default.jpg",
-          "origin": {
-            "name": "Rijksmuseum",
-            "url": "https://www.rijksmuseum.nl/"
-          }
-        },
-        {
-          "id": "200109419",
-          "name": "Portrait of a Man. On the Verso a Putto Blowing Bubbles",
-          "timespan": "1574",
-          "artist": "Cornelis Ketel",
-          "material": "oil on panel",
-          "dimensions": "height 50.3 cm x diameter 48.6 cm",
-          "exhibitScript": "The sitter, Adam Wachendorff, can be identified from the family coat of arms on his watch case. He was the secretary of the London offices of the Hanseatic League, a trading alliance of European cities. The Greek inscription on the original frame (‘Man is a soap bubble’) and the naked youth blowing bubbles on the reverse allude to the transience of human life.",
-          "tags": [
-            "https://id.rijksmuseum.nl/221979",
-            "https://id.rijksmuseum.nl/221195",
-            "https://id.rijksmuseum.nl/221553",
+            "https://id.rijksmuseum.nl/221175",
             "https://id.rijksmuseum.nl/22123"
           ],
-          "imageUrl": "https://iiif.micr.io/bUOqf/full/max/0/default.jpg",
+          "imageUrl": "https://iiif.micr.io/Qhoba/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107876",
+          "name": "Giuliano & Francesco Giamberti da Sangallo Piero di Cosimo (1462–1522)",
+          "timespan": "1482 - 1485",
+          "artist": "Piero di Cosimo",
+          "material": "oil on panel",
+          "dimensions": "height 47.5 cm x width 33.5 cm",
+          "exhibitScript": "In these pendant portraits, the Florentine architect Giuliano da Sangallo is portrayed with his recently deceased father Francesco, who was a musician as well as an architect. These two panels are among the earliest examples of portraits in which the sitter’s vocation is central. The quill and compass denote architecture, the sheet of notes refers to music: both arts are based on harmony and proportion.",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221264",
+            "https://id.rijksmuseum.nl/221205",
+            "https://id.rijksmuseum.nl/221266",
+            "https://id.rijksmuseum.nl/221265"
+          ],
+          "imageUrl": "https://iiif.micr.io/RXrQw/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200109794",
+          "name": "Self Portrait",
+          "timespan": "1887",
+          "artist": "Vincent van Gogh",
+          "material": "undefined",
+          "dimensions": "depth 8 cm",
+          "exhibitScript": "Vincent moved to Paris in 1886, after hearing from his brother Theo about the new, colourful style of French painting. Wasting no time, he tried it out in several self-portraits. He did this mostly to avoid having to pay for a model. Using rhythmic brushstrokes in striking colours, he portrayed himself here as a fashionably dressed Parisian.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221328",
+            "https://id.rijksmuseum.nl/221451",
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/vjYfT/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
@@ -792,7 +814,7 @@
     {
       "date": "2026-07-11",
       "number": 11,
-      "title": "Daily Art #11",
+      "title": "Daily Art #11 — Forest path or lane",
       "answer": {
         "id": "20026632",
         "name": "Bosgezicht",
@@ -812,53 +834,55 @@
       },
       "options": [
         {
-          "id": "200108157",
-          "name": "Arcadisch landschap met reizigers",
-          "timespan": "1771",
-          "artist": "Jurriaan Andriessen",
+          "id": "20026635",
+          "name": "Avenue of Oaks in Late Summer",
+          "timespan": "1880 - 1900",
+          "artist": "Maria Bilders-van Bosse",
           "material": "oil on canvas",
-          "dimensions": "height 325 cm x width 263 cm",
-          "exhibitScript": "undefined",
+          "dimensions": "height 54 cm x width 76 cm",
+          "exhibitScript": "Marie Bilders-van Bosse likely painted this picture in the vicinity of Oosterbeek, where she moved after her marriage. She was a member of the Hague School, a group of painters who focussed on capturing the atmosphere and light of nature. In this painting, three full-grown trees dominate the composition. It is only upon closer inspection that one notices the countrylane and the figure of a woman.",
           "tags": [
-            "https://id.rijksmuseum.nl/221670"
+            "https://id.rijksmuseum.nl/2213648",
+            "https://id.rijksmuseum.nl/2214401"
           ],
-          "imageUrl": "https://iiif.micr.io/JQfYD/full/max/0/default.jpg",
+          "imageUrl": "https://iiif.micr.io/saieo/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
           }
         },
         {
-          "id": "200250804",
-          "name": "Vrouw en kind op een pad tussen twee kleine heuvels",
-          "timespan": "1855 - 1904",
-          "artist": "Arnoud Schaepkens",
-          "material": "undefined",
-          "dimensions": "height 88 mm x width 180 mm",
-          "exhibitScript": "undefined",
+          "id": "200109295",
+          "name": "Landscape",
+          "timespan": "c. 1633",
+          "artist": "Jacob Jacobsz van Geel (signed by artist)",
+          "material": "oil on panel",
+          "dimensions": "support: height 49 cm x width 73.9 cm",
+          "exhibitScript": "In a forest with majestic giant trees, a few tiny figures can be seen conversing. Their insignificance makes the trees, with their fanciful shapes and eccentric foliage, seem even larger. Van Geel stands apart from most Dutch landscape painters. He was not interested in realistic landscapes, but preferred imaginary ones.",
           "tags": [
+            "https://id.rijksmuseum.nl/221346",
             "https://id.rijksmuseum.nl/2214401",
-            "https://id.rijksmuseum.nl/2211209"
+            "https://id.rijksmuseum.nl/221123"
           ],
-          "imageUrl": "https://iiif.micr.io/hXVjA/full/max/0/default.jpg",
+          "imageUrl": "https://iiif.micr.io/UhmLb/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
           }
         },
         {
-          "id": "20027613",
-          "name": "The Forest of Fontainebleau",
-          "timespan": "1871",
-          "artist": "Narcisse Virgile Diaz de la Peña",
+          "id": "20027569",
+          "name": "Bos met berkebomen",
+          "timespan": "1875 - 1910",
+          "artist": "Alphonse Stengelin",
           "material": "oil on canvas",
-          "dimensions": "height 50.5 cm x width 63.5 cm",
+          "dimensions": "depth 5.3 cm",
           "exhibitScript": "undefined",
           "tags": [
-            "https://id.rijksmuseum.nl/2211353",
-            "https://id.rijksmuseum.nl/221346"
+            "https://id.rijksmuseum.nl/2215275",
+            "https://id.rijksmuseum.nl/2214401"
           ],
-          "imageUrl": "https://iiif.micr.io/smcAr/full/max/0/default.jpg",
+          "imageUrl": "https://iiif.micr.io/WooLB/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
@@ -869,7 +893,7 @@
     {
       "date": "2026-07-12",
       "number": 12,
-      "title": "Daily Art #12",
+      "title": "Daily Art #12 — Madonna: Mary standing (or half-length), Christ-child close to her bosom",
       "answer": {
         "id": "20026214",
         "name": "Maria met kind",
@@ -889,56 +913,51 @@
       },
       "options": [
         {
-          "id": "200415342",
-          "name": "Panel of a polyptych with the seven works of charity: feeding the hungry",
-          "timespan": "1504",
-          "artist": "Master of Alkmaar",
-          "material": "oil on panel",
-          "dimensions": "support: height 103.5 cm x width 55 cm",
-          "exhibitScript": "A Dutch city is the backdrop to this narrative that shows how a good Christian should help those in need. Christ stands among the spectators in almost every panel. The scenes give an impression of urban society around 1500. The work was badly damaged during the Iconoclasm of 1566, when Roman Catholic churches were vandalized by Protestants.",
+          "id": "20028311",
+          "name": "Virgin and Child",
+          "timespan": "1460 - 1480",
+          "artist": "attributed to Meester van San Miniato",
+          "material": "tempera on panel",
+          "dimensions": "depth 12 cm",
+          "exhibitScript": "undefined",
           "tags": [
-            "https://id.rijksmuseum.nl/221433",
-            "https://id.rijksmuseum.nl/2212713",
-            "https://id.rijksmuseum.nl/221619"
+            "https://id.rijksmuseum.nl/2211025"
           ],
-          "imageUrl": "https://iiif.micr.io/cYAVd/full/max/0/default.jpg",
+          "imageUrl": "https://iiif.micr.io/HKYhe/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
           }
         },
         {
-          "id": "20027023",
-          "name": "Virgin and Child (Madonna Lactans)",
-          "timespan": "c. 1500",
-          "artist": "anonymous",
-          "material": "oil on panel",
-          "dimensions": "depth 6.5 cm",
-          "exhibitScript": "undefined",
+          "id": "200109467",
+          "name": "Madonna and Child",
+          "timespan": "c. 1300",
+          "artist": "Meester van Badia a Isola",
+          "material": "tempera on panel",
+          "dimensions": "height 40 cm x width 41 cm",
+          "exhibitScript": "The style of the Master of Badia a Isola is closely related to that of Duccio, the founder of the Sienese school of painting. This Virgin is a variation on a prototype by Duccio. Although the bottom of the panel has been cut off, it is still an excellent example of the refined linear\r\nstyle that Duccio passed on to his followers in Siena.",
           "tags": [
-            "https://id.rijksmuseum.nl/2211025",
-            "https://id.rijksmuseum.nl/2216423"
+            "https://id.rijksmuseum.nl/2211025"
           ],
-          "imageUrl": "https://iiif.micr.io/exvgE/full/max/0/default.jpg",
+          "imageUrl": "https://iiif.micr.io/OmERn/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
           }
         },
         {
-          "id": "20026061",
-          "name": "Holy Family with Saint Catherine",
-          "timespan": "1525",
-          "artist": "attributed to Francesco Torbido",
-          "material": "oil on canvas",
-          "dimensions": "depth 12.5 cm",
+          "id": "20027905",
+          "name": "Madonna and Child",
+          "timespan": "1515 - 1540",
+          "artist": "Garofalo",
+          "material": "oil on panel",
+          "dimensions": "depth 6 cm",
           "exhibitScript": "undefined",
           "tags": [
-            "https://id.rijksmuseum.nl/2211015",
-            "https://id.rijksmuseum.nl/2212818",
-            "https://id.rijksmuseum.nl/2211902"
+            "https://id.rijksmuseum.nl/2211025"
           ],
-          "imageUrl": "https://iiif.micr.io/RAbEx/full/max/0/default.jpg",
+          "imageUrl": "https://iiif.micr.io/MYbdB/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
@@ -949,7 +968,7 @@
     {
       "date": "2026-07-13",
       "number": 13,
-      "title": "Daily Art #13",
+      "title": "Daily Art #13 — Portrait, self-portrait of painter",
       "answer": {
         "id": "20027760",
         "name": "Johannes Bosboom (1817-91), Painter",
@@ -970,52 +989,137 @@
       },
       "options": [
         {
-          "id": "200110483",
-          "name": "Hoofd van een jonge vrouw",
-          "timespan": "1756",
-          "artist": "Frans van der Mijn (signed by artist)",
-          "material": "oil on canvas",
-          "dimensions": "height 53.5 cm x width 42.2 cm",
-          "exhibitScript": "Frans van der Mijn was just a child when he moved with his father Herman to London, where he would make a career for himself. This painting is not a portrait, but an idealized, imaginary rendering of a young woman. The use of brown, grey and white tones imitates graphic art. With this painterly device, Van der Mijn showed off his artistic skills.",
-          "tags": [
-            "https://id.rijksmuseum.nl/2211146",
-            "https://id.rijksmuseum.nl/2219674",
-            "https://id.rijksmuseum.nl/221178"
-          ],
-          "imageUrl": "https://iiif.micr.io/UpzkO/full/max/0/default.jpg",
-          "origin": {
-            "name": "Rijksmuseum",
-            "url": "https://www.rijksmuseum.nl/"
-          }
-        },
-        {
-          "id": "200415678",
-          "name": "Zelfportret",
-          "timespan": "1942",
-          "artist": "Nicolaas Wijnberg (signed by artist)",
+          "id": "200109794",
+          "name": "Self Portrait",
+          "timespan": "1887",
+          "artist": "Vincent van Gogh",
           "material": "undefined",
-          "dimensions": "height 365 mm x width 315 mm",
-          "exhibitScript": "undefined",
+          "dimensions": "depth 8 cm",
+          "exhibitScript": "Vincent moved to Paris in 1886, after hearing from his brother Theo about the new, colourful style of French painting. Wasting no time, he tried it out in several self-portraits. He did this mostly to avoid having to pay for a model. Using rhythmic brushstrokes in striking colours, he portrayed himself here as a fashionably dressed Parisian.",
           "tags": [
+            "https://id.rijksmuseum.nl/221328",
             "https://id.rijksmuseum.nl/221451",
             "https://id.rijksmuseum.nl/22123"
           ],
-          "imageUrl": "https://iiif.micr.io/FYbSc/full/max/0/default.jpg",
+          "imageUrl": "https://iiif.micr.io/vjYfT/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
           }
         },
         {
-          "id": "200110563",
-          "name": "Jacob Dane (ca 1638-99), gekozen in 1689",
-          "timespan": "1700",
-          "artist": "Pieter van der Werff",
+          "id": "200107952",
+          "name": "Self Portrait as the Apostle Paul",
+          "timespan": "1661",
+          "artist": "Rembrandt van Rijn",
           "material": "oil on canvas",
-          "dimensions": "height 82 cm x width 68 cm",
+          "dimensions": "height 91 cm x width 77 cm",
+          "exhibitScript": "Rembrandt is 55 years old in this self-portrait, and he still looks at himself candidly. Here he assumes the guise of a personage from the Bible, the Apostle Paul. The sword protruding from his cloak and the manuscript in his hands are the apostle’s customary attributes. By using his own face, Rembrandt encouraged the viewer to engage personally with the saint.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221328",
+            "https://id.rijksmuseum.nl/221341"
+          ],
+          "imageUrl": "https://iiif.micr.io/wqcDn/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107981",
+          "name": "Portrait of Lizzy Ansingh (1875-1959)",
+          "timespan": "1902",
+          "artist": "Thérèse Schwartze",
+          "material": "oil on canvas",
+          "dimensions": "height 78 cm x width 62 cm",
+          "exhibitScript": "Thérèse Schwartze was the most sought-after portraitist of Dutch 19th-century high society. Yet the portraits she painted of those closest to her were her favourites. This likeness of her niece and fellow artist Lizzy Ansingh is one of her best works. The strong contrast between light and dark creates an intimate atmosphere. At the same time, the energetic brushwork and fiery red accent on the bright green in her clothes exude a powerful aura.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221173",
+            "https://id.rijksmuseum.nl/221328"
+          ],
+          "imageUrl": "https://iiif.micr.io/zkwTG/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-07-14",
+      "number": 14,
+      "title": "Daily Art #14 — Mayor, burgomaster",
+      "answer": {
+        "id": "20026868",
+        "name": "Portret van Pieter Jacobsz. Schout, burgemeester van Haarlem",
+        "timespan": "1641",
+        "artist": "Johannes Verspronck (signed by artist)",
+        "material": "oil on canvas",
+        "dimensions": "outer size: depth 8.5 cm (support incl. SK-L-2325)",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/2211662",
+          "https://id.rijksmuseum.nl/22123"
+        ],
+        "imageUrl": "https://iiif.micr.io/vfwfZ/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200109368",
+          "name": "Andries Bicker (1586-1652). Trader with Russia and Burgomaster of Amsterdam",
+          "timespan": "1642",
+          "artist": "Bartholomeus van der Helst",
+          "material": "oil on panel",
+          "dimensions": "height 93.5 cm x width 70.5 cm",
+          "exhibitScript": "Andries Bicker, a merchant in Russia and dealer in spices, wielded enormous administrative power. He was elected mayor of Amsterdam ten times, represented the city in the States-General, and served as ambassador to the Scandinavian nations, Poland and the Duchy of Brandenburg. When he sat to the celebrated Amsterdam portraitist Van der Helst, the Bickers were the most powerful family in the city.",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221943",
+            "https://id.rijksmuseum.nl/2211662"
+          ],
+          "imageUrl": "https://iiif.micr.io/SjURy/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107778",
+          "name": "Portrait of Johannes Hudde (1628-1704), burgomaster of Amsterdam",
+          "timespan": "1686",
+          "artist": "Michiel van Musscher",
+          "material": "oil on canvas",
+          "dimensions": "depth 6 cm",
+          "exhibitScript": "Michiel van Musscher, a pupil of Gabriel Metsu, painted this portrait with great precision. The sitter, Johannes Hudde, wears a morning gown made of Chinese silk, known in Dutch as a ‘Japanse rok.’ While it was de rigueur to wear this type of garment around the house, it was also likely meant to reference his role as a Dutch East India Company (VOC) administrator. The large book on the table with the most important rights or charters of Amsterdam makes it clear that Hudde was also a burgomaster of that city.",
+          "tags": [
+            "https://id.rijksmuseum.nl/2216203",
+            "https://id.rijksmuseum.nl/2211662",
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/XhPSD/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20028356",
+          "name": "Mr. Pieter Cornelis Hasselaer (1720-96), raad van Indië en burgemeester van Amsterdam met zijn gezin",
+          "timespan": "1763",
+          "artist": "George van der Mijn",
+          "material": "oil on canvas",
+          "dimensions": "height 248 cm x width 285 cm x thickness 4 cm",
           "exhibitScript": "undefined",
-          "tags": [],
-          "imageUrl": "https://iiif.micr.io/MNuqH/full/max/0/default.jpg",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/2211662",
+            "https://id.rijksmuseum.nl/221202"
+          ],
+          "imageUrl": "https://iiif.micr.io/CVQmG/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
