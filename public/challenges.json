@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T00:49:53.763Z",
+  "generatedAt": "2026-07-17T00:52:07.812Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -1281,6 +1281,88 @@
             "https://id.rijksmuseum.nl/22123"
           ],
           "imageUrl": "https://iiif.micr.io/TcyTU/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-07-17",
+      "number": 17,
+      "title": "Daily Art #17 — Cattle",
+      "answer": {
+        "id": "20029292",
+        "name": "Landscape with Cattle",
+        "timespan": "c. 1665 - 1688",
+        "artist": "Albert Jansz Klomp (mentioned on object)",
+        "material": "oil on canvas",
+        "dimensions": "support: height 27.2 cm x width 35.1 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/2211764"
+        ],
+        "imageUrl": "https://iiif.micr.io/tZrYq/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20026145",
+          "name": "Meadow with Animals",
+          "timespan": "1820 - 1837",
+          "artist": "Jan van Ravenswaay",
+          "material": "oil on canvas",
+          "dimensions": "height 96 cm x width 122 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221130",
+            "https://id.rijksmuseum.nl/2211764",
+            "https://id.rijksmuseum.nl/22150",
+            "https://id.rijksmuseum.nl/221174",
+            "https://id.rijksmuseum.nl/221239"
+          ],
+          "imageUrl": "https://iiif.micr.io/tTHYd/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20028280",
+          "name": "Italian Landscape with Shepherds and Animals at a Fountain",
+          "timespan": "1780 - 1810",
+          "artist": "Jean Louis Demarne",
+          "material": "oil on canvas",
+          "dimensions": "depth 13 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221645",
+            "https://id.rijksmuseum.nl/221174",
+            "https://id.rijksmuseum.nl/2211764"
+          ],
+          "imageUrl": "https://iiif.micr.io/LXmnT/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108675",
+          "name": "Landscape near Hilversum",
+          "timespan": "1820 - 1839",
+          "artist": "George Jacobus Johannes van Os",
+          "material": "oil on canvas",
+          "dimensions": "height 81 cm x width 100 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2211764",
+            "https://id.rijksmuseum.nl/221239"
+          ],
+          "imageUrl": "https://iiif.micr.io/JzgHg/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
