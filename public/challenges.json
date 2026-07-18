@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T00:52:07.812Z",
+  "generatedAt": "2026-07-18T00:48:24.241Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -1363,6 +1363,86 @@
             "https://id.rijksmuseum.nl/221239"
           ],
           "imageUrl": "https://iiif.micr.io/JzgHg/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-07-18",
+      "number": 18,
+      "title": "Daily Art #18 — Sailing-ship, sailing-boat",
+      "answer": {
+        "id": "20026866",
+        "name": "Caulking of a Vessel",
+        "timespan": "1660 - 1686",
+        "artist": "Lieve Pietersz. Verschuier",
+        "material": "oil on panel",
+        "dimensions": "height 37.5 cm x width 49 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221132",
+          "https://id.rijksmuseum.nl/2213742"
+        ],
+        "imageUrl": "https://iiif.micr.io/LsLbX/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20027351",
+          "name": "Gezicht op Algiers met Michiel Adriaenszoon de Ruyters schip 'De Liefde', 1662",
+          "timespan": "1662 - 1668",
+          "artist": "Reinier Nooms (signed by artist)",
+          "material": "oil on canvas",
+          "dimensions": "support: height 65.5 cm x width 110 cm",
+          "exhibitScript": "Four views of North-African cities. Reinier Nooms, c. 1665. To protect the Dutch merchant fleet, the navy took the fight the enemy, far beyond the country's coastal waters. The Mediterranean harbours shown here - Algiers, Tunis, Tripoli and Salee - were bases from which privateers attacked Dutch merchant shipping. Attempts were made to impose treaties on these cities using the threat of naval force. Between 1661 and 1663 Admiral Michiel de Ruyter cruised the Mediterranean Sea in an effort to stamp out piracy. De Ruyter's ship, de Liefde, is shown in the foreground of the view of Algiers. This series of paintings was displayed in one of the rooms of the Amsterdam Admiralty. The Republic's navy was divided into five regional admiralties, one of which was based in Amsterdam.",
+          "tags": [
+            "https://id.rijksmuseum.nl/2219694",
+            "https://id.rijksmuseum.nl/221132"
+          ],
+          "imageUrl": "https://iiif.micr.io/nAPLf/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107793",
+          "name": "The Naval Battle near Livorno, 14 March 1653",
+          "timespan": "1653 - 1664",
+          "artist": "Reinier Nooms",
+          "material": "oil on canvas",
+          "dimensions": "height 142 cm x width 225 cm",
+          "exhibitScript": "A painted sheet of paper at the lower left describes the subject: the battle between the Dutch and English fleets off the Italian port of Livorno (Leghorn). Victory brought the Dutch control over trade in the Mediterranean. Nooms almost certainly painted the canvas for the Chamber of Levantine Trade in Amsterdam.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221132",
+            "https://id.rijksmuseum.nl/221228"
+          ],
+          "imageUrl": "https://iiif.micr.io/apxGf/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026301",
+          "name": "Schepen op een onstuimige zee",
+          "timespan": "1826",
+          "artist": "Johannes Christiaan Schotel",
+          "material": "oil on canvas",
+          "dimensions": "depth 14.4 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221337",
+            "https://id.rijksmuseum.nl/221541",
+            "https://id.rijksmuseum.nl/221132"
+          ],
+          "imageUrl": "https://iiif.micr.io/QSgUk/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
