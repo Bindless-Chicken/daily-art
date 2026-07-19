@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T00:48:24.241Z",
+  "generatedAt": "2026-07-19T00:54:52.289Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -1443,6 +1443,95 @@
             "https://id.rijksmuseum.nl/221132"
           ],
           "imageUrl": "https://iiif.micr.io/QSgUk/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-07-19",
+      "number": 19,
+      "title": "Daily Art #19 — Landscapes in the temperate zone",
+      "answer": {
+        "id": "20062893",
+        "name": "Het onweer",
+        "timespan": "1843",
+        "artist": "Johannes Tavenraat",
+        "material": "oil on panel",
+        "dimensions": "height 31 cm x width 39.8 cm",
+        "exhibitScript": "The rapid, powerful brushwork of this landscape makes it look more like an oil sketch than a finished painting. As such, Tavenraat deviated from the path taken by most Dutch painters at the time. Instead of a smooth painting style and restrained sentiment, he opted for bright colours and dramatic effects of light and dark. His work thus more closely reflects international, mainly French, developments in Romantic painting.",
+        "tags": [
+          "https://id.rijksmuseum.nl/221338",
+          "https://id.rijksmuseum.nl/2211366",
+          "https://id.rijksmuseum.nl/221205"
+        ],
+        "imageUrl": "https://iiif.micr.io/KCjaL/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200108385",
+          "name": "Italian Landscape with Umbrella Pines",
+          "timespan": "1807",
+          "artist": "Hendrik Voogd",
+          "material": "oil on canvas",
+          "dimensions": "height 101.5 cm x width 138.5 cm",
+          "exhibitScript": "Voogd was known as the ‘Dutch Claude’, after the French painter Claude Lorrain, who was famous for his history landscapes bathed in golden light. Voogd painted the gardens of the Villa Borghese in Rome in the late afternoon. The sun casts long shadows, and the trees stand out sharply against the sky. Strolling figures are enjoying the magnificent sunset. In the foreground, an artist is seated against a tree and drawing.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221205",
+            "https://id.rijksmuseum.nl/221644"
+          ],
+          "imageUrl": "https://iiif.micr.io/FDLZM/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200109346",
+          "name": "Portrait of a Couple in a Landscape, probably Isaac Abrahamsz Massa (1586-1643) and Beatrix van der Laen (1592-1639)",
+          "timespan": "c. 1622",
+          "artist": "Frans Hals",
+          "material": "oil on canvas",
+          "dimensions": "support: height 140 cm x width 166.5 cm",
+          "exhibitScript": "It was rare for a married couple to be portrayed lifesize and together in a single painting, and even more so in such an intimate and joyful manner. The patron would have had to have been receptive to such innovation. The close friendship between Hals and the newlywed couple, presumably Isaac Abrahamsz Massa and Beatrix van der Laen, likely played a crucial role in facilitating the creation of this audacious portrait.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221930",
+            "https://id.rijksmuseum.nl/221317",
+            "https://id.rijksmuseum.nl/221221",
+            "https://id.rijksmuseum.nl/221177",
+            "https://id.rijksmuseum.nl/221173",
+            "https://id.rijksmuseum.nl/221205",
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221931"
+          ],
+          "imageUrl": "https://iiif.micr.io/ZrjcE/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107877",
+          "name": "Portraits of Giuliano and Francesco Giamberti da Sangallo",
+          "timespan": "1482 - 1485",
+          "artist": "Piero di Cosimo",
+          "material": "oil on panel",
+          "dimensions": "height 47.5 cm x width 33.5 cm",
+          "exhibitScript": "This exceptional diptych shows the leading Florentine architect Giuliano da Sangallo and his recently deceased father Francesco, who was an architect as well as a musician. These are among the earliest portraits to characterize their sitters by profession: a pen and compass allude to architecture, the sheet music to music. Both disciplines are based on notions of harmony and proportion.",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221205",
+            "https://id.rijksmuseum.nl/221268",
+            "https://id.rijksmuseum.nl/221266",
+            "https://id.rijksmuseum.nl/221267"
+          ],
+          "imageUrl": "https://iiif.micr.io/DokhU/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
