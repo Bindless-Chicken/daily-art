@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T00:54:52.289Z",
+  "generatedAt": "2026-07-20T03:04:19.696Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -1532,6 +1532,88 @@
             "https://id.rijksmuseum.nl/221267"
           ],
           "imageUrl": "https://iiif.micr.io/DokhU/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-07-20",
+      "number": 20,
+      "title": "Daily Art #20 — Interior of church",
+      "answer": {
+        "id": "20027936",
+        "name": "The Archangel Gabriel Appearing to Zacharias",
+        "timespan": "1625",
+        "artist": "Nicolaes de Giselaer (signed by artist)",
+        "material": "oil on panel",
+        "dimensions": "outer size: depth 6 cm (support incl. frame)",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221361",
+          "https://id.rijksmuseum.nl/221919"
+        ],
+        "imageUrl": "https://iiif.micr.io/stcPn/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200108405",
+          "name": "Het koor van de Nieuwe Kerk te Amsterdam met het praalgraf van Michiel Adriaenszoon de Ruyter",
+          "timespan": "1683",
+          "artist": "Emanuel de Witte",
+          "material": "oil on canvas",
+          "dimensions": "height 123.5 cm x width 105 cm",
+          "exhibitScript": "Visitors are admiring Admiral de Ruyter’s imposing tomb monument. It occupies the place where the main altar once stood when the Nieuwe Kerk was still a Catholic church. The monumental marble tomb is a tribute to the naval hero, who died in 1667 off the coast of Sicily at the age of 69. It was designed by the sculptor Rombout Verhulst. De Ruyter’s son commissioned this painting.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221361",
+            "https://id.rijksmuseum.nl/221589"
+          ],
+          "imageUrl": "https://iiif.micr.io/yLLYF/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108523",
+          "name": "The Holy Kinship",
+          "timespan": "c. 1495",
+          "artist": "workshop of Geertgen tot Sint Jans",
+          "material": "oil on panel",
+          "dimensions": "support: height 137.2 cm x width 105.8 cm",
+          "exhibitScript": "Christ’s next of kin are gathered in an imaginary medieval church. The term for such a scene derives from the word for a blood relation. At left, the Virgin (in blue) is seated with Jesus on her lap beside her mother, Anne. Behind them stand their husbands, Joachim and Joseph. At right sits Mary’s cousin Elizabeth with her son, John the Baptist.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221707",
+            "https://id.rijksmuseum.nl/221361",
+            "https://id.rijksmuseum.nl/221708",
+            "https://id.rijksmuseum.nl/221370"
+          ],
+          "imageUrl": "https://iiif.micr.io/QTcEa/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20028693",
+          "name": "The Inauguration of King William II in the Nieuwe Kerk in Amsterdam on 28 November 1840",
+          "timespan": "1840 - 1845",
+          "artist": "Nicolaas Pieneman (mentioned on object)",
+          "material": "oil on panel",
+          "dimensions": "depth 11 cm",
+          "exhibitScript": "Investiture of King William II in the New Church in Amsterdam on 28 November 1840, by N. Pieneman. Sketch for a large painting produced by Pieneman for the Royal House. To the left of the king: his brother Frederick and his son Alexander. To the right: his sons William and Henry. In the background, centre: Queen Anna Paulowna with, left, her daughter-in-law Sophie (the wife of Crown Prince William),and right, her daughter-in-law Louise of Prussia (wife of Prince Frederick) and her daughter Sophie. On the table in the centre are a copy of the constitution, the crown, the orb and sceptre. Like the sword of state and the national standard these were especially made for the occasion.",
+          "tags": [
+            "https://id.rijksmuseum.nl/2211138",
+            "https://id.rijksmuseum.nl/221361",
+            "https://id.rijksmuseum.nl/221140"
+          ],
+          "imageUrl": "https://iiif.micr.io/fhCXk/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
