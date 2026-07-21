@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T03:04:19.696Z",
+  "generatedAt": "2026-07-21T00:52:22.475Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -1614,6 +1614,90 @@
             "https://id.rijksmuseum.nl/221140"
           ],
           "imageUrl": "https://iiif.micr.io/fhCXk/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-07-21",
+      "number": 21,
+      "title": "Daily Art #21 — Harbour",
+      "answer": {
+        "id": "20027048",
+        "name": "Geertruida den Dubbelde (1647-84), Wife of Aert van Nes",
+        "timespan": "1668",
+        "artist": "Bartholomeus van der Helst",
+        "material": "oil on canvas",
+        "dimensions": "height 139 cm x width 125 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/2212733",
+          "https://id.rijksmuseum.nl/221173",
+          "https://id.rijksmuseum.nl/221329",
+          "https://id.rijksmuseum.nl/2211003"
+        ],
+        "imageUrl": "https://iiif.micr.io/nVYrd/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20026718",
+          "name": "Italian Landscape with a View of a Harbour",
+          "timespan": "c. 1645 - c. 1650",
+          "artist": "Jan Both (mentioned on object)",
+          "material": "oil on panel",
+          "dimensions": "outer size: depth 6 cm (support incl. frame)",
+          "exhibitScript": "Jan Both (c. 1615 - 1652). Italian landscape with a view of a harbor, c. 1650. Bequest of L. Dupper Wzn., Dordrecht, 1870.",
+          "tags": [
+            "https://id.rijksmuseum.nl/2211003",
+            "https://id.rijksmuseum.nl/221649",
+            "https://id.rijksmuseum.nl/2212688"
+          ],
+          "imageUrl": "https://iiif.micr.io/RYYXr/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108610",
+          "name": "Het eiland Onrust bij Batavia",
+          "timespan": "1699",
+          "artist": "manner of Abraham Storck",
+          "material": "oil on canvas",
+          "dimensions": "height 77 cm x width 110 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221132",
+            "https://id.rijksmuseum.nl/2213742",
+            "https://id.rijksmuseum.nl/2211003"
+          ],
+          "imageUrl": "https://iiif.micr.io/hbgfv/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20015888",
+          "name": "Ships in the Ice",
+          "timespan": "1901",
+          "artist": "George Hendrik Breitner (mentioned on object)",
+          "material": "oil on canvas",
+          "dimensions": "height 115 cm x width 163 cm",
+          "exhibitScript": "Using thick layers of dark paint, Breitner depicted traditional wooden boats. They seem to be robust and indestructible, but are stuck in the ice. Looming up behind their masts are large steel steamships painted in lighter, almost transparent colours. They sail in open water. Old and modern times are thus contrasted.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221602",
+            "https://id.rijksmuseum.nl/2211003",
+            "https://id.rijksmuseum.nl/221132"
+          ],
+          "imageUrl": "https://iiif.micr.io/FEYSc/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
