@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T00:52:22.475Z",
+  "generatedAt": "2026-07-22T00:50:51.660Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -1698,6 +1698,84 @@
             "https://id.rijksmuseum.nl/221132"
           ],
           "imageUrl": "https://iiif.micr.io/FEYSc/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-07-22",
+      "number": 22,
+      "title": "Daily Art #22 — Historical persons - BB - woman",
+      "answer": {
+        "id": "200109374",
+        "name": "Portrait of Maritge Claesdr Vooght (1577-1644)",
+        "timespan": "1639",
+        "artist": "Frans Hals",
+        "material": "oil on canvas",
+        "dimensions": "frame: height 148 cm x width 115 cm x thickness 7.5 cm",
+        "exhibitScript": "Maritge Vooght grew up in a Haarlem family business of brewers. She married Pieter Olycan at the age of 18. Their union allowed him to hold high positions and he became co-heir to the brewery. In addition, they established a brewery of their own, which as was usual then, was registered under Pieter’s name. Their daughter Geertruyt successfully carried on the family business. That they were prosperous is evidenced by Vooght’s expensive clothing and precious church book.",
+        "tags": [
+          "https://id.rijksmuseum.nl/221173"
+        ],
+        "imageUrl": "https://iiif.micr.io/DjGYX/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20027475",
+          "name": "Portrait of Mertijntje van Ceters (1609-24)",
+          "timespan": "1623",
+          "artist": "anonymous",
+          "material": "oil on panel",
+          "dimensions": "outer size: depth 5.2 cm (support incl. frame)",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221173"
+          ],
+          "imageUrl": "https://iiif.micr.io/tGtBk/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20029234",
+          "name": "Portrait of Elizabeth I, Queen of England",
+          "timespan": "1550 - 1599",
+          "artist": "anonymous",
+          "material": "oil on panel",
+          "dimensions": "height 34.5 cm x width 30.5 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221173"
+          ],
+          "imageUrl": "https://iiif.micr.io/OmhQF/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200412737",
+          "name": "Portrait of Alida Christina Assink",
+          "timespan": "1833",
+          "artist": "Jan Adam Kruseman",
+          "material": "oil on canvas",
+          "dimensions": "height 206 cm x width 149 cm",
+          "exhibitScript": "This portrait of Alida Assink presents her in her finest attire, depicted from head to toe. That is quite exceptional, as the painter Kruseman typically reserved such a full-length portrait exclusively for royalty. Assink was 23 years old when this likeness was commissioned by her guardian, a wealthy landowner. The rural setting with hunting dog and garden vase harks back to the\r\nEnglish portrait style, which Kruseman admired.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221308",
+            "https://id.rijksmuseum.nl/221173",
+            "https://id.rijksmuseum.nl/22192",
+            "https://id.rijksmuseum.nl/221948"
+          ],
+          "imageUrl": "https://iiif.micr.io/wEuxE/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
