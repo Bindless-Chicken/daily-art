@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T00:50:51.660Z",
+  "generatedAt": "2026-07-23T00:53:28.631Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -1776,6 +1776,84 @@
             "https://id.rijksmuseum.nl/221948"
           ],
           "imageUrl": "https://iiif.micr.io/wEuxE/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "number": 23,
+      "title": "Daily Art #23 — The Annunciation: Mary, usually reading, is visited by the angel (sometimes a woman overhears the conversation)",
+      "answer": {
+        "id": "20055828",
+        "name": "De verkondiging aan Maria",
+        "timespan": "1723",
+        "artist": "Jacob de Wit",
+        "material": "oil on canvas",
+        "dimensions": "depth 8 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221741"
+        ],
+        "imageUrl": "https://iiif.micr.io/zkYWy/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200108795",
+          "name": "Triptych with the Crucifixion",
+          "timespan": "c. 1460",
+          "artist": "anonymous",
+          "material": "oil on panel",
+          "dimensions": "support: height 85.5 cm (centre panel) x width 56 cm (centre panel) x height 85.5 cm (left wing) x width 28 cm (left wing) x height 85.3 cm (right wing) x width 28 cm (right wing)",
+          "exhibitScript": "The Crucifixion at centre is set against the background of the city of Utrecht. Thus the biblical scene acquired a certain reality for the medieval viewer. At left is Pope Gregory the Great, who experienced a vision of Christ while celebrating Mass. At right is Saint Christopher who bears the Christ Child and the burden of mankind on his shoulders.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221741",
+            "https://id.rijksmuseum.nl/221744",
+            "https://id.rijksmuseum.nl/221742",
+            "https://id.rijksmuseum.nl/221743"
+          ],
+          "imageUrl": "https://iiif.micr.io/WZkWd/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026409",
+          "name": "Virgin from the Annunciation to the Virgin",
+          "timespan": "1560 - 1585",
+          "artist": "Jacopo Tintoretto",
+          "material": "oil on canvas",
+          "dimensions": "height 117 cm x width 94.5 cm",
+          "exhibitScript": "Jacopo Tintoretto (1518 - 1594). The Virgin, right half of the Annunciation. Fragment of an organ-decoration, c. 1575. From the Otto Lanz collection, 1948.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221741"
+          ],
+          "imageUrl": "https://iiif.micr.io/GKSQk/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026408",
+          "name": "Angel from the Annunciation to the Virgin",
+          "timespan": "1560 - 1585",
+          "artist": "Jacopo Tintoretto",
+          "material": "oil on canvas",
+          "dimensions": "height 115 cm x width 93 cm",
+          "exhibitScript": "Jacopo Tintoretto (1518 - 1594). The Archangel Gabriel, left half the Annunciation. Fragment of an organ-decoration, c. 1575. From the Otto Lanz collection, 1948.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221741"
+          ],
+          "imageUrl": "https://iiif.micr.io/oCupQ/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
