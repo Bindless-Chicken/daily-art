@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T00:53:28.631Z",
+  "generatedAt": "2026-07-24T00:49:54.795Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -1854,6 +1854,86 @@
             "https://id.rijksmuseum.nl/221741"
           ],
           "imageUrl": "https://iiif.micr.io/oCupQ/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-07-24",
+      "number": 24,
+      "title": "Daily Art #24 — Flowers in a vase",
+      "answer": {
+        "id": "20027442",
+        "name": "Still Life wit Flowers",
+        "timespan": "1870 - 1877",
+        "artist": "Auguste Jouve",
+        "material": "oil on canvas",
+        "dimensions": "depth 4.5 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/22113654",
+          "https://id.rijksmuseum.nl/2211248",
+          "https://id.rijksmuseum.nl/221532"
+        ],
+        "imageUrl": "https://iiif.micr.io/LZQmt/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20025946",
+          "name": "Still Life with Flowers",
+          "timespan": "1820 - 1861",
+          "artist": "Georgius Jacobus Johannes van Os",
+          "material": "oil on panel",
+          "dimensions": "height 39 cm x width 31 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221532",
+            "https://id.rijksmuseum.nl/221528"
+          ],
+          "imageUrl": "https://iiif.micr.io/cxWzz/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027976",
+          "name": "Flowers",
+          "timespan": "c. 1700 - c. 1799",
+          "artist": "anonymous",
+          "material": "oil on canvas",
+          "dimensions": "height 53.5 cm x width 76.5 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221532",
+            "https://id.rijksmuseum.nl/2215718"
+          ],
+          "imageUrl": "https://iiif.micr.io/ecYuz/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027537",
+          "name": "Still Life with Flowers on a Marble Tabletop",
+          "timespan": "1716",
+          "artist": "Rachel Ruysch (mentioned on object)",
+          "material": "oil on canvas",
+          "dimensions": "height 48.5 cm x width 39.5 cm",
+          "exhibitScript": "This bouquet features more than ten species of flowers and teems with insects. As the blossoms flower at different times, it would be rather difficult to assemble such a bouquet in real life. Ruysch was well aware of this: her extensive study of live and prepared flowers allowed her to paint these vibrant bouquets with stunning precision. During her lifetime, she was one of the most celebrated painters of floral still lifes in Europe.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221666",
+            "https://id.rijksmuseum.nl/221532"
+          ],
+          "imageUrl": "https://iiif.micr.io/OZhex/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
