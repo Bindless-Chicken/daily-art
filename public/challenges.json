@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T00:53:11.090Z",
+  "generatedAt": "2026-07-26T00:57:00.445Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -2014,6 +2014,86 @@
             "https://id.rijksmuseum.nl/221325"
           ],
           "imageUrl": "https://iiif.micr.io/OzDjp/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-07-26",
+      "number": 26,
+      "title": "Daily Art #26 — Anchorite, hermit",
+      "answer": {
+        "id": "200845361",
+        "name": "Landschap met de heilige Christoffel",
+        "timespan": "c. 1520 - c. 1525",
+        "artist": "attributed to anonymous",
+        "material": "undefined",
+        "dimensions": "height 21.5 cm x width 28 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221155",
+          "https://id.rijksmuseum.nl/221171",
+          "https://id.rijksmuseum.nl/221742",
+          "https://id.rijksmuseum.nl/22120929",
+          "https://id.rijksmuseum.nl/2213621",
+          "https://id.rijksmuseum.nl/221132"
+        ],
+        "imageUrl": "https://iiif.micr.io/noZke/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200107994",
+          "name": "Een kluizenaar in een ruïne",
+          "timespan": "1650 - 1668",
+          "artist": "Jan Adriaensz. van Staveren",
+          "material": "oil on panel",
+          "dimensions": "height 36.5 cm x width 30.5 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2213621"
+          ],
+          "imageUrl": "https://iiif.micr.io/ZwFav/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027806",
+          "name": "A Hermitin Prayer",
+          "timespan": "c. 1662 - c. 1665",
+          "artist": "Gerrit Dou",
+          "material": "oil on panel",
+          "dimensions": "frame: depth 5.5 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2213621"
+          ],
+          "imageUrl": "https://iiif.micr.io/KfgBh/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20028349",
+          "name": "The Hermit",
+          "timespan": "1721",
+          "artist": "Frans van Mieris (II)",
+          "material": "oil on panel",
+          "dimensions": "height 16 cm x width 14 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2213621"
+          ],
+          "imageUrl": "https://iiif.micr.io/WExBM/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
