@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T00:57:00.445Z",
+  "generatedAt": "2026-07-27T00:57:05.357Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -2094,6 +2094,90 @@
             "https://id.rijksmuseum.nl/2213621"
           ],
           "imageUrl": "https://iiif.micr.io/WExBM/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-07-27",
+      "number": 27,
+      "title": "Daily Art #27 — Angling",
+      "answer": {
+        "id": "20025757",
+        "name": "The Angler",
+        "timespan": "1700 - 1738",
+        "artist": "Carel de Moor (II)",
+        "material": "oil on canvas",
+        "dimensions": "depth 5 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221669"
+        ],
+        "imageUrl": "https://iiif.micr.io/HjnDH/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20065066",
+          "name": "Landschap met vissers en turfstekende boeren in het laagveen",
+          "timespan": "1783",
+          "artist": "Hendrik Willem Schweickhardt",
+          "material": "oil on panel",
+          "dimensions": "depth 4.4 cm",
+          "exhibitScript": "Here, peat –an important source of fuel –is being extracted from below the water table, a common technique in the west and north of the Netherlands. The man in the little boat dredges the peat from the water; it is then spread out on the ground. The woman in the distance stamps the peat drying in the sun into a hard mass. This is subsequently cut with a spade into easy-to-use blocks, which are then left to dry out fully.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221205",
+            "https://id.rijksmuseum.nl/221669",
+            "https://id.rijksmuseum.nl/2211305",
+            "https://id.rijksmuseum.nl/22110682"
+          ],
+          "imageUrl": "https://iiif.micr.io/XJCzg/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200539391",
+          "name": "Three Painted Wall Hangings of a Dutch landscape",
+          "timespan": "1776",
+          "artist": "attributed to Jurriaan Andriessen",
+          "material": "oil on canvas",
+          "dimensions": "height 329 cm x width 539.5 cm",
+          "exhibitScript": "The widow Maria Everdina Bolten commissioned these and two more wall-size landscapes to adorn the garden room of her house on Amsterdam’s Nieuwe Doelenstraat. The viewer is transported from the heart of a bustling city to an oasis far beyond it. It is as if one gazes through a window at the river flowing under an opened drawbridge with a bustling farm, inn, and a country house along the banks.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221313",
+            "https://id.rijksmuseum.nl/2211881",
+            "https://id.rijksmuseum.nl/221597",
+            "https://id.rijksmuseum.nl/221669"
+          ],
+          "imageUrl": "https://iiif.micr.io/pViSu/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026376",
+          "name": "Landschap met landlieden bij hun vee en hengelaars op het water",
+          "timespan": "1800 - 1810",
+          "artist": "Jacob van Strij",
+          "material": "oil on panel",
+          "dimensions": "depth 9.9 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221669",
+            "https://id.rijksmuseum.nl/221630",
+            "https://id.rijksmuseum.nl/2211764",
+            "https://id.rijksmuseum.nl/221174"
+          ],
+          "imageUrl": "https://iiif.micr.io/CSZzH/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
