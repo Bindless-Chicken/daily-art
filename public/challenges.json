@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T00:57:05.357Z",
+  "generatedAt": "2026-07-28T00:49:38.349Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -2178,6 +2178,87 @@
             "https://id.rijksmuseum.nl/221174"
           ],
           "imageUrl": "https://iiif.micr.io/CSZzH/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-07-28",
+      "number": 28,
+      "title": "Daily Art #28 — Portrait, self-portrait of painter",
+      "answer": {
+        "id": "20026197",
+        "name": "Jan Verkade (1868-1946) Painting under a Tree at Hattem",
+        "timespan": "1891",
+        "artist": "Richard Nicolaüs Roland Holst",
+        "material": "undefined",
+        "dimensions": "height 28.4 cm x width 24.6 cm x depth 1.2 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221328",
+          "https://id.rijksmuseum.nl/221559"
+        ],
+        "imageUrl": "https://iiif.micr.io/CZPAl/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200109794",
+          "name": "Self Portrait",
+          "timespan": "1887",
+          "artist": "Vincent van Gogh",
+          "material": "undefined",
+          "dimensions": "depth 8 cm",
+          "exhibitScript": "Vincent moved to Paris in 1886, after hearing from his brother Theo about the new, colourful style of French painting. Wasting no time, he tried it out in several self-portraits. He did this mostly to avoid having to pay for a model. Using rhythmic brushstrokes in striking colours, he portrayed himself here as a fashionably dressed Parisian.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221328",
+            "https://id.rijksmuseum.nl/221451",
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/vjYfT/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200109198",
+          "name": "Portrait of Jacob Cornelisz van Oostsanen (c. 1472/77-1528/33)",
+          "timespan": "c. 1533",
+          "artist": "workshop of Jacob Cornelisz van Oostsanen",
+          "material": "oil on panel",
+          "dimensions": "support: height 37.8 cm x width 29.4 cm",
+          "exhibitScript": "Long accepted as the earliest known north Netherlandish self-portrait, this is probably a copy after a lost work. Such portraits illustrate the increasing status of artists. Jacob, whose traditional nickname means ‘son of Cornelis from Oostsanen’, looks directly at us. Behind him is a  paper with the date 1533 and his monogram, I W (inverted) v A (‘J[acob] W[ar] v[an] A[msterdam]’).",
+          "tags": [
+            "https://id.rijksmuseum.nl/221328",
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221451"
+          ],
+          "imageUrl": "https://iiif.micr.io/DLGpa/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107981",
+          "name": "Portrait of Lizzy Ansingh (1875-1959)",
+          "timespan": "1902",
+          "artist": "Thérèse Schwartze",
+          "material": "oil on canvas",
+          "dimensions": "height 78 cm x width 62 cm",
+          "exhibitScript": "Thérèse Schwartze was the most sought-after portraitist of Dutch 19th-century high society. Yet the portraits she painted of those closest to her were her favourites. This likeness of her niece and fellow artist Lizzy Ansingh is one of her best works. The strong contrast between light and dark creates an intimate atmosphere. At the same time, the energetic brushwork and fiery red accent on the bright green in her clothes exude a powerful aura.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221173",
+            "https://id.rijksmuseum.nl/221328"
+          ],
+          "imageUrl": "https://iiif.micr.io/zkwTG/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
