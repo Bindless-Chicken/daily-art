@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T00:49:38.349Z",
+  "generatedAt": "2026-07-29T00:50:23.722Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -2259,6 +2259,91 @@
             "https://id.rijksmuseum.nl/221328"
           ],
           "imageUrl": "https://iiif.micr.io/zkwTG/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-07-29",
+      "number": 29,
+      "title": "Daily Art #29 — Dog",
+      "answer": {
+        "id": "200715373",
+        "name": "Rustende soldaten",
+        "timespan": "1650 - 1750",
+        "artist": "anonymous",
+        "material": "undefined",
+        "dimensions": "height 125 mm x width 247 mm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/2215385",
+          "https://id.rijksmuseum.nl/22192",
+          "https://id.rijksmuseum.nl/2215926"
+        ],
+        "imageUrl": "https://iiif.micr.io/PbyjU/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200108146",
+          "name": "The Threatened Swan; Interpreted later as an Allegory on Johan de Witt",
+          "timespan": "c. 1650",
+          "artist": "Jan Asselijn",
+          "material": "oil on canvas",
+          "dimensions": "height 144 cm x width 171 cm",
+          "exhibitScript": "A swan fiercely defends its nest against a dog. In later centuries this scuffle was interpreted as a political allegory: the white swan was thought to symbolize the Dutch statesman Johan de Witt (assassinated in 1672) protecting the country from its enemies. This was the meaning attached to the painting when it became the very first acquisition to enter the Nationale Kunstgalerij (the forerunner of the Rijksmuseum) in 1800.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221525",
+            "https://id.rijksmuseum.nl/221526",
+            "https://id.rijksmuseum.nl/22118511",
+            "https://id.rijksmuseum.nl/22192"
+          ],
+          "imageUrl": "https://iiif.micr.io/hZepb/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200412737",
+          "name": "Portrait of Alida Christina Assink",
+          "timespan": "1833",
+          "artist": "Jan Adam Kruseman",
+          "material": "oil on canvas",
+          "dimensions": "height 206 cm x width 149 cm",
+          "exhibitScript": "This portrait of Alida Assink presents her in her finest attire, depicted from head to toe. That is quite exceptional, as the painter Kruseman typically reserved such a full-length portrait exclusively for royalty. Assink was 23 years old when this likeness was commissioned by her guardian, a wealthy landowner. The rural setting with hunting dog and garden vase harks back to the\r\nEnglish portrait style, which Kruseman admired.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221308",
+            "https://id.rijksmuseum.nl/221173",
+            "https://id.rijksmuseum.nl/22192",
+            "https://id.rijksmuseum.nl/221948"
+          ],
+          "imageUrl": "https://iiif.micr.io/wEuxE/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027893",
+          "name": "Decorative Depiction with Plants and Animals",
+          "timespan": "1760 - 1799",
+          "artist": "anonymous",
+          "material": "oil on canvas",
+          "dimensions": "height 226.6 cm x width 55.6 cm x depth 9.8 cm",
+          "exhibitScript": "French school, c. 1775. Four decorative paintings with plants and animals.",
+          "tags": [
+            "https://id.rijksmuseum.nl/2212787",
+            "https://id.rijksmuseum.nl/22192",
+            "https://id.rijksmuseum.nl/22118512"
+          ],
+          "imageUrl": "https://iiif.micr.io/ykdhq/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
