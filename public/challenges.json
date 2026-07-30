@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T00:50:23.722Z",
+  "generatedAt": "2026-07-30T00:48:11.883Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -2344,6 +2344,87 @@
             "https://id.rijksmuseum.nl/22118512"
           ],
           "imageUrl": "https://iiif.micr.io/ykdhq/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "number": 30,
+      "title": "Daily Art #30 — Sailing-ship, sailing-boat",
+      "answer": {
+        "id": "200109175",
+        "name": "The Home Fleet Saluting the State Barge",
+        "timespan": "1650",
+        "artist": "Jan van de Cappelle",
+        "material": "oil on panel",
+        "dimensions": "height 64 cm x width 92.5 cm",
+        "exhibitScript": "A row of ships lies at anchor. Two yachts fire a salute for the functionaries rowing by in a state barge. The water’s smooth, mirror-like surface reflects the vessel and its passengers. Van de Cappelle superbly captured the grandeur unfolding on the water, with ships as far as the eye can see rendered in perspective, under an imposing cloudy sky.",
+        "tags": [
+          "https://id.rijksmuseum.nl/221132",
+          "https://id.rijksmuseum.nl/221833"
+        ],
+        "imageUrl": "https://iiif.micr.io/kuhAG/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20027186",
+          "name": "The Caulking of Ships at the Bothuisje on Het IJ in Amsterdam",
+          "timespan": "1660 - 1668",
+          "artist": "Reinier Nooms",
+          "material": "oil on canvas",
+          "dimensions": "depth 7 cm",
+          "exhibitScript": "Caulking the ships on the IJ at Amsterdam by Reinier Nooms, mid 17th century. Wooden sailing ships needed constant maintenance. They had to be examined after every voyage. To close gaps in the ship's outer planking with pitch and old rope(caulking), the vessel was careened on to its side bringing the hull out of water. Big ships only came into the harbour if they were due for repairs or to be laid up. Otherwise, they would remain out in the open water: in front of the line of posts (left) that protected the city and harbour from the IJ. The cargo was transported to and from the quay in smaller boats.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221132",
+            "https://id.rijksmuseum.nl/2213742"
+          ],
+          "imageUrl": "https://iiif.micr.io/TjGjA/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107959",
+          "name": "The windmill at Wijk bij Duurstede",
+          "timespan": "c. 1668 - c. 1670",
+          "artist": "Jacob Isaacksz van Ruisdael",
+          "material": "oil on canvas",
+          "dimensions": "height 83 cm x width 101 cm",
+          "exhibitScript": "The windmill rises up majestically, defying the dark rain clouds and overshadowing the castle and the church of Wijk bij Duurstede. The River Lek flows in the foreground. This painting is world famous, and rightly so. In this impressive composition, Ruisdael united all the typical Dutch elements – the low-lying land, the water and the expansive sky – manipulating them to converge on the equally characteristic Dutch mill.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221171",
+            "https://id.rijksmuseum.nl/221132",
+            "https://id.rijksmuseum.nl/221352"
+          ],
+          "imageUrl": "https://iiif.micr.io/XWEFp/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026301",
+          "name": "Schepen op een onstuimige zee",
+          "timespan": "1826",
+          "artist": "Johannes Christiaan Schotel",
+          "material": "oil on canvas",
+          "dimensions": "depth 14.4 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221337",
+            "https://id.rijksmuseum.nl/221541",
+            "https://id.rijksmuseum.nl/221132"
+          ],
+          "imageUrl": "https://iiif.micr.io/QSgUk/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
