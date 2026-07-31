@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T00:48:11.883Z",
+  "generatedAt": "2026-07-31T00:54:07.521Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -2425,6 +2425,95 @@
             "https://id.rijksmuseum.nl/221132"
           ],
           "imageUrl": "https://iiif.micr.io/QSgUk/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-07-31",
+      "number": 31,
+      "title": "Daily Art #31 — House personnel, servants",
+      "answer": {
+        "id": "200425904",
+        "name": "Portrait of a Venetian Family with a Manservant Serving Coffee",
+        "timespan": "c. 1752",
+        "artist": "Pietro Longhi",
+        "material": "oil on canvas",
+        "dimensions": "height 60.2 cm x width 48.2 cm",
+        "exhibitScript": "In his paintings, Longhi usually poked gentle fun at the everyday activities of the Venetian elite. This is not, however, the case here. It is simply a portrait of a family drinking coffee, with the lady of the house taking centre stage. The conspicuous inclusion of the servant is noteworthy. He must have been a valued member of the household.",
+        "tags": [
+          "https://id.rijksmuseum.nl/221848",
+          "https://id.rijksmuseum.nl/221202",
+          "https://id.rijksmuseum.nl/221397"
+        ],
+        "imageUrl": "https://iiif.micr.io/dvpuD/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200383651",
+          "name": "Plaque depicting an interior with figures",
+          "timespan": "c. 1770 - c. 1775",
+          "artist": "anonymous",
+          "material": "undefined",
+          "dimensions": "height 37 cm x width 48.5 cm",
+          "exhibitScript": "A man in summer dress converses with a Manchurian woman, recognizable from her large shoes and broad hairstyle. The books and writing materials in the cabinet suggest that she is well educated. The four plaques in this series are still in their original Chinese lacquer frames.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221848",
+            "https://id.rijksmuseum.nl/2211367",
+            "https://id.rijksmuseum.nl/221137",
+            "https://id.rijksmuseum.nl/221397",
+            "https://id.rijksmuseum.nl/22192"
+          ],
+          "imageUrl": "https://iiif.micr.io/wHFMy/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200109190",
+          "name": "Pieter Cnoll, Cornelia van Nijenrode, their Daughters and Two Enslaved Servants",
+          "timespan": "1665",
+          "artist": "Jacob Coeman",
+          "material": "oil on canvas",
+          "dimensions": "height 141.5 cm x width 201.5 cm x thickness 7.5 cm",
+          "exhibitScript": "Cornelia van Nijenrode was the daughter of a Japanese courtesan and a Dutch East India Company (VOC) merchant. She was married to the wealthy senior VOC merchant Cnoll. In the background is Surapati, one of their servants. He fled slavery several years after he was portrayed here. First, he fought in the service of the VOC, but later against it. Surapati then became a monarch in East Java and centuries later was proclaimed Indonesia’s national hero.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221848",
+            "https://id.rijksmuseum.nl/22192",
+            "https://id.rijksmuseum.nl/22129",
+            "https://id.rijksmuseum.nl/221532",
+            "https://id.rijksmuseum.nl/2213182",
+            "https://id.rijksmuseum.nl/221202"
+          ],
+          "imageUrl": "https://iiif.micr.io/FWAMr/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20061487",
+          "name": "Portrait of the Cock Blomhoff Family, their Wetnurse and two Enslaved Servants",
+          "timespan": "1817",
+          "artist": "attributed to Ishizaki Yushi",
+          "material": "paint on silk",
+          "dimensions": "height 95.7 cm x width 173.3 cm x depth 3.3 cm",
+          "exhibitScript": "When the director Jan Cock Blomhoff travelled to Japan in 1817, he did something highly unusual: he took along his family. Western women were not allowed onto Deshima. Titia, her young son and the wetnurse thus had to leave the country a few months later. A Japanese artist portrayed the family. From left to right are: Jan Cock Blomhoff, the wetnurse Petronella Munts, Titia Cock Blomhoff-Bergsma, her son Jan and two enslaved Javanese servants: Maraty and an unknown boy.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221202",
+            "https://id.rijksmuseum.nl/221610",
+            "https://id.rijksmuseum.nl/221848",
+            "https://id.rijksmuseum.nl/22110563"
+          ],
+          "imageUrl": "https://iiif.micr.io/mzfHi/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
