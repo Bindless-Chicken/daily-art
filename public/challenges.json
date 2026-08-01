@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T00:54:07.521Z",
+  "generatedAt": "2026-08-01T00:56:27.595Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -2514,6 +2514,92 @@
             "https://id.rijksmuseum.nl/22110563"
           ],
           "imageUrl": "https://iiif.micr.io/mzfHi/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-01",
+      "number": 32,
+      "title": "Daily Art #32 — Still life of related objects",
+      "answer": {
+        "id": "20015030",
+        "name": "Still Life with Dead Hare and Partridges",
+        "timespan": "1717",
+        "artist": "Dirk Valkenburg (mentioned on object)",
+        "material": "oil on canvas",
+        "dimensions": "depth 11.5 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221327",
+          "https://id.rijksmuseum.nl/221679",
+          "https://id.rijksmuseum.nl/221729"
+        ],
+        "imageUrl": "https://iiif.micr.io/zmnQO/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20026435",
+          "name": "Still Life with Flowers",
+          "timespan": "1789",
+          "artist": "Harmanus Uppink (mentioned on object)",
+          "material": "oil on canvas",
+          "dimensions": "height 73 cm x width 60 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221327",
+            "https://id.rijksmuseum.nl/221532",
+            "https://id.rijksmuseum.nl/221107",
+            "https://id.rijksmuseum.nl/2211248"
+          ],
+          "imageUrl": "https://iiif.micr.io/MRRMU/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107940",
+          "name": "Vanitas Still Life",
+          "timespan": "c. 1628 - c. 1632",
+          "artist": "Jan Lievens",
+          "material": "oil on panel",
+          "dimensions": "support: height 91 cm x width 120 cm",
+          "exhibitScript": "Appearances can be deceiving. What at first sight looks to be an overturned lute is just an old wooden case for the instrument. The books, too, are a disappointment; they are merely empty bindings, limp covers of leather or parchment meant to hold bills and other documents. These are all old objects – cast off, worthless and transitory.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221326",
+            "https://id.rijksmuseum.nl/22134",
+            "https://id.rijksmuseum.nl/221327",
+            "https://id.rijksmuseum.nl/22137",
+            "https://id.rijksmuseum.nl/221252"
+          ],
+          "imageUrl": "https://iiif.micr.io/jjmVB/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200593120",
+          "name": "Still Life of Flowers and Nuts",
+          "timespan": "c. 1830",
+          "artist": "Anthony Oberman (signed by artist)",
+          "material": "undefined",
+          "dimensions": "height 50 cm",
+          "exhibitScript": "Floral still lifes of the Romantic period are characterised by their simple composition, light colour and the profusion of native species. So too in this still life: we see authentic Dutch plants such as primulas, geraniums, periwinkles, forget-me-nots and nasturtiums, as well as plants that were cultivated in glasshouses around 1830: daffodils, anemones, tulips and hyacinths. The blue tulip was originally purple: remains of the lost red pigment are still visible.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221107",
+            "https://id.rijksmuseum.nl/221327",
+            "https://id.rijksmuseum.nl/221532"
+          ],
+          "imageUrl": "https://iiif.micr.io/KmgWz/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
