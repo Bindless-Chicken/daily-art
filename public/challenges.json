@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T00:56:27.595Z",
+  "generatedAt": "2026-08-02T00:55:28.563Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -2600,6 +2600,89 @@
             "https://id.rijksmuseum.nl/221532"
           ],
           "imageUrl": "https://iiif.micr.io/KmgWz/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-02",
+      "number": 33,
+      "title": "Daily Art #33 — Commander-in-chief, admiral",
+      "answer": {
+        "id": "20028684",
+        "name": "Allegory of the Revival of the Dutch Herring Fishery after the Second Anglo-Dutch War (1665-67)",
+        "timespan": "c. 1667 - c. 1670",
+        "artist": "attributed to Willem Eversdijck",
+        "material": "oil on canvas",
+        "dimensions": "outer size: depth 5 cm (support incl. SK-L-6095)",
+        "exhibitScript": "Allegory of the prosperity of the fishing industry, attributed to Willem Eversdijck, shortly after 1667. Michiel de Ruyter and other prominent admirals are hauling in a herring net and enjoying the fish. After the Republic's successes of the Second Anglo-Dutch War (1665-1667), the herring fishery was able to flourish again. Here the artist shows the importance of the protection of the Dutch navy for trade and fishing.",
+        "tags": [
+          "https://id.rijksmuseum.nl/22113226",
+          "https://id.rijksmuseum.nl/221816",
+          "https://id.rijksmuseum.nl/221753",
+          "https://id.rijksmuseum.nl/22123"
+        ],
+        "imageUrl": "https://iiif.micr.io/uRSTd/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20027047",
+          "name": "Aert van Nes (1626-93). Luitenant-admiraal",
+          "timespan": "1668",
+          "artist": "Bartholomeus van der Helst",
+          "material": "oil on canvas",
+          "dimensions": "depth 9.5 cm",
+          "exhibitScript": "Aert van Nes and his wife Geertruida van Dubbelde, by Bartholomeus van der Helst, 1668. (Background scenes painted by Ludolf Bakhuysen). High-ranking naval officers commanded considerable respect in the Republic. Here, Lieutenant-Admiral Van Nes (c. 1625-1693) and his wife show off their status. The couple had their portraits painted by one of the leading portrait artists of the day. Their clothes are obviously expensive, and Geertruida's jewellery is equally costly. She is pointing to her husband, whose position has brought them prosperity. In the background of the portrait, the ships anchored in the safety of the harbour illustrate her role; the battle in the background of Van Nes's portrait refers to his. He is holding a baton, signalling his naval rank. A servant (his hat submissively in his hand) is bringing a message.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221753",
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221593",
+            "https://id.rijksmuseum.nl/221617"
+          ],
+          "imageUrl": "https://iiif.micr.io/wJLJA/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027196",
+          "name": "Johan de Liefde (ca. 1619-73), Vice-Admiral",
+          "timespan": "1668",
+          "artist": "Bartholomeus van der Helst",
+          "material": "oil on canvas",
+          "dimensions": "depth 8 cm",
+          "exhibitScript": "Johan de Liefde by Bartholomeus van der Helst, 1668. Johan de Liefde (c. 1619-1673) played a key role in the capture of the English flagship, the Royal Charles, in 1667. In honour of the victory he received a gold chain with a commemorative medal. Van der Helst portrayed him in all his finery, wearing the chain. The background, with the battle, was painted by Ludolf Bakhuysen. De Liefde, who was made lieutenant admiral in 1666, was killed in the Battle of Kijkduin off the coast of Holland during the Third Anglo-Dutch War (1672-1674).",
+          "tags": [
+            "https://id.rijksmuseum.nl/221753",
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/jXfXz/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026674",
+          "name": "Michiel Adriaenszoon de Ruyter (1607-1676), luitenant-admiraal",
+          "timespan": "1650 - 1750",
+          "artist": "copy after Ferdinand Bol",
+          "material": "oil on canvas",
+          "dimensions": "support: height 112 cm x width 90 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221753",
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/waRyv/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
