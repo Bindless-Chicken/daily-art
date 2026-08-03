@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T00:55:28.563Z",
+  "generatedAt": "2026-08-03T00:55:15.119Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -2683,6 +2683,91 @@
             "https://id.rijksmuseum.nl/22123"
           ],
           "imageUrl": "https://iiif.micr.io/waRyv/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "number": 34,
+      "title": "Daily Art #34 — Historical persons",
+      "answer": {
+        "id": "20028656",
+        "name": "Portrait of Léonard Pierre Joseph, Viscount du Bus de Gisignies, Commissioner-General",
+        "timespan": "1836",
+        "artist": "François Joseph Navez (mentioned on object)",
+        "material": "oil on canvas",
+        "dimensions": "height 113.5 cm x width 98 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/2211131",
+          "https://id.rijksmuseum.nl/22123"
+        ],
+        "imageUrl": "https://iiif.micr.io/jKMhG/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200109794",
+          "name": "Self Portrait",
+          "timespan": "1887",
+          "artist": "Vincent van Gogh",
+          "material": "undefined",
+          "dimensions": "depth 8 cm",
+          "exhibitScript": "Vincent moved to Paris in 1886, after hearing from his brother Theo about the new, colourful style of French painting. Wasting no time, he tried it out in several self-portraits. He did this mostly to avoid having to pay for a model. Using rhythmic brushstrokes in striking colours, he portrayed himself here as a fashionably dressed Parisian.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221328",
+            "https://id.rijksmuseum.nl/221451",
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/vjYfT/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027368",
+          "name": "Portrait of William Frederick, Prince of Orange-Nassau, later King William I, as a Child",
+          "timespan": "c. 1775",
+          "artist": "anonymous",
+          "material": "oil on canvas",
+          "dimensions": "depth 6 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/TcyTU/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200109346",
+          "name": "Portrait of a Couple in a Landscape, probably Isaac Abrahamsz Massa (1586-1643) and Beatrix van der Laen (1592-1639)",
+          "timespan": "c. 1622",
+          "artist": "Frans Hals",
+          "material": "oil on canvas",
+          "dimensions": "support: height 140 cm x width 166.5 cm",
+          "exhibitScript": "It was rare for a married couple to be portrayed lifesize and together in a single painting, and even more so in such an intimate and joyful manner. The patron would have had to have been receptive to such innovation. The close friendship between Hals and the newlywed couple, presumably Isaac Abrahamsz Massa and Beatrix van der Laen, likely played a crucial role in facilitating the creation of this audacious portrait.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221930",
+            "https://id.rijksmuseum.nl/221317",
+            "https://id.rijksmuseum.nl/221221",
+            "https://id.rijksmuseum.nl/221177",
+            "https://id.rijksmuseum.nl/221173",
+            "https://id.rijksmuseum.nl/221205",
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221931"
+          ],
+          "imageUrl": "https://iiif.micr.io/ZrjcE/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
