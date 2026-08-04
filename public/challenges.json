@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T00:55:15.119Z",
+  "generatedAt": "2026-08-04T00:52:47.529Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -2768,6 +2768,92 @@
             "https://id.rijksmuseum.nl/221931"
           ],
           "imageUrl": "https://iiif.micr.io/ZrjcE/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-04",
+      "number": 35,
+      "title": "Daily Art #35 — Beggar",
+      "answer": {
+        "id": "20020408",
+        "name": "Adolf and Catharina Croeser, Known as ‘The Burgomaster of Delft and his Daughter’",
+        "timespan": "1655",
+        "artist": "Jan Havicksz. Steen",
+        "material": "oil on canvas",
+        "dimensions": "height 82.5 cm x width 68.5 cm x depth cm",
+        "exhibitScript": "Legs wide apart and his right arm akimbo, Croeser sits on the stoop of his house on the Oude Delft canal in Delft. His thirteen-year-old daughter Catharina looks straight out at us. Jan Steen included a narrative element in this portrait: a poor woman and child beg for alms from the wealthy grain merchant. In 1657, just two years after this portrait was made, Croeser stood surety for Steen, who was seriously in debt.",
+        "tags": [
+          "https://id.rijksmuseum.nl/2211248",
+          "https://id.rijksmuseum.nl/22110693",
+          "https://id.rijksmuseum.nl/2212689",
+          "https://id.rijksmuseum.nl/221619",
+          "https://id.rijksmuseum.nl/221276"
+        ],
+        "imageUrl": "https://iiif.micr.io/QQWEh/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20026845",
+          "name": "Lente",
+          "timespan": "1625",
+          "artist": "Adriaen Pietersz van de Venne",
+          "material": "oil on panel",
+          "dimensions": "support: height 14.7 cm x width 37.3 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221619",
+            "https://id.rijksmuseum.nl/221621",
+            "https://id.rijksmuseum.nl/22192",
+            "https://id.rijksmuseum.nl/221620"
+          ],
+          "imageUrl": "https://iiif.micr.io/mqhFQ/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200415343",
+          "name": "The Seven Works of Mercy",
+          "timespan": "1504",
+          "artist": "Master of Alkmaar",
+          "material": "oil on panel",
+          "dimensions": "support: height 103.5 cm x width 56.8 cm",
+          "exhibitScript": "A Dutch city is the backdrop to this narrative that shows how a good Christian should help those in need. Christ stands among the spectators in almost every panel. The scenes give an impression of urban society around 1500. The work was badly damaged during the Iconoclasm of 1566, when Roman Catholic churches were vandalized by Protestants.",
+          "tags": [
+            "https://id.rijksmuseum.nl/2212713",
+            "https://id.rijksmuseum.nl/221619",
+            "https://id.rijksmuseum.nl/221432"
+          ],
+          "imageUrl": "https://iiif.micr.io/dXyQH/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200415342",
+          "name": "Panel of a polyptych with the seven works of charity: feeding the hungry",
+          "timespan": "1504",
+          "artist": "Master of Alkmaar",
+          "material": "oil on panel",
+          "dimensions": "support: height 103.5 cm x width 55 cm",
+          "exhibitScript": "A Dutch city is the backdrop to this narrative that shows how a good Christian should help those in need. Christ stands among the spectators in almost every panel. The scenes give an impression of urban society around 1500. The work was badly damaged during the Iconoclasm of 1566, when Roman Catholic churches were vandalized by Protestants.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221433",
+            "https://id.rijksmuseum.nl/2212713",
+            "https://id.rijksmuseum.nl/221619"
+          ],
+          "imageUrl": "https://iiif.micr.io/cYAVd/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
