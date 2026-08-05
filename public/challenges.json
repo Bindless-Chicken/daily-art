@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T00:52:47.529Z",
+  "generatedAt": "2026-08-05T00:47:58.033Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -2854,6 +2854,92 @@
             "https://id.rijksmuseum.nl/221619"
           ],
           "imageUrl": "https://iiif.micr.io/cYAVd/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "number": 36,
+      "title": "Daily Art #36 — Rowing-boat, canoe, etc.",
+      "answer": {
+        "id": "200108396",
+        "name": "Herfstlandschap",
+        "timespan": "c. 1875 - c. 1903",
+        "artist": "Johan Hendrik Weissenbruch (mentioned on object)",
+        "material": "oil on canvas",
+        "dimensions": "width 66.5 cm",
+        "exhibitScript": "Weissenbruch spent a great deal of time in the village of Noorden along the Nieuwkoop lakes, where he ventured out to sketch, even in poor weather. He worked up these sketches later in his studio. In Autumn Landscape the paint layers were applied wet-on-wet in an ultimate attempt to capture on canvas the damp atmosphere of the Dutch polder landscape.",
+        "tags": [
+          "https://id.rijksmuseum.nl/221313",
+          "https://id.rijksmuseum.nl/221652"
+        ],
+        "imageUrl": "https://iiif.micr.io/HTuyN/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200107948",
+          "name": "Sheet of Water near Loosdrecht",
+          "timespan": "1887",
+          "artist": "Willem Roelofs (I) (mentioned on object)",
+          "material": "undefined",
+          "dimensions": "height 30 cm x width 45 cm",
+          "exhibitScript": "From the inscription ‘effet de matin’, it is clear that Roelofs made this painting in the early morning. The painter devoted great attention to the shimmer-ing and sparkling of the sky and the reflective surface of the water. As he himself wrote: ‘Far more difficult than expressing the colour of the sky is to render its curvature and the vibrating play of the atmosphere.’",
+          "tags": [
+            "https://id.rijksmuseum.nl/221313",
+            "https://id.rijksmuseum.nl/221336"
+          ],
+          "imageUrl": "https://iiif.micr.io/xQTZV/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108516",
+          "name": "Fishing for Souls",
+          "timespan": "1614",
+          "artist": "Adriaen Pietersz van de Venne",
+          "material": "oil on panel",
+          "dimensions": "sight size: height 97 cm x width 186.7 cm",
+          "exhibitScript": "In 1614 politics and religion are inextricably bound up with one another, as is very clear to see in this painting. At the left are Protestant ministers and leaders of the Republic (including Maurice), and at the right the archdukes who govern the South, with countless Catholic clergymen. The North, according to the painter, has a promising future: the sun shines there, the trees are full of leaves. Whosoever wants to be saved is better off swimming to a Protestant boat.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221702",
+            "https://id.rijksmuseum.nl/221313",
+            "https://id.rijksmuseum.nl/221701",
+            "https://id.rijksmuseum.nl/221704",
+            "https://id.rijksmuseum.nl/221699",
+            "https://id.rijksmuseum.nl/221703",
+            "https://id.rijksmuseum.nl/221700",
+            "https://id.rijksmuseum.nl/221451",
+            "https://id.rijksmuseum.nl/221171"
+          ],
+          "imageUrl": "https://iiif.micr.io/uaBGu/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026237",
+          "name": "River View near Deventer",
+          "timespan": "1645",
+          "artist": "Salomon van Ruysdael (signed by artist)",
+          "material": "oil on canvas",
+          "dimensions": "outersize: depth 8.9 cm (support incl. SK-L-6173)",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221313",
+            "https://id.rijksmuseum.nl/221171"
+          ],
+          "imageUrl": "https://iiif.micr.io/MbSrw/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
