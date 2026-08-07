@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T00:46:03.067Z",
+  "generatedAt": "2026-08-07T01:26:22.095Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -3019,6 +3019,92 @@
             "https://id.rijksmuseum.nl/221346"
           ],
           "imageUrl": "https://iiif.micr.io/oZLfA/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-07",
+      "number": 38,
+      "title": "Daily Art #38 — Landscape with ruins",
+      "answer": {
+        "id": "20026991",
+        "name": "Hertenjacht",
+        "timespan": "c. 1655 - 1656",
+        "artist": "Philips Wouwerman (mentioned on object)",
+        "material": "oil on copper",
+        "dimensions": "outer size: depth 4.5 cm (support incl. frame)",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/2211448",
+          "https://id.rijksmuseum.nl/221292"
+        ],
+        "imageUrl": "https://iiif.micr.io/HGMBq/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20026515",
+          "name": "Drovers with Cattle under an Arch of the Colosseum in Rome",
+          "timespan": "1640 - 1652",
+          "artist": "Jan Asselijn (mentioned on object)",
+          "material": "oil on panel",
+          "dimensions": "depth 6 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221292",
+            "https://id.rijksmuseum.nl/221174"
+          ],
+          "imageUrl": "https://iiif.micr.io/ofYVJ/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107887",
+          "name": "View of Olinda, Dutch Brazil",
+          "timespan": "1662",
+          "artist": "Frans Jansz Post",
+          "material": "oil on canvas",
+          "dimensions": "height 107.5 cm x width 172.5 cm",
+          "exhibitScript": "Frans Post mainly drew and painted landscapes and buildings, including the cathedral of Olinda, a coastal town in the Pernambuco region of Brazil. The building was badly damaged when the Dutch conquered this region. In the foreground, Post depicted an array of animals, including a monkey, a sloth, and an anteater. This animal motif continues in the 17th-century frame, which Post may have designed himself.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221292",
+            "https://id.rijksmuseum.nl/221291",
+            "https://id.rijksmuseum.nl/221290",
+            "https://id.rijksmuseum.nl/221293",
+            "https://id.rijksmuseum.nl/221166",
+            "https://id.rijksmuseum.nl/221289"
+          ],
+          "imageUrl": "https://iiif.micr.io/zcGWb/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200609468",
+          "name": "Monk Meditating near a Ruin by Moonlight",
+          "timespan": "1862",
+          "artist": "Frederik Marinus Kruseman (signed by artist)",
+          "material": "oil on canvas",
+          "dimensions": "height 78 cm x width 64 cm",
+          "exhibitScript": "In the right foreground of this nocturnal scene a monk meditates near an overgrown ruin. This is the abbey in Villers-la-Ville near Brussels, the city where the painter lived for a while. The subject and the frame embellished with sheaves of wheat were inspired by the German Romantic painter Caspar David Friedrich’s famous Tetschen Altarpiece depicting a cross atop a mountain.",
+          "tags": [
+            "https://id.rijksmuseum.nl/2211224",
+            "https://id.rijksmuseum.nl/22120803",
+            "https://id.rijksmuseum.nl/221302",
+            "https://id.rijksmuseum.nl/221292",
+            "https://id.rijksmuseum.nl/2213650"
+          ],
+          "imageUrl": "https://iiif.micr.io/AVPLN/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
