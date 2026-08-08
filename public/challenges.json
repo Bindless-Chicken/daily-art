@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T01:26:22.095Z",
+  "generatedAt": "2026-08-08T00:30:00.038Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -3105,6 +3105,85 @@
             "https://id.rijksmuseum.nl/2213650"
           ],
           "imageUrl": "https://iiif.micr.io/AVPLN/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-08",
+      "number": 39,
+      "title": "Daily Art #39 — Forest, wood",
+      "answer": {
+        "id": "200109727",
+        "name": "View in a Forest, Outer Left Wing of a Triptych",
+        "timespan": "c. 1505 - c. 1515",
+        "artist": "Gerard David",
+        "material": "oil on panel",
+        "dimensions": "sight size: height 88.2 cm x width 29.2 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221346"
+        ],
+        "imageUrl": "https://iiif.micr.io/wTtan/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200111819",
+          "name": "View in the Woods",
+          "timespan": "1848",
+          "artist": "Barend Cornelis Koekkoek",
+          "material": "oil on canvas",
+          "dimensions": "height 136 cm x width 160 cm",
+          "exhibitScript": "Of all Dutch landscape painters, Koekkoek is perhaps the most Romantic. He specialized in splendid panora-mas of the valley of the Rhine and forest scenes with majestic trees, which at the time were called ‘Wodan’s Oaks’ (Wodan being the Dutch name for Odin, the major god in Norse mythology). In 1834 Koekkoek settled in Cleves in Germany, over the border from Nijmegen. He found German scenery, with its hills and the Rhine, more romantic than the Dutch landscape.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221174",
+            "https://id.rijksmuseum.nl/221346",
+            "https://id.rijksmuseum.nl/221780"
+          ],
+          "imageUrl": "https://iiif.micr.io/XygBp/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027755",
+          "name": "Snow Landscape",
+          "timespan": "1845",
+          "artist": "Alexander Joseph Daiwaille",
+          "material": "oil on canvas",
+          "dimensions": "height 70.5 cm x width 62 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221351",
+            "https://id.rijksmuseum.nl/221346",
+            "https://id.rijksmuseum.nl/221456"
+          ],
+          "imageUrl": "https://iiif.micr.io/Cewyx/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108394",
+          "name": "Wooded View near Barbizon",
+          "timespan": "1900",
+          "artist": "Johan Hendrik Weissenbruch",
+          "material": "oil on canvas",
+          "dimensions": "height 48.5 cm x width 64 cm",
+          "exhibitScript": "The Barbizon artists’ colony was located on the edge of the forest of Fontainebleau, southeast of Paris. Barbizon painters exerted a major influence on the Hague School. For this reason, Weissenbruch made a pilgrimage there for his only trip abroad, which he made at the ripe age of 76! He portrayed the characteristic birch forest, with a painter leaning against a boulder while sketching.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221346"
+          ],
+          "imageUrl": "https://iiif.micr.io/oZLfA/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
