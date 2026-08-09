@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T00:30:00.038Z",
+  "generatedAt": "2026-08-09T00:32:20.930Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -3184,6 +3184,90 @@
             "https://id.rijksmuseum.nl/221346"
           ],
           "imageUrl": "https://iiif.micr.io/oZLfA/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-09",
+      "number": 40,
+      "title": "Daily Art #40 — Old woman",
+      "answer": {
+        "id": "20027468",
+        "name": "Old Jewish Woman",
+        "timespan": "1880",
+        "artist": "Meijer Isaäc de Haan",
+        "material": "oil on canvas",
+        "dimensions": "height 63 cm x width 52 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221803",
+          "https://id.rijksmuseum.nl/221319"
+        ],
+        "imageUrl": "https://iiif.micr.io/XeJDC/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200107935",
+          "name": "Musical Company",
+          "timespan": "1626",
+          "artist": "Rembrandt van Rijn",
+          "material": "oil on panel",
+          "dimensions": "height 63.5 cm x width 48 cm",
+          "exhibitScript": "The subject of this painting is a mystery: is it an exhortation to praise God through singing and string music, or a scene of seduction with the old woman as a procuress? In any case, in this early work Rembrandt used elements from his own surroundings: his mother modelled for the old woman, and Rembrandt’s own features can be recognized in the young man.",
+          "tags": [
+            "https://id.rijksmuseum.nl/22134",
+            "https://id.rijksmuseum.nl/221322",
+            "https://id.rijksmuseum.nl/221320",
+            "https://id.rijksmuseum.nl/221312",
+            "https://id.rijksmuseum.nl/221321",
+            "https://id.rijksmuseum.nl/221319"
+          ],
+          "imageUrl": "https://iiif.micr.io/hdvov/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026655",
+          "name": "Old Woman Selling Eggs",
+          "timespan": "1632",
+          "artist": "Hendrick Bloemaert (mentioned on object)",
+          "material": "oil on canvas",
+          "dimensions": "support: height 76.5 cm x width 58 cm x thickness 4 cm (support incl. protective backboard)",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221319",
+            "https://id.rijksmuseum.nl/221525",
+            "https://id.rijksmuseum.nl/22114356"
+          ],
+          "imageUrl": "https://iiif.micr.io/HEJww/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107947",
+          "name": "An Old Woman Reading, Probably the Prophetess Hannah",
+          "timespan": "1631",
+          "artist": "Rembrandt van Rijn (mentioned on object)",
+          "material": "oil on panel",
+          "dimensions": "height 60 cm x width 48 cm",
+          "exhibitScript": "Here the light comes from behind the old woman: the brightest illumination falls on the book and her wrinkled hand, modelled with paint. Her face remains in shadow. She could be the prophetess Anna, an elderly widow who, according to the Bible, served God through fasting and prayer. Tradition has it that Rembrandt’s mother posed for this painting.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221319",
+            "https://id.rijksmuseum.nl/221335"
+          ],
+          "imageUrl": "https://iiif.micr.io/CNSQg/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
