@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T00:32:20.930Z",
+  "generatedAt": "2026-08-10T00:34:20.661Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -3268,6 +3268,89 @@
             "https://id.rijksmuseum.nl/221335"
           ],
           "imageUrl": "https://iiif.micr.io/CNSQg/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-10",
+      "number": 41,
+      "title": "Daily Art #41 — Skates (winter sports)",
+      "answer": {
+        "id": "20026848",
+        "name": "Winter",
+        "timespan": "1625",
+        "artist": "Adriaen Pietersz van de Venne",
+        "material": "oil on panel",
+        "dimensions": "outer size: height 22.8 cm x width 45.3 cm x depth 3.3 cm (support incl. frame)",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221374",
+          "https://id.rijksmuseum.nl/221626",
+          "https://id.rijksmuseum.nl/221351",
+          "https://id.rijksmuseum.nl/221612"
+        ],
+        "imageUrl": "https://iiif.micr.io/hjyQo/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20026826",
+          "name": "Winter Landscape",
+          "timespan": "c. 1620 - c. 1630",
+          "artist": "attributed to Jan van de Velde (II)",
+          "material": "oil on panel",
+          "dimensions": "support: height 9.1 cm x width 11.5 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221374",
+            "https://id.rijksmuseum.nl/221351"
+          ],
+          "imageUrl": "https://iiif.micr.io/rzQpc/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200529588",
+          "name": "Enjoying the Ice near a Town",
+          "timespan": "c. 1620",
+          "artist": "Hendrick Avercamp",
+          "material": "undefined",
+          "dimensions": "height 47 cm x width 89 cm",
+          "exhibitScript": "A beggar tries to scrounge a bit of money, and another man has cut a hole in the ice in the hope of catching\r\nfish. The needy have to toil to make a living; those who are better off amuse themselves on the ice: and the richest of all – in the right foreground – look on. A few well-to-do ladies wear velvet masks to protect the delicate skin around their eyes from the cold.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221351",
+            "https://id.rijksmuseum.nl/221535",
+            "https://id.rijksmuseum.nl/221374"
+          ],
+          "imageUrl": "https://iiif.micr.io/CCoww/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026282",
+          "name": "IJsgezicht met houtsprokkelaars",
+          "timespan": "1849",
+          "artist": "Andreas Schelfhout",
+          "material": "oil on panel",
+          "dimensions": "height 18.3 cm x width 26.3 cm x thickness 0.5 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2211353",
+            "https://id.rijksmuseum.nl/221374",
+            "https://id.rijksmuseum.nl/221351"
+          ],
+          "imageUrl": "https://iiif.micr.io/ZTQTg/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
