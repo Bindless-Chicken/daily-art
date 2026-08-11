@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T00:34:20.661Z",
+  "generatedAt": "2026-08-11T00:31:55.233Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -3351,6 +3351,92 @@
             "https://id.rijksmuseum.nl/221351"
           ],
           "imageUrl": "https://iiif.micr.io/ZTQTg/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-11",
+      "number": 42,
+      "title": "Daily Art #42 — Kitchen-maid, kitchen servant",
+      "answer": {
+        "id": "200108479",
+        "name": "Keukeninterieur",
+        "timespan": "1645",
+        "artist": "Jan Olis",
+        "material": "oil on panel",
+        "dimensions": "height 67 cm x width 80.5 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/2211112",
+          "https://id.rijksmuseum.nl/221631",
+          "https://id.rijksmuseum.nl/221831"
+        ],
+        "imageUrl": "https://iiif.micr.io/COTHn/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20026170",
+          "name": "Keukeninterieur met de gelijkenis van de rijke man en de arme Lazarus",
+          "timespan": "1610 - 1620",
+          "artist": "attributed to Pieter Cornelisz. van Rijck",
+          "material": "oil on canvas",
+          "dimensions": "height 198 cm x width 272 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2215672",
+            "https://id.rijksmuseum.nl/221462",
+            "https://id.rijksmuseum.nl/221631",
+            "https://id.rijksmuseum.nl/221836",
+            "https://id.rijksmuseum.nl/221831"
+          ],
+          "imageUrl": "https://iiif.micr.io/yYdKx/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108936",
+          "name": "Kitchen Scene, with Jesus in the House of Martha and Mary in the background",
+          "timespan": "1569",
+          "artist": "copy after Joachim Bueckelaer",
+          "material": "oil on panel",
+          "dimensions": "height 110 cm x width 140.5 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221631",
+            "https://id.rijksmuseum.nl/221831",
+            "https://id.rijksmuseum.nl/221830",
+            "https://id.rijksmuseum.nl/221777"
+          ],
+          "imageUrl": "https://iiif.micr.io/wQNWD/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027394",
+          "name": "The Kitchen",
+          "timespan": "c. 1760 - c. 1771",
+          "artist": "Willem Joseph Laquy",
+          "material": "oil on canvas",
+          "dimensions": "depth 6.8 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2213660",
+            "https://id.rijksmuseum.nl/221631",
+            "https://id.rijksmuseum.nl/2214751"
+          ],
+          "imageUrl": "https://iiif.micr.io/Uywha/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
