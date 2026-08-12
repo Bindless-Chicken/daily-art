@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T00:31:55.233Z",
+  "generatedAt": "2026-08-12T00:37:32.768Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -3437,6 +3437,87 @@
             "https://id.rijksmuseum.nl/2214751"
           ],
           "imageUrl": "https://iiif.micr.io/Uywha/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "number": 43,
+      "title": "Daily Art #43 — Museum personnel",
+      "answer": {
+        "id": "20026388",
+        "name": "Johann Wilhelm Kaiser (1813-1900). Graficus, directeur van de Graveerschool en van het Rijksmuseum",
+        "timespan": "c. 1875 - c. 1900",
+        "artist": "Pantaleon Szyndler",
+        "material": "oil on canvas",
+        "dimensions": "height 69 cm x width 55 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/22121151",
+          "https://id.rijksmuseum.nl/22123",
+          "https://id.rijksmuseum.nl/221451",
+          "https://id.rijksmuseum.nl/221750"
+        ],
+        "imageUrl": "https://iiif.micr.io/DrUFD/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200109376",
+          "name": "Cornelis Apostool (1762-1844), First Director (1808-1844) of the Koninklijk Museum, later Rijks Museum, Amsterdam",
+          "timespan": "c. 1816",
+          "artist": "Charles Howard Hodges",
+          "material": "oil on canvas",
+          "dimensions": "height 73 cm x width 53 cm",
+          "exhibitScript": "After the defeat of Napoleon, the director of the Rijks-museum, Apostool, was responsible for retrieving the art that had been stolen from the Netherlands and taken to France. In 1816 he returned triumphantly with most of it. This portrait was probably made on that occasion. Apostool wears the order of the knighthood that he received. The catalogue in his hand, from the Musée Français in Paris, is open to the Dutch school.",
+          "tags": [
+            "https://id.rijksmuseum.nl/22121151",
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/jnJgo/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026879",
+          "name": "Johan Philip van der Kellen (1831-1906). Directeur van het Rijksprentenkabinet (1876-96)",
+          "timespan": "1904",
+          "artist": "Jan Veth (signed by artist)",
+          "material": "oil on canvas",
+          "dimensions": "height 65 cm x width 56 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/22121151"
+          ],
+          "imageUrl": "https://iiif.micr.io/jtmEd/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20028169",
+          "name": "Frederik Schmidt-Degener (1881-1941). Hoofddirecteur van het Rijksmuseum te Amsterdam (1922-41)",
+          "timespan": "1936",
+          "artist": "Harm Kamerlingh Onnes (signed by artist)",
+          "material": "oil on canvas",
+          "dimensions": "depth 4.2 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/22121151",
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/arCIV/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
