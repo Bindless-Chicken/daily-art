@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T00:37:32.768Z",
+  "generatedAt": "2026-08-13T00:38:43.685Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -3518,6 +3518,90 @@
             "https://id.rijksmuseum.nl/22123"
           ],
           "imageUrl": "https://iiif.micr.io/arCIV/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "number": 44,
+      "title": "Daily Art #44 — Canals, waters (in city)",
+      "answer": {
+        "id": "20068694",
+        "name": "Benares, 1913",
+        "timespan": "1913",
+        "artist": "Marius Bauer",
+        "material": "oil on canvas",
+        "dimensions": "height 137 cm x width 117 cm",
+        "exhibitScript": "In this painting, Bauer portrays life in Benares, one of the world’s oldest cities located on the Ganges River, in an idyllic setting. Bauer’s six- month trip through  India in 1897 afforded him inspiration for the rest of his life. There is no room for suffering and povertyin his works of art.  Instead, he focuses on the beauty of the sunlit city with a bathing woman and child, and rowers pushing off a sloop.",
+        "tags": [
+          "https://id.rijksmuseum.nl/22115666",
+          "https://id.rijksmuseum.nl/221155",
+          "https://id.rijksmuseum.nl/221391",
+          "https://id.rijksmuseum.nl/22114594"
+        ],
+        "imageUrl": "https://iiif.micr.io/vphJU/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200109707",
+          "name": "Gezicht vanaf de Rapenburgwal op de Peperbrug en het pakhuis Sweeden",
+          "timespan": "1911",
+          "artist": "Willem Witsen",
+          "material": "oil on canvas",
+          "dimensions": "height 52 cm x width 42 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2211058",
+            "https://id.rijksmuseum.nl/2211057",
+            "https://id.rijksmuseum.nl/221391"
+          ],
+          "imageUrl": "https://iiif.micr.io/COuNW/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200106078",
+          "name": "The Raampoortje in Amsterdam",
+          "timespan": "1809",
+          "artist": "Wouter Johannes van Troostwijk",
+          "material": "oil on canvas",
+          "dimensions": "height 57 cm x width 48 cm",
+          "exhibitScript": "The 18th-century Raampoortje was part of Amsterdam’s city rampart near the Bloemgracht. The small gate gave access to the bleaching fields outside the city wall, where dyed cloth was laid out to dry on wooden frames, from which the Raampoortje (Frame Gate) got its name. Here we look from the bleaching fields past the houses on the Bloemgracht towards the cold and wintry city. The Westertoren rises in the distance. The gate was demolished in 1846.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221391",
+            "https://id.rijksmuseum.nl/221350",
+            "https://id.rijksmuseum.nl/221457",
+            "https://id.rijksmuseum.nl/221456"
+          ],
+          "imageUrl": "https://iiif.micr.io/vHCad/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20013048",
+          "name": "The ‘Golden Bend’ in the Herengracht, Amsterdam, Seen from the West",
+          "timespan": "1672",
+          "artist": "Gerrit Berckheyde",
+          "material": "oil on panel",
+          "dimensions": "height 40.5 cm x width 63 cm",
+          "exhibitScript": "The cityscape developed into an independent genre only after 1650, with Berckheyde as one of its leading exponents. In this painting he recorded with mathematical precision the newly built houses along the ‘Golden Bend’, the most expensive stretch of Amsterdam’s\r\nHerengracht. Through the omission of the row of young trees that lined the quay of the canal in reality, the topographical accuracy of the scene is complemented by a bit of artistic license.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221551",
+            "https://id.rijksmuseum.nl/221391"
+          ],
+          "imageUrl": "https://iiif.micr.io/PMvvG/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
