@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T00:38:43.685Z",
+  "generatedAt": "2026-08-14T00:38:32.852Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -3602,6 +3602,87 @@
             "https://id.rijksmuseum.nl/221391"
           ],
           "imageUrl": "https://iiif.micr.io/PMvvG/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "number": 45,
+      "title": "Daily Art #45 — Cupids: 'amores', 'amoretti', 'putti'",
+      "answer": {
+        "id": "20028710",
+        "name": "Putti with Mirrors",
+        "timespan": "1725 - 1744",
+        "artist": "Jacob de Wit",
+        "material": "oil on canvas",
+        "dimensions": "height 30 cm x width 35 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221197",
+          "https://id.rijksmuseum.nl/221705"
+        ],
+        "imageUrl": "https://iiif.micr.io/XgXDZ/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20027609",
+          "name": "Four Putti Carrying a Fruit Basket",
+          "timespan": "c. 1725 - c. 1774",
+          "artist": "anonymous",
+          "material": "oil on canvas",
+          "dimensions": "height 86 cm x width 98 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221705"
+          ],
+          "imageUrl": "https://iiif.micr.io/UsdfU/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20028771",
+          "name": "Putti with a Wreath of Flowers",
+          "timespan": "c. 1650",
+          "artist": "workshop of Gerard van Honthorst",
+          "material": "oil on canvas",
+          "dimensions": "support: diameter 133.2 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221705"
+          ],
+          "imageUrl": "https://iiif.micr.io/KEwFA/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200111830",
+          "name": "Allegory of the Sciences",
+          "timespan": "c. 1675 - c. 1683",
+          "artist": "Gerard de Lairesse",
+          "material": "oil on canvas",
+          "dimensions": "height 289 cm x width 161 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221705",
+            "https://id.rijksmuseum.nl/2211220",
+            "https://id.rijksmuseum.nl/2211219",
+            "https://id.rijksmuseum.nl/2211221",
+            "https://id.rijksmuseum.nl/2211218",
+            "https://id.rijksmuseum.nl/2211222"
+          ],
+          "imageUrl": "https://iiif.micr.io/eKMxZ/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
