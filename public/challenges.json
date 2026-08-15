@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T00:38:32.852Z",
+  "generatedAt": "2026-08-15T00:23:45.443Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -3683,6 +3683,83 @@
             "https://id.rijksmuseum.nl/2211222"
           ],
           "imageUrl": "https://iiif.micr.io/eKMxZ/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "number": 46,
+      "title": "Daily Art #46 — Historical persons not known by name - BB - woman",
+      "answer": {
+        "id": "200107756",
+        "name": "The Meeting of Granida and Daifilo",
+        "timespan": "c. 1655 - c. 1660",
+        "artist": "Jan Mijtens (signed by artist)",
+        "material": "oil on canvas",
+        "dimensions": "support: height 110.4 cm x width 141.7 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221981",
+          "https://id.rijksmuseum.nl/221178",
+          "https://id.rijksmuseum.nl/2217279"
+        ],
+        "imageUrl": "https://iiif.micr.io/hQYKU/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20026441",
+          "name": "Portrait of a Young Woman Holding a Flower",
+          "timespan": "c. 1668 - c. 1670",
+          "artist": "Wallerant Vaillant",
+          "material": "oil on canvas",
+          "dimensions": "outer size: depth 7.5 cm (support incl. SK-L-1988)",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221178"
+          ],
+          "imageUrl": "https://iiif.micr.io/bvHme/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026296",
+          "name": "Portret van een vrouw",
+          "timespan": "1550 - 1574",
+          "artist": "anonymous",
+          "material": "oil on panel",
+          "dimensions": "height 43.7 cm x width 32.2 cm x thickness 0.8 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221178"
+          ],
+          "imageUrl": "https://iiif.micr.io/SVnun/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20028127",
+          "name": "Portrait of a Woman",
+          "timespan": "1900 - 1922",
+          "artist": "Isaac Israels",
+          "material": "oil on canvas",
+          "dimensions": "height 46 cm x width 36 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221178"
+          ],
+          "imageUrl": "https://iiif.micr.io/htSbb/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
