@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T00:23:45.443Z",
+  "generatedAt": "2026-08-16T00:25:00.188Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -3760,6 +3760,85 @@
             "https://id.rijksmuseum.nl/221178"
           ],
           "imageUrl": "https://iiif.micr.io/htSbb/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "number": 47,
+      "title": "Daily Art #47 — The rich man (Dives) is feasting, while poor Lazarus is starving at the gate (dogs licking Lazarus' sores) (Luke 16:19-31)",
+      "answer": {
+        "id": "20027864",
+        "name": "De rijke man en de arme Lazarus",
+        "timespan": "1661",
+        "artist": "Barent Fabritius",
+        "material": "oil on canvas",
+        "dimensions": "height 95 cm x width 292 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221462"
+        ],
+        "imageUrl": "https://iiif.micr.io/GmbSM/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20015872",
+          "name": "Three regentesses and the housemistress of the Leper-House, Amsterdam",
+          "timespan": "1624",
+          "artist": "Werner van den Valckert",
+          "material": "oil on panel",
+          "dimensions": "overall: weight 31.2 kg",
+          "exhibitScript": "<p><span lang=\"EN-US\">Seated at the table are the regentesses Trijntje ten Bergh, Anna Willekens, and Trijntje Felincx. Between them stands Marritje Roelofs, the ‘house mother’ responsible for the daily running of the asylum, including providing the meals. On the table lie a register, (small bags of) coins, and a counting board, all referring to the regentesses’ administrative tasks, such as record-keeping and financial management. </span></p>",
+          "tags": [
+            "https://id.rijksmuseum.nl/221462",
+            "https://id.rijksmuseum.nl/221463",
+            "https://id.rijksmuseum.nl/221173"
+          ],
+          "imageUrl": "https://iiif.micr.io/pyLmH/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20025802",
+          "name": "Parable of the Rich Man and Poor Lazarus",
+          "timespan": "c. 1550 - c. 1575",
+          "artist": "anonymous",
+          "material": "oil on panel",
+          "dimensions": "height 208 cm x width 122 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221462"
+          ],
+          "imageUrl": "https://iiif.micr.io/azwwO/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20015873",
+          "name": "Four Regents and the Housemaster of the Leper-House, Amsterdam",
+          "timespan": "1624",
+          "artist": "Werner van den Valckert",
+          "material": "oil on panel",
+          "dimensions": "support: height 134 cm x width 209 cm",
+          "exhibitScript": "The men wearing hats are the regents, or buitenvaders, of the Amsterdam Lepers’ Asylum, which cared for people suffering from leprosy and other ailments. The bare-headed man at left is the binnenvader, or house father, charged with the daily running of the asylum. The relief behind the group illustrates an appropriate biblical scene: dogs licking the sores of Lazarus, a beggar afflicted with leprosy.",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221462",
+            "https://id.rijksmuseum.nl/221465"
+          ],
+          "imageUrl": "https://iiif.micr.io/SJCsM/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
