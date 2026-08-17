@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T00:25:00.188Z",
+  "generatedAt": "2026-08-17T00:23:45.592Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -3839,6 +3839,87 @@
             "https://id.rijksmuseum.nl/221465"
           ],
           "imageUrl": "https://iiif.micr.io/SJCsM/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "number": 48,
+      "title": "Daily Art #48 — Herding, herdsman, herdswoman, shepherd, shepherdess, cowherd, etc.",
+      "answer": {
+        "id": "20028293",
+        "name": "De slapende herder",
+        "timespan": "1678",
+        "artist": "Jan van der Meer (II)",
+        "material": "oil on canvas",
+        "dimensions": "height 65 cm x width 83 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/2212646",
+          "https://id.rijksmuseum.nl/221174"
+        ],
+        "imageUrl": "https://iiif.micr.io/KdolY/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200108351",
+          "name": "The Hut",
+          "timespan": "1671",
+          "artist": "Adriaen van de Velde",
+          "material": "oil on canvas",
+          "dimensions": "height 76 cm x width 65 cm",
+          "exhibitScript": "In composing this scene, Van de Velde relied on various preliminary drawings made from life. His superb skills as a painter of figures and animals were renowned in the 17th century, and he was regularly asked to paint the staffage in the landscapes and city views of other artists.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221105",
+            "https://id.rijksmuseum.nl/221174",
+            "https://id.rijksmuseum.nl/221606"
+          ],
+          "imageUrl": "https://iiif.micr.io/qtaTQ/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200111819",
+          "name": "View in the Woods",
+          "timespan": "1848",
+          "artist": "Barend Cornelis Koekkoek",
+          "material": "oil on canvas",
+          "dimensions": "height 136 cm x width 160 cm",
+          "exhibitScript": "Of all Dutch landscape painters, Koekkoek is perhaps the most Romantic. He specialized in splendid panora-mas of the valley of the Rhine and forest scenes with majestic trees, which at the time were called ‘Wodan’s Oaks’ (Wodan being the Dutch name for Odin, the major god in Norse mythology). In 1834 Koekkoek settled in Cleves in Germany, over the border from Nijmegen. He found German scenery, with its hills and the Rhine, more romantic than the Dutch landscape.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221174",
+            "https://id.rijksmuseum.nl/221346",
+            "https://id.rijksmuseum.nl/221780"
+          ],
+          "imageUrl": "https://iiif.micr.io/XygBp/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20028285",
+          "name": "Shepherdess with a Flock of Sheep",
+          "timespan": "c. 1870 - c. 1888",
+          "artist": "Anton Mauve (mentioned on object)",
+          "material": "oil on canvas",
+          "dimensions": "weight 22 kg",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221174",
+            "https://id.rijksmuseum.nl/221368"
+          ],
+          "imageUrl": "https://iiif.micr.io/EyNmc/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
