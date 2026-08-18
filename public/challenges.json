@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T00:23:45.592Z",
+  "generatedAt": "2026-08-18T00:23:04.433Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -3920,6 +3920,88 @@
             "https://id.rijksmuseum.nl/221368"
           ],
           "imageUrl": "https://iiif.micr.io/EyNmc/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-18",
+      "number": 49,
+      "title": "Daily Art #49 — Water course",
+      "answer": {
+        "id": "20028464",
+        "name": "Watercourse with Sail Barges",
+        "timespan": "1885 - 1912",
+        "artist": "Eduard Karsen",
+        "material": "oil on canvas",
+        "dimensions": "height 44.6 cm x width 32.7 cm x thickness 2.8 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221132",
+          "https://id.rijksmuseum.nl/221280"
+        ],
+        "imageUrl": "https://iiif.micr.io/eUXSw/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20027901",
+          "name": "A Watercourse near Abcoude",
+          "timespan": "1878",
+          "artist": "Paul Joseph Constantin Gabriël (mentioned on object)",
+          "material": "oil on panel",
+          "dimensions": "depth 10 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221280",
+            "https://id.rijksmuseum.nl/221352"
+          ],
+          "imageUrl": "https://iiif.micr.io/skFwg/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108398",
+          "name": "The Trekvliet Shipping Canal near Rijswijk, known as the ‘View near the Geest Bridge’",
+          "timespan": "1868",
+          "artist": "Johan Hendrik Weissenbruch (mentioned on object)",
+          "material": "oil on panel",
+          "dimensions": "height 31 cm x width 50 cm",
+          "exhibitScript": "A tranquil landscape executed in bright colours: this early painting by Weissenbruch is still very Romantic in feel. Yet unlike the Romantic painters, Weissenbruch did not alter reality to suit his imagination, but gave a topographically accurate representation. The Trekvliet Canal linked The Hague with the neighbouring villages of Rijswijk and Voorburg. In the distance at left is the tower of De Binckhorst Castle, and the windmill called the Laakmolen at right.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221132",
+            "https://id.rijksmuseum.nl/221280",
+            "https://id.rijksmuseum.nl/221352",
+            "https://id.rijksmuseum.nl/221339",
+            "https://id.rijksmuseum.nl/221654"
+          ],
+          "imageUrl": "https://iiif.micr.io/GQOcv/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107978",
+          "name": "A frozen waterway near the Maas",
+          "timespan": "1867",
+          "artist": "Andreas Schelfhout",
+          "material": "oil on canvas",
+          "dimensions": "height 70 cm x width 107 cm",
+          "exhibitScript": "This winter landscape presents a typically Dutch river scene: a panoramic, tranquil world almost devoid of colour. The activity on the ice creates a cheerful accent. Schelfhout specialized in this genre. His frozen winter scenes, which allude to the 17th century, were extremely popular. They were even called ‘little Schelfhouts’.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221374",
+            "https://id.rijksmuseum.nl/221280"
+          ],
+          "imageUrl": "https://iiif.micr.io/RPjbD/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
