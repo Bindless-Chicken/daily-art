@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T00:23:38.835Z",
+  "generatedAt": "2026-08-21T00:25:01.044Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -4162,6 +4162,87 @@
             "https://id.rijksmuseum.nl/221325"
           ],
           "imageUrl": "https://iiif.micr.io/OzDjp/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "number": 52,
+      "title": "Daily Art #52 — Historical persons",
+      "answer": {
+        "id": "20029258",
+        "name": "Portrait of Willem Ploos van Amstel, Bailiff of Loosdrecht",
+        "timespan": "1578",
+        "artist": "anonymous",
+        "material": "undefined",
+        "dimensions": "height 29.5 cm x width 25 cm x depth 2.5 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/22123"
+        ],
+        "imageUrl": "https://iiif.micr.io/QDits/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20029254",
+          "name": "Allegory of the Tyranny of the Duke of Alba in the Netherlands",
+          "timespan": "c. 1622 - c. 1630",
+          "artist": "anonymous",
+          "material": "oil on panel",
+          "dimensions": "outer size: depth 3 cm (support incl. frame)",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/22116340",
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/vjpvK/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107876",
+          "name": "Giuliano & Francesco Giamberti da Sangallo Piero di Cosimo (1462–1522)",
+          "timespan": "1482 - 1485",
+          "artist": "Piero di Cosimo",
+          "material": "oil on panel",
+          "dimensions": "height 47.5 cm x width 33.5 cm",
+          "exhibitScript": "In these pendant portraits, the Florentine architect Giuliano da Sangallo is portrayed with his recently deceased father Francesco, who was a musician as well as an architect. These two panels are among the earliest examples of portraits in which the sitter’s vocation is central. The quill and compass denote architecture, the sheet of notes refers to music: both arts are based on harmony and proportion.",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221264",
+            "https://id.rijksmuseum.nl/221205",
+            "https://id.rijksmuseum.nl/221266",
+            "https://id.rijksmuseum.nl/221265"
+          ],
+          "imageUrl": "https://iiif.micr.io/RXrQw/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027027",
+          "name": "Portret van Filips III (1578-1621), koning van Spanje",
+          "timespan": "c. 1600",
+          "artist": "anonymous",
+          "material": "oil on copper",
+          "dimensions": "support: height 28.5 cm x width 22.4 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221713"
+          ],
+          "imageUrl": "https://iiif.micr.io/kdUus/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
