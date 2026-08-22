@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T00:25:01.044Z",
+  "generatedAt": "2026-08-22T00:23:13.206Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -4243,6 +4243,88 @@
             "https://id.rijksmuseum.nl/221713"
           ],
           "imageUrl": "https://iiif.micr.io/kdUus/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "number": 53,
+      "title": "Daily Art #53 — Cow",
+      "answer": {
+        "id": "20026145",
+        "name": "Meadow with Animals",
+        "timespan": "1820 - 1837",
+        "artist": "Jan van Ravenswaay",
+        "material": "oil on canvas",
+        "dimensions": "height 96 cm x width 122 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221130",
+          "https://id.rijksmuseum.nl/2211764",
+          "https://id.rijksmuseum.nl/22150",
+          "https://id.rijksmuseum.nl/221174",
+          "https://id.rijksmuseum.nl/221239"
+        ],
+        "imageUrl": "https://iiif.micr.io/tTHYd/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20027446",
+          "name": "De melkbocht",
+          "timespan": "1870 - 1888",
+          "artist": "Anton Mauve",
+          "material": "oil on canvas",
+          "dimensions": "height 171 cm x width 115 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221885",
+            "https://id.rijksmuseum.nl/221130"
+          ],
+          "imageUrl": "https://iiif.micr.io/rycDX/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200109265",
+          "name": "River Landscape near Nijmegen with Riders Watering their Horses",
+          "timespan": "c. 1653 - 1657",
+          "artist": "Aelbert Cuyp (mentioned on object)",
+          "material": "oil on canvas",
+          "dimensions": "outer size: depth 10 cm (support incl. frame)",
+          "exhibitScript": "This is a panoramic, sun-drenched river landscape – somewhat hazy in the distance – with sketchily drawn clouds. Two Dutch officers halt at the river, and water their horses next to a herder and his resting cattle. This idyllic scene does not unfold in Italy, but along the Waal between Nijmegen and Cleves, where Cuyp made landscape drawings that he took back to his workshop in Dordrecht.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221130",
+            "https://id.rijksmuseum.nl/22150",
+            "https://id.rijksmuseum.nl/221171"
+          ],
+          "imageUrl": "https://iiif.micr.io/uMHxo/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107950",
+          "name": "Weidelandschap met vee",
+          "timespan": "c. 1880",
+          "artist": "Willem Roelofs (I)",
+          "material": "oil on panel",
+          "dimensions": "height 49.2 cm x width 77.3 cm",
+          "exhibitScript": "Unlike Romantic painters, Hague School artists had an eye for the beauty of the polder landscape. Instead of the dramatic and varied landscapes of the Romantic tradition, they painted cows ruminating tranquilly in verdant meadows with a panoramic horizon. These works were greatly appreciated and gave rise to the image of the Netherlands as a green, flat polder landscape under a greyish blue sky.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221130"
+          ],
+          "imageUrl": "https://iiif.micr.io/ATzRy/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
