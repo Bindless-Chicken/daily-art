@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T00:23:13.206Z",
+  "generatedAt": "2026-08-23T00:25:22.724Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -4325,6 +4325,86 @@
             "https://id.rijksmuseum.nl/221130"
           ],
           "imageUrl": "https://iiif.micr.io/ATzRy/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-23",
+      "number": 54,
+      "title": "Daily Art #54 — Sailing-ship, sailing-boat",
+      "answer": {
+        "id": "20028247",
+        "name": "Harbor View",
+        "timespan": "c. 1887",
+        "artist": "Jacob Maris (mentioned on object)",
+        "material": "oil on canvas",
+        "dimensions": "depth 9.8 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221132",
+          "https://id.rijksmuseum.nl/221791"
+        ],
+        "imageUrl": "https://iiif.micr.io/mjGzZ/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20026301",
+          "name": "Schepen op een onstuimige zee",
+          "timespan": "1826",
+          "artist": "Johannes Christiaan Schotel",
+          "material": "oil on canvas",
+          "dimensions": "depth 14.4 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221337",
+            "https://id.rijksmuseum.nl/221541",
+            "https://id.rijksmuseum.nl/221132"
+          ],
+          "imageUrl": "https://iiif.micr.io/QSgUk/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027186",
+          "name": "The Caulking of Ships at the Bothuisje on Het IJ in Amsterdam",
+          "timespan": "1660 - 1668",
+          "artist": "Reinier Nooms",
+          "material": "oil on canvas",
+          "dimensions": "depth 7 cm",
+          "exhibitScript": "Caulking the ships on the IJ at Amsterdam by Reinier Nooms, mid 17th century. Wooden sailing ships needed constant maintenance. They had to be examined after every voyage. To close gaps in the ship's outer planking with pitch and old rope(caulking), the vessel was careened on to its side bringing the hull out of water. Big ships only came into the harbour if they were due for repairs or to be laid up. Otherwise, they would remain out in the open water: in front of the line of posts (left) that protected the city and harbour from the IJ. The cargo was transported to and from the quay in smaller boats.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221132",
+            "https://id.rijksmuseum.nl/2213742"
+          ],
+          "imageUrl": "https://iiif.micr.io/TjGjA/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027351",
+          "name": "Gezicht op Algiers met Michiel Adriaenszoon de Ruyters schip 'De Liefde', 1662",
+          "timespan": "1662 - 1668",
+          "artist": "Reinier Nooms (signed by artist)",
+          "material": "oil on canvas",
+          "dimensions": "support: height 65.5 cm x width 110 cm",
+          "exhibitScript": "Four views of North-African cities. Reinier Nooms, c. 1665. To protect the Dutch merchant fleet, the navy took the fight the enemy, far beyond the country's coastal waters. The Mediterranean harbours shown here - Algiers, Tunis, Tripoli and Salee - were bases from which privateers attacked Dutch merchant shipping. Attempts were made to impose treaties on these cities using the threat of naval force. Between 1661 and 1663 Admiral Michiel de Ruyter cruised the Mediterranean Sea in an effort to stamp out piracy. De Ruyter's ship, de Liefde, is shown in the foreground of the view of Algiers. This series of paintings was displayed in one of the rooms of the Amsterdam Admiralty. The Republic's navy was divided into five regional admiralties, one of which was based in Amsterdam.",
+          "tags": [
+            "https://id.rijksmuseum.nl/2219694",
+            "https://id.rijksmuseum.nl/221132"
+          ],
+          "imageUrl": "https://iiif.micr.io/nAPLf/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
