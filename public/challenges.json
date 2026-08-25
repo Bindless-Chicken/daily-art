@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T00:24:38.931Z",
+  "generatedAt": "2026-08-25T00:24:09.298Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -4495,6 +4495,85 @@
             "https://id.rijksmuseum.nl/221931"
           ],
           "imageUrl": "https://iiif.micr.io/ZrjcE/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-25",
+      "number": 56,
+      "title": "Daily Art #56 — Writer, poet, author",
+      "answer": {
+        "id": "200107865",
+        "name": "Portret van Gijsbert Tijssens (1693-1732), toneelschrijver te Amsterdam",
+        "timespan": "1732 - 1771",
+        "artist": "Jan Maurits Quinkhard",
+        "material": "undefined",
+        "dimensions": "height 11 cm x width 9.5 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/2214737",
+          "https://id.rijksmuseum.nl/221258"
+        ],
+        "imageUrl": "https://iiif.micr.io/Wzxon/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200107834",
+          "name": "Balthasar Bekker (1634-98). Predikant en letterkundige te Amsterdam",
+          "timespan": "1700 - 1732",
+          "artist": "Arnoud van Halen",
+          "material": "undefined",
+          "dimensions": "height 11 cm x width 9.5 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221258",
+            "https://id.rijksmuseum.nl/2214737"
+          ],
+          "imageUrl": "https://iiif.micr.io/fuLxv/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20029042",
+          "name": "Portrait of Jacob Cats (1577-1660)",
+          "timespan": "1639",
+          "artist": "Michiel Jansz van Mierevelt (signed by artist)",
+          "material": "oil on panel",
+          "dimensions": "support: height 67.1 cm x width 57 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2214737",
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/uHgGs/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20029023",
+          "name": "Portrait of Theodorus Velius, Writer of the Chronicle of Horn",
+          "timespan": "c. 1732 - c. 1771",
+          "artist": "Jan Maurits Quinkhard",
+          "material": "undefined",
+          "dimensions": "height 41.2 cm x width 47.4 cm x depth 1.6 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2214737",
+            "https://id.rijksmuseum.nl/221258"
+          ],
+          "imageUrl": "https://iiif.micr.io/KwQwW/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
