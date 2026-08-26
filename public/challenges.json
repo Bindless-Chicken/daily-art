@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T00:24:09.298Z",
+  "generatedAt": "2026-08-26T00:25:01.927Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -4574,6 +4574,96 @@
             "https://id.rijksmuseum.nl/221258"
           ],
           "imageUrl": "https://iiif.micr.io/KwQwW/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "number": 57,
+      "title": "Daily Art #57 — Historical persons",
+      "answer": {
+        "id": "200108256",
+        "name": "Self-Portrait",
+        "timespan": "c. 1669",
+        "artist": "Ferdinand Bol",
+        "material": "oil on canvas",
+        "dimensions": "height 128 cm x width 104 cm",
+        "exhibitScript": "Wearing an embroidered Japanese dressing gown, Bol poses as a man of the world here. He probably painted this self-portrait on the occasion of his marriage to the wealthy widow Anna van Erckel, one of his earliest patrons. The gilded, ornate frame was specially made for the painting. Its large carved sunflowers symbolize marriage: they trail the sun just like a person follows their beloved one.",
+        "tags": [
+          "https://id.rijksmuseum.nl/221370",
+          "https://id.rijksmuseum.nl/22123",
+          "https://id.rijksmuseum.nl/221451",
+          "https://id.rijksmuseum.nl/221328",
+          "https://id.rijksmuseum.nl/221572"
+        ],
+        "imageUrl": "https://iiif.micr.io/DUvOY/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200109346",
+          "name": "Portrait of a Couple in a Landscape, probably Isaac Abrahamsz Massa (1586-1643) and Beatrix van der Laen (1592-1639)",
+          "timespan": "c. 1622",
+          "artist": "Frans Hals",
+          "material": "oil on canvas",
+          "dimensions": "support: height 140 cm x width 166.5 cm",
+          "exhibitScript": "It was rare for a married couple to be portrayed lifesize and together in a single painting, and even more so in such an intimate and joyful manner. The patron would have had to have been receptive to such innovation. The close friendship between Hals and the newlywed couple, presumably Isaac Abrahamsz Massa and Beatrix van der Laen, likely played a crucial role in facilitating the creation of this audacious portrait.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221930",
+            "https://id.rijksmuseum.nl/221317",
+            "https://id.rijksmuseum.nl/221221",
+            "https://id.rijksmuseum.nl/221177",
+            "https://id.rijksmuseum.nl/221173",
+            "https://id.rijksmuseum.nl/221205",
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221931"
+          ],
+          "imageUrl": "https://iiif.micr.io/ZrjcE/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107876",
+          "name": "Giuliano & Francesco Giamberti da Sangallo Piero di Cosimo (1462–1522)",
+          "timespan": "1482 - 1485",
+          "artist": "Piero di Cosimo",
+          "material": "oil on panel",
+          "dimensions": "height 47.5 cm x width 33.5 cm",
+          "exhibitScript": "In these pendant portraits, the Florentine architect Giuliano da Sangallo is portrayed with his recently deceased father Francesco, who was a musician as well as an architect. These two panels are among the earliest examples of portraits in which the sitter’s vocation is central. The quill and compass denote architecture, the sheet of notes refers to music: both arts are based on harmony and proportion.",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221264",
+            "https://id.rijksmuseum.nl/221205",
+            "https://id.rijksmuseum.nl/221266",
+            "https://id.rijksmuseum.nl/221265"
+          ],
+          "imageUrl": "https://iiif.micr.io/RXrQw/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027368",
+          "name": "Portrait of William Frederick, Prince of Orange-Nassau, later King William I, as a Child",
+          "timespan": "c. 1775",
+          "artist": "anonymous",
+          "material": "oil on canvas",
+          "dimensions": "depth 6 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/TcyTU/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
