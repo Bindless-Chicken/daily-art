@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T00:25:01.927Z",
+  "generatedAt": "2026-08-27T01:57:59.407Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -4664,6 +4664,85 @@
             "https://id.rijksmuseum.nl/22123"
           ],
           "imageUrl": "https://iiif.micr.io/TcyTU/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "number": 58,
+      "title": "Daily Art #58 — Public road",
+      "answer": {
+        "id": "200108695",
+        "name": "Slijpsteenmarkt (Whetstone Market) in Amsterdam with the Building 'Het Zeerecht' in Winter (The Slypsteenen at Amsterdam)",
+        "timespan": "1817",
+        "artist": "George Pieter Westenberg",
+        "material": "oil on canvas",
+        "dimensions": "height 52 cm x width 68 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221351",
+          "https://id.rijksmuseum.nl/221792"
+        ],
+        "imageUrl": "https://iiif.micr.io/NXYXF/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20028263",
+          "name": "Landschap in de omgeving van Den Haag",
+          "timespan": "1891",
+          "artist": "Jacob Maris",
+          "material": "oil on canvas",
+          "dimensions": "depth 11 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2217339",
+            "https://id.rijksmuseum.nl/221792"
+          ],
+          "imageUrl": "https://iiif.micr.io/tthbt/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108215",
+          "name": "Het Oude Zijds Herenlogement te Amsterdam",
+          "timespan": "1660 - 1680",
+          "artist": "Gerrit Berckheyde",
+          "material": "oil on panel",
+          "dimensions": "height 30 cm x width 41 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221792",
+            "https://id.rijksmuseum.nl/221391",
+            "https://id.rijksmuseum.nl/221673"
+          ],
+          "imageUrl": "https://iiif.micr.io/rguTY/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026760",
+          "name": "Neighborhood Street in Rijswijk near The Hague",
+          "timespan": "c. 1880 - c. 1923",
+          "artist": "George Hendrik Breitner (mentioned on object)",
+          "material": "oil on panel",
+          "dimensions": "depth 10 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221792"
+          ],
+          "imageUrl": "https://iiif.micr.io/pQAeD/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
