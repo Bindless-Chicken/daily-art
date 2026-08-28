@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T01:57:59.407Z",
+  "generatedAt": "2026-08-28T03:22:05.504Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -4743,6 +4743,85 @@
             "https://id.rijksmuseum.nl/221792"
           ],
           "imageUrl": "https://iiif.micr.io/pQAeD/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "number": 59,
+      "title": "Daily Art #59 — Swamps and polders",
+      "answer": {
+        "id": "20027961",
+        "name": "Polder Landscape",
+        "timespan": "1644",
+        "artist": "Jan van Goyen (signed by artist)",
+        "material": "oil on panel",
+        "dimensions": "support: height 22 cm x width 33.2 cm",
+        "exhibitScript": "The Dutch landscape is defined by its extensive lowlands, as Jan van Goyen painted here. Much of the countryside consists of polders. The water level inside these areas surrounded by dikes is regulated with the help of mills. Schiphol Airport, too, is located in such a polder, approximately four metres below sea level. Before it was empoldered in the 19th century there was a large body of water here called the Haarlemmermeer.",
+        "tags": [
+          "https://id.rijksmuseum.nl/221352",
+          "https://id.rijksmuseum.nl/221347"
+        ],
+        "imageUrl": "https://iiif.micr.io/GYtse/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200107958",
+          "name": "View of Haarlem from the northwest, with the bleaching fields in the foreground",
+          "timespan": "c. 1650 - c. 1682",
+          "artist": "Jacob Isaacksz van Ruisdael",
+          "material": "oil on canvas",
+          "dimensions": "height 43 cm x width 38 cm",
+          "exhibitScript": "Foreigners experience the flat Dutch landscape as having a straight, low horizon extending under a vast sky with billowing cumulus clouds. This is how Ruisdael painted the Haarlem skyline in the distance, recognizable by the high roof of St Bavo’s. Lengths of cloth bleaching in the sun lie at the foot of the dunes in the foreground. The Haarlem linen industry relied on the pure dune water.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221348",
+            "https://id.rijksmuseum.nl/221155",
+            "https://id.rijksmuseum.nl/221347"
+          ],
+          "imageUrl": "https://iiif.micr.io/dNkMA/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026206",
+          "name": "Corner of a Pond near Breukelen",
+          "timespan": "1888",
+          "artist": "Richard Nicolaüs Roland Holst",
+          "material": "undefined",
+          "dimensions": "height 35 cm x width 29.5 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221347"
+          ],
+          "imageUrl": "https://iiif.micr.io/yDrpC/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026060",
+          "name": "Slootrand met eenden bij een eendenkorf",
+          "timespan": "1884",
+          "artist": "Geo Poggenbeek",
+          "material": "oil on canvas",
+          "dimensions": "height 33 cm x width 49.5 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2214511",
+            "https://id.rijksmuseum.nl/221347"
+          ],
+          "imageUrl": "https://iiif.micr.io/oujWn/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
