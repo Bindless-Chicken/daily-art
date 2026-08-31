@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T01:00:36.400Z",
+  "generatedAt": "2026-08-31T01:01:50.015Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -4983,6 +4983,85 @@
             "https://id.rijksmuseum.nl/221265"
           ],
           "imageUrl": "https://iiif.micr.io/RXrQw/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "number": 62,
+      "title": "Daily Art #62 — Historical persons - BB - woman",
+      "answer": {
+        "id": "20028519",
+        "name": "Portrait of A.M.L. Bonger-van der Linden",
+        "timespan": "1905",
+        "artist": "Odilon Redon (mentioned on object)",
+        "material": "oil on canvas",
+        "dimensions": "height 72.5 cm x width 59.5 cm x thickness 3.3 cm",
+        "exhibitScript": "In 1888, Anne Marie Louise married Andries Bonger, a friend of Theo van Gogh (Vincent’s brother) and of the French painters Emile Bernard and Redon. Andries collected the work of these avant-garde artists, including self-portraits of Van Gogh and Bernard, on view elsewhere in this gallery. Using just two shades of paint, Redon succeeded in infusing this portrait with an air of delicate frailty.",
+        "tags": [
+          "https://id.rijksmuseum.nl/221173"
+        ],
+        "imageUrl": "https://iiif.micr.io/CHVLX/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200642954",
+          "name": "Portrait of Oopjen Coppit",
+          "timespan": "1634",
+          "artist": "Rembrandt van Rijn",
+          "material": "oil on canvas",
+          "dimensions": "height 207.5 cm x width 132 cm x depth 3.6 cm",
+          "exhibitScript": "Oopjen was the eldest of three daughters of an old, affluent Amsterdam family. She sat to Rembrandt one year after her wedding with Marten. She was 23, and pregnant with her first child. The marriage represented an alliance between an established family and one of newcomers. This was celebrated with the commission of monumental likenesses from the city’s leading portraitist, namely Rembrandt van Rijn.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221173"
+          ],
+          "imageUrl": "https://iiif.micr.io/WjxgV/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027475",
+          "name": "Portrait of Mertijntje van Ceters (1609-24)",
+          "timespan": "1623",
+          "artist": "anonymous",
+          "material": "oil on panel",
+          "dimensions": "outer size: depth 5.2 cm (support incl. frame)",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221173"
+          ],
+          "imageUrl": "https://iiif.micr.io/tGtBk/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108304",
+          "name": "Girl in a White Kimono",
+          "timespan": "1894",
+          "artist": "George Hendrik Breitner (mentioned on object)",
+          "material": "oil on canvas",
+          "dimensions": "height 59 cm x width 57 cm x depth 11 cm",
+          "exhibitScript": "The model for this painting was called Geesje Kwak, then a sixteen-year-old housemaid from Amsterdam. She is dressed in a Japanese kimono, a popular subject for Breitner. He made thirteen paintings of girls in kimonos, inspired by Japanese prints, which he as well collected. However, for Europeans, wearing Asian clothing since long also had a sexual inference.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221173",
+            "https://id.rijksmuseum.nl/221596",
+            "https://id.rijksmuseum.nl/2212768",
+            "https://id.rijksmuseum.nl/221595",
+            "https://id.rijksmuseum.nl/2211231"
+          ],
+          "imageUrl": "https://iiif.micr.io/cQMKz/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
