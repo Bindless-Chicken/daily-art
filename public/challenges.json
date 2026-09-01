@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T01:01:50.015Z",
+  "generatedAt": "2026-09-01T01:08:10.516Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -5062,6 +5062,92 @@
             "https://id.rijksmuseum.nl/2211231"
           ],
           "imageUrl": "https://iiif.micr.io/cQMKz/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "number": 63,
+      "title": "Daily Art #63 — Head-gear: turban",
+      "answer": {
+        "id": "200466437",
+        "name": "Achterglasschildering",
+        "timespan": "c. 1795",
+        "artist": "anonymous",
+        "material": "undefined",
+        "dimensions": "height 33.2 cm x width 40.1 cm x depth 3.3 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221312",
+          "https://id.rijksmuseum.nl/221670",
+          "https://id.rijksmuseum.nl/22116490"
+        ],
+        "imageUrl": "https://iiif.micr.io/RLgyN/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200107935",
+          "name": "Musical Company",
+          "timespan": "1626",
+          "artist": "Rembrandt van Rijn",
+          "material": "oil on panel",
+          "dimensions": "height 63.5 cm x width 48 cm",
+          "exhibitScript": "The subject of this painting is a mystery: is it an exhortation to praise God through singing and string music, or a scene of seduction with the old woman as a procuress? In any case, in this early work Rembrandt used elements from his own surroundings: his mother modelled for the old woman, and Rembrandt’s own features can be recognized in the young man.",
+          "tags": [
+            "https://id.rijksmuseum.nl/22134",
+            "https://id.rijksmuseum.nl/221322",
+            "https://id.rijksmuseum.nl/221320",
+            "https://id.rijksmuseum.nl/221312",
+            "https://id.rijksmuseum.nl/221321",
+            "https://id.rijksmuseum.nl/221319"
+          ],
+          "imageUrl": "https://iiif.micr.io/hdvov/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026387",
+          "name": "An Antique Artist",
+          "timespan": "c. 1628 - c. 1636",
+          "artist": "attributed to Johannes van Swinderen",
+          "material": "oil on canvas",
+          "dimensions": "support: height 103.3 cm x width 89.3 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221328",
+            "https://id.rijksmuseum.nl/221451",
+            "https://id.rijksmuseum.nl/221312"
+          ],
+          "imageUrl": "https://iiif.micr.io/fUqZL/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107930",
+          "name": "Bust of a Man in Oriental Dress",
+          "timespan": "1635",
+          "artist": "Rembrandt van Rijn",
+          "material": "oil on panel",
+          "dimensions": "height 72 cm x width 54.5 cm",
+          "exhibitScript": "Rembrandt manipulated light in a highly personal way. Here, the man’s turban and the right side of his face are brilliantly illuminated, while the left side is in shadow. Character heads like this – they are not portraits – were extremely popular in the 17th century; early on, they were widely copied and imitated. They were known as ‘Turkish tronies’.",
+          "tags": [
+            "https://id.rijksmuseum.nl/22171",
+            "https://id.rijksmuseum.nl/221312",
+            "https://id.rijksmuseum.nl/221311"
+          ],
+          "imageUrl": "https://iiif.micr.io/VzuFK/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
