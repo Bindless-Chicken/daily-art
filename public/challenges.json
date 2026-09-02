@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T01:08:10.516Z",
+  "generatedAt": "2026-09-02T00:57:27.587Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -5148,6 +5148,85 @@
             "https://id.rijksmuseum.nl/221311"
           ],
           "imageUrl": "https://iiif.micr.io/VzuFK/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "number": 64,
+      "title": "Daily Art #64 — Historical persons",
+      "answer": {
+        "id": "20027700",
+        "name": "Portrait of the first Earl of Albemarle",
+        "timespan": "1697",
+        "artist": "copy after Gottfried Kneller",
+        "material": "oil on canvas",
+        "dimensions": "depth 8 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/22123"
+        ],
+        "imageUrl": "https://iiif.micr.io/qXhpa/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200639587",
+          "name": "Portrait of Marten Soolmans",
+          "timespan": "1634",
+          "artist": "Rembrandt van Rijn",
+          "material": "undefined",
+          "dimensions": "height 207.5 cm x width 132 cm x depth 3.7 cm",
+          "exhibitScript": "Marten and Oopjen are the only couple that Rembrandt painted life-size, standing, and at full-length. Marten’s father came to Amsterdam from Antwerp as a Protestant refugee. He made his fortune as the owner of a sugar refinery. Marten married Oopjen in 1633. He was 20 and a law student, ready for a career in politics. Sadly, he died a mere eight years later.",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/ydvFQ/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107876",
+          "name": "Giuliano & Francesco Giamberti da Sangallo Piero di Cosimo (1462–1522)",
+          "timespan": "1482 - 1485",
+          "artist": "Piero di Cosimo",
+          "material": "oil on panel",
+          "dimensions": "height 47.5 cm x width 33.5 cm",
+          "exhibitScript": "In these pendant portraits, the Florentine architect Giuliano da Sangallo is portrayed with his recently deceased father Francesco, who was a musician as well as an architect. These two panels are among the earliest examples of portraits in which the sitter’s vocation is central. The quill and compass denote architecture, the sheet of notes refers to music: both arts are based on harmony and proportion.",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221264",
+            "https://id.rijksmuseum.nl/221205",
+            "https://id.rijksmuseum.nl/221266",
+            "https://id.rijksmuseum.nl/221265"
+          ],
+          "imageUrl": "https://iiif.micr.io/RXrQw/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027368",
+          "name": "Portrait of William Frederick, Prince of Orange-Nassau, later King William I, as a Child",
+          "timespan": "c. 1775",
+          "artist": "anonymous",
+          "material": "oil on canvas",
+          "dimensions": "depth 6 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/TcyTU/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
