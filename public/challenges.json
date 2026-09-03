@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T00:57:27.587Z",
+  "generatedAt": "2026-09-03T00:58:06.723Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -5227,6 +5227,87 @@
             "https://id.rijksmuseum.nl/22123"
           ],
           "imageUrl": "https://iiif.micr.io/TcyTU/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "number": 65,
+      "title": "Daily Art #65 — Historical persons not known by name",
+      "answer": {
+        "id": "20027597",
+        "name": "Portret van een man",
+        "timespan": "c. 1805",
+        "artist": "anonymous",
+        "material": "undefined",
+        "dimensions": "width 3.7 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221981"
+        ],
+        "imageUrl": "https://iiif.micr.io/CrJKx/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20027906",
+          "name": "Portrait of an Officer",
+          "timespan": "c. 1625 - c. 1635",
+          "artist": "Wybrand de Geest",
+          "material": "oil on panel",
+          "dimensions": "support: height 55.3 cm x width 47.7 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221981",
+            "https://id.rijksmuseum.nl/22119737"
+          ],
+          "imageUrl": "https://iiif.micr.io/QLYVH/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027823",
+          "name": "Portret van een botanicus",
+          "timespan": "1603",
+          "artist": "anonymous",
+          "material": "oil on panel",
+          "dimensions": "depth 10.5 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221981",
+            "https://id.rijksmuseum.nl/2215855",
+            "https://id.rijksmuseum.nl/2211869",
+            "https://id.rijksmuseum.nl/22116820",
+            "https://id.rijksmuseum.nl/22189",
+            "https://id.rijksmuseum.nl/2216640"
+          ],
+          "imageUrl": "https://iiif.micr.io/BkPUx/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20025829",
+          "name": "Portrait of a man, possibly a member of the van Citters family",
+          "timespan": "1678",
+          "artist": "Caspar Netscher",
+          "material": "oil on canvas",
+          "dimensions": "depth 9.5 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221981"
+          ],
+          "imageUrl": "https://iiif.micr.io/ECcvQ/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
