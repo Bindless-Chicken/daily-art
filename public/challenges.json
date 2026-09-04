@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T00:58:06.723Z",
+  "generatedAt": "2026-09-04T00:55:24.833Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -5308,6 +5308,93 @@
             "https://id.rijksmuseum.nl/221981"
           ],
           "imageUrl": "https://iiif.micr.io/ECcvQ/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "number": 66,
+      "title": "Daily Art #66 — Carnival, Shrovetide (non-liturgical celebration)",
+      "answer": {
+        "id": "20028541",
+        "name": "The Casino",
+        "timespan": "1720 - 1790",
+        "artist": "follower of Pietro Longhi",
+        "material": "oil on canvas",
+        "dimensions": "height 85 cm x width 101.5 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/2214344",
+          "https://id.rijksmuseum.nl/2215660",
+          "https://id.rijksmuseum.nl/2213780",
+          "https://id.rijksmuseum.nl/2211083"
+        ],
+        "imageUrl": "https://iiif.micr.io/KhcGE/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200108184",
+          "name": "The St Martin's Day Kermis",
+          "timespan": "c. 1540 - c. 1598",
+          "artist": "Peeter Baltens",
+          "material": "oil on panel",
+          "dimensions": "height 110 cm x width 148 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221443",
+            "https://id.rijksmuseum.nl/2211890",
+            "https://id.rijksmuseum.nl/2214344",
+            "https://id.rijksmuseum.nl/2216439",
+            "https://id.rijksmuseum.nl/22118132"
+          ],
+          "imageUrl": "https://iiif.micr.io/kiICv/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20015891",
+          "name": "Boerenvastenavond",
+          "timespan": "c. 1625",
+          "artist": "Adriaen Pietersz van de Venne",
+          "material": "oil on panel",
+          "dimensions": "support: height 72.1 cm x width 93 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/22113073",
+            "https://id.rijksmuseum.nl/221351",
+            "https://id.rijksmuseum.nl/2214344"
+          ],
+          "imageUrl": "https://iiif.micr.io/PGyPW/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108284",
+          "name": "Battle between Carnival and Lent",
+          "timespan": "c. 1600 - c. 1620",
+          "artist": "manner of Jheronimus Bosch",
+          "material": "oil on panel",
+          "dimensions": "support: height 74.7 cm x width 240 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2211267",
+            "https://id.rijksmuseum.nl/2216976",
+            "https://id.rijksmuseum.nl/2211847",
+            "https://id.rijksmuseum.nl/2214344"
+          ],
+          "imageUrl": "https://iiif.micr.io/KCBSr/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
