@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T00:55:24.833Z",
+  "generatedAt": "2026-09-05T00:54:11.803Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -5395,6 +5395,92 @@
             "https://id.rijksmuseum.nl/2214344"
           ],
           "imageUrl": "https://iiif.micr.io/KCBSr/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "number": 67,
+      "title": "Daily Art #67 — Historical persons not known by name",
+      "answer": {
+        "id": "20027228",
+        "name": "Portrait of a Rabbi",
+        "timespan": "after 1716",
+        "artist": "after Ary de Vois",
+        "material": "oil on panel",
+        "dimensions": "height 24 cm x width 20 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221981",
+          "https://id.rijksmuseum.nl/221804"
+        ],
+        "imageUrl": "https://iiif.micr.io/hJFkt/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20027958",
+          "name": "Portrait of a Boy with a Kolf Club",
+          "timespan": "1631",
+          "artist": "Wybrand de Geest",
+          "material": "oil on panel",
+          "dimensions": "support: height 115.4 cm x width 85.3 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2211864",
+            "https://id.rijksmuseum.nl/22146",
+            "https://id.rijksmuseum.nl/221981",
+            "https://id.rijksmuseum.nl/221961"
+          ],
+          "imageUrl": "https://iiif.micr.io/vtbus/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20025825",
+          "name": "Family scene",
+          "timespan": "1649 - 1684",
+          "artist": "attributed to Caspar Netscher",
+          "material": "oil on panel",
+          "dimensions": "height 114 cm x width 166.5 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221402",
+            "https://id.rijksmuseum.nl/221981",
+            "https://id.rijksmuseum.nl/221178",
+            "https://id.rijksmuseum.nl/2218283",
+            "https://id.rijksmuseum.nl/2211440"
+          ],
+          "imageUrl": "https://iiif.micr.io/kJheZ/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "2006415",
+          "name": "Family Portrait",
+          "timespan": "1627",
+          "artist": "anonymous",
+          "material": "oil on panel",
+          "dimensions": "height 122 cm x width 191 cm",
+          "exhibitScript": "Praying together and thanking God for our daily bread: just as it should be. This family’s faith is as resolute as the immaculately starched folds in the tablecloth. And it is prosperous, as indicated by the little Chinese dish with strawberries and the full saltcellar on the table (salt was expensive). The Word of God is paramount, as for all Protestants. The vine along the wall refers to Psalm 128: ‘Blessed are all who walk in obedience to the Lord; you will eat the fruit of your labour; blessings and prosperity will be yours.’",
+          "tags": [
+            "https://id.rijksmuseum.nl/221547",
+            "https://id.rijksmuseum.nl/221983",
+            "https://id.rijksmuseum.nl/221793",
+            "https://id.rijksmuseum.nl/221981"
+          ],
+          "imageUrl": "https://iiif.micr.io/cuByM/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
