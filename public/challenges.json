@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T00:54:11.803Z",
+  "generatedAt": "2026-09-06T01:02:24.072Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -5481,6 +5481,89 @@
             "https://id.rijksmuseum.nl/221981"
           ],
           "imageUrl": "https://iiif.micr.io/cuByM/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "number": 68,
+      "title": "Daily Art #68 — Canals, waters (in city) (+ city(-scape) with figures, staffage)",
+      "answer": {
+        "id": "200109824",
+        "name": "The so-called Boerenverdriet on the Spui, Amsterdam",
+        "timespan": "1750 - 1781",
+        "artist": "Jan Ekels (I)",
+        "material": "oil on canvas",
+        "dimensions": "height 40 cm x width 48.5 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/2218162",
+          "https://id.rijksmuseum.nl/22111898"
+        ],
+        "imageUrl": "https://iiif.micr.io/XhyaJ/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20027695",
+          "name": "De ingang van het Canal Grande bij de Punta della Dogana en de Santa Maria della Salute",
+          "timespan": "1730 - 1745",
+          "artist": "workshop of Canaletto",
+          "material": "oil on canvas",
+          "dimensions": "depth 8.5 cm",
+          "exhibitScript": "Studio of Antonio Canale, called Canaletto (1697 - 1768). Entrance to the Grand Canal near the Puntadella Dogana and Santa Maria della Salute. J.W. Edwin vom Rath bequest, 1941.",
+          "tags": [
+            "https://id.rijksmuseum.nl/2218162",
+            "https://id.rijksmuseum.nl/2216027"
+          ],
+          "imageUrl": "https://iiif.micr.io/eWwpy/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026752",
+          "name": "Landschap met een bevroren gracht, schaatsers en een ijsschuit",
+          "timespan": "1611",
+          "artist": "Adam van Breen (signed by artist)",
+          "material": "oil on panel",
+          "dimensions": "support: height 47.5 cm x width 91 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/22112564",
+            "https://id.rijksmuseum.nl/2218162",
+            "https://id.rijksmuseum.nl/2211560",
+            "https://id.rijksmuseum.nl/221535",
+            "https://id.rijksmuseum.nl/221374",
+            "https://id.rijksmuseum.nl/221350"
+          ],
+          "imageUrl": "https://iiif.micr.io/hLDtr/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20015966",
+          "name": "View of the Nieuwe Gracht near the Bolwerk, Haarlem",
+          "timespan": "1800 - 1831",
+          "artist": "Wybrand Hendriks (signed by artist)",
+          "material": "oil on panel",
+          "dimensions": "height 68.5 cm x width 77 cm x thickness 8 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2218162",
+            "https://id.rijksmuseum.nl/221787"
+          ],
+          "imageUrl": "https://iiif.micr.io/fmUBW/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
