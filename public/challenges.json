@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T01:02:24.072Z",
+  "generatedAt": "2026-09-07T01:01:30.362Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -5564,6 +5564,90 @@
             "https://id.rijksmuseum.nl/221787"
           ],
           "imageUrl": "https://iiif.micr.io/fmUBW/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "number": 69,
+      "title": "Daily Art #69 — Commander-in-chief, general, marshal",
+      "answer": {
+        "id": "20026656",
+        "name": "Antonie Frederick Jan Floris Jacob baron van Omphal (1788-1863), luitenant-generaal",
+        "timespan": "1854",
+        "artist": "Herman Antonie de Bloeme",
+        "material": "oil on canvas",
+        "dimensions": "height 129 cm x width 106 cm x thickness 3 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/22123",
+          "https://id.rijksmuseum.nl/221216"
+        ],
+        "imageUrl": "https://iiif.micr.io/exrgX/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20028712",
+          "name": "Keizer Napoleon I en zijn staf te paard",
+          "timespan": "1810 - 1850",
+          "artist": "Horace Vernet (mentioned on object)",
+          "material": "oil on panel",
+          "dimensions": "depth 7.7 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221105",
+            "https://id.rijksmuseum.nl/221216",
+            "https://id.rijksmuseum.nl/221263"
+          ],
+          "imageUrl": "https://iiif.micr.io/ipeiG/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20025819",
+          "name": "William III (1650-1702), Prince of Orange and since 1689, King of England",
+          "timespan": "c. 1680 - c. 1684",
+          "artist": "Caspar Netscher",
+          "material": "oil on canvas",
+          "dimensions": "height 80.5 cm x width 63 cm",
+          "exhibitScript": "At the time that this portrait was made, William III was stadholder of the Dutch Republic and commander of the army. This is how a ruler had himself immortalized, namely holding a commander’s staff to underscore his actual might. The plumed helmet and orange sash also signify his status. Still the prince had not yet reached the height of his power: in 1689 he would also become the king of England.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221217",
+            "https://id.rijksmuseum.nl/221218",
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221216"
+          ],
+          "imageUrl": "https://iiif.micr.io/SFSsy/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108472",
+          "name": "Portrait of Maurits (1567-1625), Prince of Orange",
+          "timespan": "c. 1613 - c. 1620",
+          "artist": "Michiel Jansz van Mierevelt (signed by artist)",
+          "material": "oil on panel",
+          "dimensions": "sight size: height 218.2 cm x width 141.7 cm",
+          "exhibitScript": "Prince Maurits was stadholder and military commander of the Republic of the Seven United Netherlands. He sired eight children with six different mistresses. As he refused to marry he had no legal successor. Maurits stands proud in a ceremonial gilded suit of armour, his helmet and gloves are on the table. This design had been the norm for state portraits since 1551, when it was first devised by the Italian painter Titian.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221217",
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221216"
+          ],
+          "imageUrl": "https://iiif.micr.io/nzkxa/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
