@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T01:01:30.362Z",
+  "generatedAt": "2026-09-08T00:57:22.375Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -5648,6 +5648,90 @@
             "https://id.rijksmuseum.nl/221216"
           ],
           "imageUrl": "https://iiif.micr.io/nzkxa/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "number": 70,
+      "title": "Daily Art #70 — Workshop, studio ~ painter",
+      "answer": {
+        "id": "200107824",
+        "name": "The Painter’s Studio",
+        "timespan": "c. 1647 - c. 1650",
+        "artist": "Adriaen van Ostade",
+        "material": "oil on panel",
+        "dimensions": "frame: height 54 cm x width 51 cm x depth 8 cm",
+        "exhibitScript": "This painter is hardly rich: his workshop is located in an old, dark building. His artistic ambitions are not high, for on the easel is a modest landscape. Nevertheless, he has two apprentices. Van Ostade is here poking gentle fun at his own specialization. He did not portray his own studio, but invented the workshop of an ordinary painter who could have painted all of his (Van Ostade’s) peasant scenes.",
+        "tags": [
+          "https://id.rijksmuseum.nl/22133",
+          "https://id.rijksmuseum.nl/221252",
+          "https://id.rijksmuseum.nl/221253"
+        ],
+        "imageUrl": "https://iiif.micr.io/cWAta/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200108007",
+          "name": "A Painter’s Studio",
+          "timespan": "c. 1646 - c. 1650",
+          "artist": "Michael Sweerts",
+          "material": "oil on canvas",
+          "dimensions": "height 71 cm x width 74 cm",
+          "exhibitScript": "Like so many artists, Sweerts undertook a study trip to Rome. There he painted this scene of a painter’s studio, in which all the phases of artistic training are to be seen. At the left a young artist studies a large\r\nanatomical figure; piled up at the right are fragments of antique statues. In the left background a painter sketches from a nude model; a completed painting hangs on the wall.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221438",
+            "https://id.rijksmuseum.nl/221252",
+            "https://id.rijksmuseum.nl/221437"
+          ],
+          "imageUrl": "https://iiif.micr.io/TYTyL/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107940",
+          "name": "Vanitas Still Life",
+          "timespan": "c. 1628 - c. 1632",
+          "artist": "Jan Lievens",
+          "material": "oil on panel",
+          "dimensions": "support: height 91 cm x width 120 cm",
+          "exhibitScript": "Appearances can be deceiving. What at first sight looks to be an overturned lute is just an old wooden case for the instrument. The books, too, are a disappointment; they are merely empty bindings, limp covers of leather or parchment meant to hold bills and other documents. These are all old objects – cast off, worthless and transitory.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221326",
+            "https://id.rijksmuseum.nl/22134",
+            "https://id.rijksmuseum.nl/221327",
+            "https://id.rijksmuseum.nl/22137",
+            "https://id.rijksmuseum.nl/221252"
+          ],
+          "imageUrl": "https://iiif.micr.io/jjmVB/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200109455",
+          "name": "The Studio of the Haarlem Painter Pieter Frederik van Os",
+          "timespan": "c. 1856 - c. 1857",
+          "artist": "Anton Mauve",
+          "material": "undefined",
+          "dimensions": "height 49 cm x width 61 cm",
+          "exhibitScript": "This painter’s studio was located in the Town Hall of Haarlem. All manner of studio attributes are shown: drawings of nude models, a painted nocturnal land-scape and some plaster casts. A small oil sketch of a goat, a set of deer antlers and a horseshoe indicate that Van Os was mainly an animal painter. A young pupil kneels before the monumental 17th-century fireplace and looks through a portfolio of sketches.",
+          "tags": [
+            "https://id.rijksmuseum.nl/2211011",
+            "https://id.rijksmuseum.nl/221252"
+          ],
+          "imageUrl": "https://iiif.micr.io/NtoVO/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
