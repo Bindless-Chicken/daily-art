@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T00:57:22.375Z",
+  "generatedAt": "2026-09-09T00:56:50.681Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -5732,6 +5732,82 @@
             "https://id.rijksmuseum.nl/221252"
           ],
           "imageUrl": "https://iiif.micr.io/NtoVO/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "number": 71,
+      "title": "Daily Art #71 — Anonymous historical person portrayed",
+      "answer": {
+        "id": "20028483",
+        "name": "Man met pijp",
+        "timespan": "1900 - 1924",
+        "artist": "Augustus Edwin John",
+        "material": "oil on canvas",
+        "dimensions": "depth 11.5 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221382"
+        ],
+        "imageUrl": "https://iiif.micr.io/EyDuW/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20028792",
+          "name": "Portret van een man",
+          "timespan": "1930 - 1940",
+          "artist": "Han van Meegeren",
+          "material": "oil on canvas",
+          "dimensions": "height 28 cm x width 23 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221382"
+          ],
+          "imageUrl": "https://iiif.micr.io/DOJyj/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026794",
+          "name": "Portret van een edelman in harnas",
+          "timespan": "1540 - 1560",
+          "artist": "anonymous",
+          "material": "oil on canvas",
+          "dimensions": "height 92.5 cm x width 70 cm",
+          "exhibitScript": "Brescian school, attributed to Giovanni Moroni. Portrait of a man in armour, c. 1550. From the Augusteum, Oldenburg. Presented by a group of members of the Vereniging Rembrandt, 1925.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221382",
+            "https://id.rijksmuseum.nl/221217"
+          ],
+          "imageUrl": "https://iiif.micr.io/bpdjX/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027699",
+          "name": "Portrait of a Woman",
+          "timespan": "1450 - 1470",
+          "artist": "circle of Giovanni Bellini",
+          "material": "oil on panel",
+          "dimensions": "depth 4.2 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221382"
+          ],
+          "imageUrl": "https://iiif.micr.io/wFEYq/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
