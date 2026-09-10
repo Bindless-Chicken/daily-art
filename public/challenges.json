@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T00:56:50.681Z",
+  "generatedAt": "2026-09-10T00:55:09.707Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -5808,6 +5808,85 @@
             "https://id.rijksmuseum.nl/221382"
           ],
           "imageUrl": "https://iiif.micr.io/wFEYq/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "number": 72,
+      "title": "Daily Art #72 — Historical persons",
+      "answer": {
+        "id": "20065887",
+        "name": "Portrait of the Art Dealer E.J. van Wisselingh (1848-1912)",
+        "timespan": "c. 1880 - c. 1912",
+        "artist": "Marinus van der Maarel",
+        "material": "oil on panel",
+        "dimensions": "height 33.3 cm x width 24.6 cm",
+        "exhibitScript": "In 1881 Elbert Jan van Wisselingh succeeded his father as owner of the art firm with which Breitner was primarily affiliated. In the period when Breitner was painting the ‘girls in kimonos’ Van Wisselingh was established in London and so Klaas Groesbeek was the artist’s direct contact person. The three men were also friends; Van Wisselingh and Groesbeek served as witnesses at Breitner and Marie Jordan’s marriage in 1901.",
+        "tags": [
+          "https://id.rijksmuseum.nl/2214581",
+          "https://id.rijksmuseum.nl/22123"
+        ],
+        "imageUrl": "https://iiif.micr.io/sDuCF/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20027027",
+          "name": "Portret van Filips III (1578-1621), koning van Spanje",
+          "timespan": "c. 1600",
+          "artist": "anonymous",
+          "material": "oil on copper",
+          "dimensions": "support: height 28.5 cm x width 22.4 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221713"
+          ],
+          "imageUrl": "https://iiif.micr.io/kdUus/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107937",
+          "name": "Titus in Monk's Habit",
+          "timespan": "1660",
+          "artist": "Rembrandt van Rijn (mentioned on object)",
+          "material": "oil on canvas",
+          "dimensions": "height 79.5 cm x width 67.7 cm",
+          "exhibitScript": "Rembrandt portrayed his son Titus with downcast eyes and wearing a Franciscan habit. The rules of this monastic order prescribed a life of poverty and humility. Indicative of this are the coarse robe and the introspective gaze on the boy’s gaunt face, on which Rembrandt has focussed all his attention. The surroundings, with rocks and bushes, are only summarily suggested.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221302",
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221325"
+          ],
+          "imageUrl": "https://iiif.micr.io/OzDjp/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200639587",
+          "name": "Portrait of Marten Soolmans",
+          "timespan": "1634",
+          "artist": "Rembrandt van Rijn",
+          "material": "undefined",
+          "dimensions": "height 207.5 cm x width 132 cm x depth 3.7 cm",
+          "exhibitScript": "Marten and Oopjen are the only couple that Rembrandt painted life-size, standing, and at full-length. Marten’s father came to Amsterdam from Antwerp as a Protestant refugee. He made his fortune as the owner of a sugar refinery. Marten married Oopjen in 1633. He was 20 and a law student, ready for a career in politics. Sadly, he died a mere eight years later.",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/ydvFQ/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
