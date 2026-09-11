@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T00:55:09.707Z",
+  "generatedAt": "2026-09-11T00:54:58.124Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -5887,6 +5887,84 @@
             "https://id.rijksmuseum.nl/22123"
           ],
           "imageUrl": "https://iiif.micr.io/ydvFQ/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "number": 73,
+      "title": "Daily Art #73 — Christ alone (also called 'Ecce Homo')",
+      "answer": {
+        "id": "200110637",
+        "name": "Ecce Homo",
+        "timespan": "c. 1520",
+        "artist": "anonymous",
+        "material": "oil on panel",
+        "dimensions": "support: height 60 cm x width 45 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/2212276",
+          "https://id.rijksmuseum.nl/2212257",
+          "https://id.rijksmuseum.nl/221423"
+        ],
+        "imageUrl": "https://iiif.micr.io/tmPoJ/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20027676",
+          "name": "Marketplace, with the Flagellation, the Ecce Homo and the Bearing of the Cross in the background",
+          "timespan": "1550 - 1590",
+          "artist": "copy after Joachim Bueckelaer",
+          "material": "oil on panel",
+          "dimensions": "weight 32 kg",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221423",
+            "https://id.rijksmuseum.nl/221544"
+          ],
+          "imageUrl": "https://iiif.micr.io/QoSDY/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108285",
+          "name": "Ecce Homo",
+          "timespan": "c. 1530 - c. 1550",
+          "artist": "copy after Jheronimus Bosch",
+          "material": "oil on panel",
+          "dimensions": "support: height 73 cm x width 54.5 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221423"
+          ],
+          "imageUrl": "https://iiif.micr.io/Kuwwh/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108475",
+          "name": "Ecce homo",
+          "timespan": "1800 - 1857",
+          "artist": "copy after Peter Paul Rubens",
+          "material": "oil on panel",
+          "dimensions": "height 125 cm x width 95 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221423"
+          ],
+          "imageUrl": "https://iiif.micr.io/ZgRBT/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
