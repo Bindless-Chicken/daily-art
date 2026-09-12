@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T00:54:58.124Z",
+  "generatedAt": "2026-09-12T00:53:50.945Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -5965,6 +5965,90 @@
             "https://id.rijksmuseum.nl/221423"
           ],
           "imageUrl": "https://iiif.micr.io/ZgRBT/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "number": 74,
+      "title": "Daily Art #74 — Historical persons - BB - woman",
+      "answer": {
+        "id": "20027189",
+        "name": "Portrait of Elisabeth van Oosten (1660-1714), as a Child",
+        "timespan": "1663",
+        "artist": "attributed to Willem Jansz. Ploy",
+        "material": "oil on canvas",
+        "dimensions": "height 118 cm x width 83 cm",
+        "exhibitScript": "W.J. Ploy (attributed), 1663. Elisabeth van Oosten (1660 - 1714), half-sister of Johannes van Rees, as a child. Oil on canvas. This portrait is traditionally assumed to show a member of the Van Riebeeck family. Jan van Riebeeck (1619 - 1677) arrived at Cape of Good Hope in 1652 and established a supply base for VOC ships sailing to Batavia (Jakarta). The actual identity of the subject is not certain.",
+        "tags": [
+          "https://id.rijksmuseum.nl/2217288",
+          "https://id.rijksmuseum.nl/221173",
+          "https://id.rijksmuseum.nl/221304"
+        ],
+        "imageUrl": "https://iiif.micr.io/WuMPs/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200107942",
+          "name": "Portrait of a woman, possibly Maria Trip",
+          "timespan": "1639",
+          "artist": "Rembrandt van Rijn",
+          "material": "oil on panel",
+          "dimensions": "height 107 cm x width 82 cm",
+          "exhibitScript": "The sitter is likely the 20-year-old Maria Trip. She hailed from an extremely wealthy family involved in the arms trade. Here, she displays her affluence in full regalia: she wears a collar of the finest lace, a brooch with matching earrings, and a fortune in pearls.\r\nThe Chinese folding fan in her left hand was still a very rare and therefore precious accessory in 1639.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221173",
+            "https://id.rijksmuseum.nl/22129",
+            "https://id.rijksmuseum.nl/221330",
+            "https://id.rijksmuseum.nl/2219674"
+          ],
+          "imageUrl": "https://iiif.micr.io/FeurF/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20029234",
+          "name": "Portrait of Elizabeth I, Queen of England",
+          "timespan": "1550 - 1599",
+          "artist": "anonymous",
+          "material": "oil on panel",
+          "dimensions": "height 34.5 cm x width 30.5 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221173"
+          ],
+          "imageUrl": "https://iiif.micr.io/OmhQF/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108304",
+          "name": "Girl in a White Kimono",
+          "timespan": "1894",
+          "artist": "George Hendrik Breitner (mentioned on object)",
+          "material": "oil on canvas",
+          "dimensions": "height 59 cm x width 57 cm x depth 11 cm",
+          "exhibitScript": "The model for this painting was called Geesje Kwak, then a sixteen-year-old housemaid from Amsterdam. She is dressed in a Japanese kimono, a popular subject for Breitner. He made thirteen paintings of girls in kimonos, inspired by Japanese prints, which he as well collected. However, for Europeans, wearing Asian clothing since long also had a sexual inference.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221173",
+            "https://id.rijksmuseum.nl/221596",
+            "https://id.rijksmuseum.nl/2212768",
+            "https://id.rijksmuseum.nl/221595",
+            "https://id.rijksmuseum.nl/2211231"
+          ],
+          "imageUrl": "https://iiif.micr.io/cQMKz/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
