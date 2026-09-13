@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T00:53:50.945Z",
+  "generatedAt": "2026-09-13T01:01:47.956Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -6049,6 +6049,84 @@
             "https://id.rijksmuseum.nl/2211231"
           ],
           "imageUrl": "https://iiif.micr.io/cQMKz/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "number": 75,
+      "title": "Daily Art #75 — Historical persons",
+      "answer": {
+        "id": "20025722",
+        "name": "Portret van een man uit de familie Bentinck",
+        "timespan": "c. 1800",
+        "artist": "anonymous",
+        "material": "undefined",
+        "dimensions": "height 6.2 cm x width 5 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/22123"
+        ],
+        "imageUrl": "https://iiif.micr.io/NEHKu/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200639587",
+          "name": "Portrait of Marten Soolmans",
+          "timespan": "1634",
+          "artist": "Rembrandt van Rijn",
+          "material": "undefined",
+          "dimensions": "height 207.5 cm x width 132 cm x depth 3.7 cm",
+          "exhibitScript": "Marten and Oopjen are the only couple that Rembrandt painted life-size, standing, and at full-length. Marten’s father came to Amsterdam from Antwerp as a Protestant refugee. He made his fortune as the owner of a sugar refinery. Marten married Oopjen in 1633. He was 20 and a law student, ready for a career in politics. Sadly, he died a mere eight years later.",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/ydvFQ/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027027",
+          "name": "Portret van Filips III (1578-1621), koning van Spanje",
+          "timespan": "c. 1600",
+          "artist": "anonymous",
+          "material": "oil on copper",
+          "dimensions": "support: height 28.5 cm x width 22.4 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221713"
+          ],
+          "imageUrl": "https://iiif.micr.io/kdUus/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107937",
+          "name": "Titus in Monk's Habit",
+          "timespan": "1660",
+          "artist": "Rembrandt van Rijn (mentioned on object)",
+          "material": "oil on canvas",
+          "dimensions": "height 79.5 cm x width 67.7 cm",
+          "exhibitScript": "Rembrandt portrayed his son Titus with downcast eyes and wearing a Franciscan habit. The rules of this monastic order prescribed a life of poverty and humility. Indicative of this are the coarse robe and the introspective gaze on the boy’s gaunt face, on which Rembrandt has focussed all his attention. The surroundings, with rocks and bushes, are only summarily suggested.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221302",
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221325"
+          ],
+          "imageUrl": "https://iiif.micr.io/OzDjp/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
