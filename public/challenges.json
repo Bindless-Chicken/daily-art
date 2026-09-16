@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T00:57:51.656Z",
+  "generatedAt": "2026-09-16T00:57:01.747Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -6290,6 +6290,87 @@
             "https://id.rijksmuseum.nl/22110682"
           ],
           "imageUrl": "https://iiif.micr.io/XJCzg/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "number": 78,
+      "title": "Daily Art #78 — Sunset",
+      "answer": {
+        "id": "200609465",
+        "name": "Avondstemming met herder",
+        "timespan": "c. 1855",
+        "artist": "Cornelis Lieste (signed by artist)",
+        "material": "undefined",
+        "dimensions": "height 67 cm x width 89.5 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221670",
+          "https://id.rijksmuseum.nl/221556"
+        ],
+        "imageUrl": "https://iiif.micr.io/esDMs/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20060352",
+          "name": "Wintergezicht met ondergaande zon tussen geboomte",
+          "timespan": "1880 - 1930",
+          "artist": "Louis Apol",
+          "material": "oil on canvas",
+          "dimensions": "height 55.4 cm x width 92.8 cm x thickness 3 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221351",
+            "https://id.rijksmuseum.nl/221556"
+          ],
+          "imageUrl": "https://iiif.micr.io/VnWbS/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027737",
+          "name": "Gezicht op Dordrecht bij zonsondergang",
+          "timespan": "c. 1700 - c. 1842",
+          "artist": "copy after Aelbert Cuyp",
+          "material": "oil on canvas",
+          "dimensions": "support: height 67 cm x width 83.7 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221789",
+            "https://id.rijksmuseum.nl/221132",
+            "https://id.rijksmuseum.nl/221556"
+          ],
+          "imageUrl": "https://iiif.micr.io/JoaBK/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108226",
+          "name": "Pond in the Woods at Sunset",
+          "timespan": "c. 1862",
+          "artist": "Gerard Bilders (mentioned on object)",
+          "material": "oil on panel",
+          "dimensions": "height 22 cm x width 35 cm",
+          "exhibitScript": "Bilders painted this small panel in the vicinity of Lochem in the province of Gelderland. He was fasci-nated by the colours of nature and tried to recreate them as closely as possible. This painting is about the effect of the sunset, which is mirrored in the pond. The branches of the trees stand out starkly against the glowing sky.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221556",
+            "https://id.rijksmuseum.nl/221458",
+            "https://id.rijksmuseum.nl/221123"
+          ],
+          "imageUrl": "https://iiif.micr.io/ffnha/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
