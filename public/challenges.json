@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T00:57:01.747Z",
+  "generatedAt": "2026-09-17T00:56:48.031Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -6371,6 +6371,86 @@
             "https://id.rijksmuseum.nl/221123"
           ],
           "imageUrl": "https://iiif.micr.io/ffnha/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "number": 79,
+      "title": "Daily Art #79 — Warfare; military affairs (+ citizen soldiery, civil guard, citizen militia)",
+      "answer": {
+        "id": "20015944",
+        "name": "Officieren en andere schutters van wijk III in Amsterdam onder leiding van kapitein Allaert Cloeck en luitenant Lucas Jacobsz Rotgans",
+        "timespan": "1632",
+        "artist": "Thomas de Keyser (signed by artist)",
+        "material": "oil on canvas",
+        "dimensions": "support: height 220 cm x width 351 cm",
+        "exhibitScript": "Thomas de Keyser (1596/97 - 1667). The company of Captain Allaert Cloeck and Lieutenant Lucas Jacobsz Rotgans, Amsterdam, 1632. These civil guardsmen were positioned hierarchically: in the centre, on a platform, the captain, the colour-bearer, and the lieutenant. Around them we see three non-commissioned officers, who each have one foot on the platform. The regular riflemen arranged in the background are much smaller than the officers. Despite the fact that the riflemen to the left and right are somewhat crowded together, the composition is animated. The manner in which the three non-commissioned officers appear to be about to step onto the podium suggests a throng beginning to advance. This same solution - a crowd of people moving forward - was chosen by Rembrandt ten years later for his celebrated Night-watch. Painted for the Kloveniersdoelen (headquarters of the crossbowmen's civic guard), Amsterdam. On loan from the city of Amsterdam, 1885.",
+        "tags": [
+          "https://id.rijksmuseum.nl/221307"
+        ],
+        "imageUrl": "https://iiif.micr.io/JKNKG/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200109369",
+          "name": "Officers and other Civic Guardsmen of the VIII District in Amsterdam under the command of Captain Roelof Bicker and Lieutenant Jan Michielsz Blaeuw",
+          "timespan": "c. 1640 - c. 1643",
+          "artist": "Bartholomeus van der Helst",
+          "material": "oil on canvas",
+          "dimensions": "height 235 cm x width 750 cm",
+          "exhibitScript": "Civilians also served as armed guardsmen to defend their cities. The wealthiest among them were eager to have their portraits included in large civic guard paintings. This painting originally hung in the same hall of the Kloveniersdoelen (Arquebusiers’ Headquarters) as Rembrandt’s night Watch. We know everyone’s name except for the boy carrying a red cloak in the middle. He is the servant of the man beside him, holding a staff.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221306",
+            "https://id.rijksmuseum.nl/221307"
+          ],
+          "imageUrl": "https://iiif.micr.io/gpAAf/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20028122",
+          "name": "The Company of Captain Gillis Jansz Valckenier and Lieutenant Pieter Jacobsz Bas, Amsterdam, 1599",
+          "timespan": "1599",
+          "artist": "Pieter Isaacsz.",
+          "material": "oil on canvas",
+          "dimensions": "height 218 cm x width 526 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221307"
+          ],
+          "imageUrl": "https://iiif.micr.io/QQOLP/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200109347",
+          "name": "A Civic Guardsman Holding a Berkemeier, known as 'The Merry Drinker'",
+          "timespan": "c. 1628 - c. 1630",
+          "artist": "Frans Hals (signed by artist)",
+          "material": "oil on canvas",
+          "dimensions": "support: height 81 cm x width 66.5 cm",
+          "exhibitScript": "This work is a pinnacle of Hals’ bold and loose ‘rough’ style. The brushstrokes criss-cross the canvas, creating the impression of rapid execution as well as suggesting movement. The sitter, likely a civic guardsman or a military man based on his attire, is just about to raise his glass to toast with us.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221254",
+            "https://id.rijksmuseum.nl/221307",
+            "https://id.rijksmuseum.nl/221270",
+            "https://id.rijksmuseum.nl/221586",
+            "https://id.rijksmuseum.nl/221412"
+          ],
+          "imageUrl": "https://iiif.micr.io/CgrHr/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
