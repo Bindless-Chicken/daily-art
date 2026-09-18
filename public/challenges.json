@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T00:56:48.031Z",
+  "generatedAt": "2026-09-18T00:56:27.538Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -6451,6 +6451,91 @@
             "https://id.rijksmuseum.nl/221412"
           ],
           "imageUrl": "https://iiif.micr.io/CgrHr/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "number": 80,
+      "title": "Daily Art #80 — Still life of related objects",
+      "answer": {
+        "id": "20079262",
+        "name": "Stilleven",
+        "timespan": "c. 1644 - c. 1666",
+        "artist": "Jan Albertsz. Rotius (signed by artist)",
+        "material": "undefined",
+        "dimensions": "depth 5 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221777",
+          "https://id.rijksmuseum.nl/221327"
+        ],
+        "imageUrl": "https://iiif.micr.io/Xjmfk/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200108938",
+          "name": "Vanitas Still Life with Books",
+          "timespan": "1633",
+          "artist": "anonymous",
+          "material": "undefined",
+          "dimensions": "height 73.5 cm x width 70 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/22134",
+            "https://id.rijksmuseum.nl/221373",
+            "https://id.rijksmuseum.nl/221327",
+            "https://id.rijksmuseum.nl/2211154",
+            "https://id.rijksmuseum.nl/22135"
+          ],
+          "imageUrl": "https://iiif.micr.io/atydp/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200109472",
+          "name": "Stilleven met boeken in een nis",
+          "timespan": "1442 - 1445",
+          "artist": "Barthélémy d' Eyck",
+          "material": "undefined",
+          "dimensions": "height 30 cm x width 56 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221327",
+            "https://id.rijksmuseum.nl/22134",
+            "https://id.rijksmuseum.nl/221308"
+          ],
+          "imageUrl": "https://iiif.micr.io/SUcCV/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026435",
+          "name": "Still Life with Flowers",
+          "timespan": "1789",
+          "artist": "Harmanus Uppink (mentioned on object)",
+          "material": "oil on canvas",
+          "dimensions": "height 73 cm x width 60 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221327",
+            "https://id.rijksmuseum.nl/221532",
+            "https://id.rijksmuseum.nl/221107",
+            "https://id.rijksmuseum.nl/2211248"
+          ],
+          "imageUrl": "https://iiif.micr.io/MRRMU/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
