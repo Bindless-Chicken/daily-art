@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T00:56:27.538Z",
+  "generatedAt": "2026-09-19T00:54:49.387Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -6536,6 +6536,89 @@
             "https://id.rijksmuseum.nl/2211248"
           ],
           "imageUrl": "https://iiif.micr.io/MRRMU/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "number": 81,
+      "title": "Daily Art #81 — Lute, and special forms of lute, e.g.: theorbo",
+      "answer": {
+        "id": "200110508",
+        "name": "De Vrede maant de kerken tot verdraagzaamheid",
+        "timespan": "1600 - 1624",
+        "artist": "anonymous",
+        "material": "oil on canvas",
+        "dimensions": "height 131.5 cm x width 162.5 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221538",
+          "https://id.rijksmuseum.nl/221700",
+          "https://id.rijksmuseum.nl/2211530",
+          "https://id.rijksmuseum.nl/221483"
+        ],
+        "imageUrl": "https://iiif.micr.io/YxcQh/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200109431",
+          "name": "A Lute Player, known as ‘The Serenade’",
+          "timespan": "1629",
+          "artist": "Judith Leyster (mentioned on object)",
+          "material": "oil on panel",
+          "dimensions": "support: height 47 cm x width 34.5 cm",
+          "exhibitScript": "Judith Leyster was the first woman to become a master painter in the Netherlands in the 17th century. She received this title in 1633 after being admitted to the Haarlem Guild of St Luke. This high status allowed Leyster to open her own studio in Haarlem and take on pupils. Her talent is on display in the effects of light and dark and her use of colour in this painting of a singing lute player. The bright red of his breeches forms a fine contrast with the greenish background.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221538",
+            "https://id.rijksmuseum.nl/221990"
+          ],
+          "imageUrl": "https://iiif.micr.io/ZppYx/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107992",
+          "name": "Lute Player",
+          "timespan": "1661",
+          "artist": "Hendrick Martensz Sorgh",
+          "material": "oil on panel",
+          "dimensions": "height 51.2 cm x width 38.2 cm",
+          "exhibitScript": "A young man is singing and playing the lute on an open veranda. Where the woman’s thoughts have wandered is a mystery. The music and the theme of the paramours Pyramus and Thisbe in the painting in the background suggest that harmonious love is the subject. Yet the work may also be a warning against impulsive lust. Both interpretations are equally valid.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221538",
+            "https://id.rijksmuseum.nl/22192",
+            "https://id.rijksmuseum.nl/2214380"
+          ],
+          "imageUrl": "https://iiif.micr.io/mDaro/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200109355",
+          "name": "Still Life with Books",
+          "timespan": "c. 1628 - c. 1629",
+          "artist": "Jan Davidsz. de Heem",
+          "material": "oil on panel",
+          "dimensions": "height 26.5 cm x width 41.5 cm",
+          "exhibitScript": "Grey and brown tints dominate this composition, and a shadow spreads slowly over the wall. The painting\r\nalludes to the fleetingness of life. The battered books allude to transience. The music produced by the lute\r\nis momentary, a symbol of the brevity of life. A literal reference to death is inscribed on the sheet of paper\r\ndraped over the table’s edge: ‘finis’ ([the] end).",
+          "tags": [
+            "https://id.rijksmuseum.nl/22134",
+            "https://id.rijksmuseum.nl/22137",
+            "https://id.rijksmuseum.nl/221538"
+          ],
+          "imageUrl": "https://iiif.micr.io/JpMwf/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
