@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T01:01:55.808Z",
+  "generatedAt": "2026-09-21T01:01:17.598Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -6702,6 +6702,88 @@
             "https://id.rijksmuseum.nl/221654"
           ],
           "imageUrl": "https://iiif.micr.io/GQOcv/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "number": 83,
+      "title": "Daily Art #83 — Farmers - AA - female farmer, farmer's wife",
+      "answer": {
+        "id": "20027583",
+        "name": "",
+        "timespan": "1897",
+        "artist": "Jozef Israëls",
+        "material": "oil on canvas",
+        "dimensions": "height 40.5 cm x width 62.8 cm x thickness 3.4 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/2212611"
+        ],
+        "imageUrl": "https://iiif.micr.io/MFXzc/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20026146",
+          "name": "Schapen en geiten in de stal",
+          "timespan": "1821",
+          "artist": "Jan van Ravenswaay",
+          "material": "oil on canvas",
+          "dimensions": "height 66.5 cm x width 79.2 cm x thickness 3 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2211764",
+            "https://id.rijksmuseum.nl/2215978",
+            "https://id.rijksmuseum.nl/2212611"
+          ],
+          "imageUrl": "https://iiif.micr.io/HBHgk/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026399",
+          "name": "Husbandman at a Cottage Door with a Seated Woman and Child",
+          "timespan": "c. 1650 - c. 1655",
+          "artist": "David Teniers (II)",
+          "material": "oil on canvas",
+          "dimensions": "support: height 63.8 cm x width 93.5 cm x thickness 4.3 cm (support incl. backboard)",
+          "exhibitScript": "This scene includes a little still life of pans, jugs, and vegetables. Particularly interesting are the artichokes on the barrel next to the green cabbages. Artichokes originally came from the Mediterranean region and were introduced into Northern Europe in the late 16th century. Carrots, cabbages, and artichokes were all harvested in the autumn.",
+          "tags": [
+            "https://id.rijksmuseum.nl/2214402",
+            "https://id.rijksmuseum.nl/221249",
+            "https://id.rijksmuseum.nl/22111281",
+            "https://id.rijksmuseum.nl/2212611"
+          ],
+          "imageUrl": "https://iiif.micr.io/EXwWm/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200109074",
+          "name": "Girl carrying Water",
+          "timespan": "c. 1855 - 1860",
+          "artist": "Jean François Millet",
+          "material": "oil on canvas",
+          "dimensions": "height 41 cm x width 33 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2212745",
+            "https://id.rijksmuseum.nl/2211266",
+            "https://id.rijksmuseum.nl/2212611"
+          ],
+          "imageUrl": "https://iiif.micr.io/JnEqe/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
