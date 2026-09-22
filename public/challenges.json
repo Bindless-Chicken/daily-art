@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T01:01:17.598Z",
+  "generatedAt": "2026-09-22T00:56:37.786Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -6784,6 +6784,90 @@
             "https://id.rijksmuseum.nl/2212611"
           ],
           "imageUrl": "https://iiif.micr.io/JnEqe/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "number": 84,
+      "title": "Daily Art #84 — Fruits",
+      "answer": {
+        "id": "200507523",
+        "name": "Still Life with Fruit and Flower Garlands",
+        "timespan": "1645 - 1650",
+        "artist": "Jacob van Campen",
+        "material": "undefined",
+        "dimensions": "height 97 cm x width 158.7 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221777",
+          "https://id.rijksmuseum.nl/221684"
+        ],
+        "imageUrl": "https://iiif.micr.io/ZfzpR/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20027535",
+          "name": "Still Life with Fruit, Oysters, and a Porcelain Bowl",
+          "timespan": "1660 - 1679",
+          "artist": "Abraham Mignon (mentioned on object)",
+          "material": "oil on panel",
+          "dimensions": "height 55 cm x width 45 cm",
+          "exhibitScript": "The composition of this still life is both sumptuous and inventive. Mignon set the roemer, the green glass at the left, upside down. Reflected in it is a window, and a view of a church tower in Utrecht, where Mignon lived. The porcelain bowl from Asia was a sign of prosperity as well as being a showpiece on the table.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221684",
+            "https://id.rijksmuseum.nl/221398",
+            "https://id.rijksmuseum.nl/221412",
+            "https://id.rijksmuseum.nl/221777"
+          ],
+          "imageUrl": "https://iiif.micr.io/kSDEO/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027771",
+          "name": "Still Life",
+          "timespan": "1666",
+          "artist": "Christiaen van Dielaert",
+          "material": "oil on canvas",
+          "dimensions": "height 135 cm x width 115 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221327",
+            "https://id.rijksmuseum.nl/221684",
+            "https://id.rijksmuseum.nl/221777"
+          ],
+          "imageUrl": "https://iiif.micr.io/YCJVa/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027079",
+          "name": "Still Life with Golden Goblet",
+          "timespan": "c. 1655 - c. 1660",
+          "artist": "Pieter de Ring",
+          "material": "oil on canvas",
+          "dimensions": "outersize: depth 9 cm (support incl. SK-L-5905)",
+          "exhibitScript": "Pieter de Ring (1615 - 1660). Still life with a golden cup.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221684",
+            "https://id.rijksmuseum.nl/221555",
+            "https://id.rijksmuseum.nl/221683",
+            "https://id.rijksmuseum.nl/221685"
+          ],
+          "imageUrl": "https://iiif.micr.io/KOPdZ/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
