@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T00:56:37.786Z",
+  "generatedAt": "2026-09-23T00:54:47.572Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -6868,6 +6868,88 @@
             "https://id.rijksmuseum.nl/221685"
           ],
           "imageUrl": "https://iiif.micr.io/KOPdZ/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "number": 85,
+      "title": "Daily Art #85 — Canals, waters (in city)",
+      "answer": {
+        "id": "20027702",
+        "name": "The Torensluis and the Jan Roodenpoortstoren in Amsterdam",
+        "timespan": "1829",
+        "artist": "Hendrik Gerrit ten Cate",
+        "material": "oil on canvas",
+        "dimensions": "depth 10.6 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221391",
+          "https://id.rijksmuseum.nl/2211472"
+        ],
+        "imageUrl": "https://iiif.micr.io/BrTqr/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200106078",
+          "name": "The Raampoortje in Amsterdam",
+          "timespan": "1809",
+          "artist": "Wouter Johannes van Troostwijk",
+          "material": "oil on canvas",
+          "dimensions": "height 57 cm x width 48 cm",
+          "exhibitScript": "The 18th-century Raampoortje was part of Amsterdam’s city rampart near the Bloemgracht. The small gate gave access to the bleaching fields outside the city wall, where dyed cloth was laid out to dry on wooden frames, from which the Raampoortje (Frame Gate) got its name. Here we look from the bleaching fields past the houses on the Bloemgracht towards the cold and wintry city. The Westertoren rises in the distance. The gate was demolished in 1846.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221391",
+            "https://id.rijksmuseum.nl/221350",
+            "https://id.rijksmuseum.nl/221457",
+            "https://id.rijksmuseum.nl/221456"
+          ],
+          "imageUrl": "https://iiif.micr.io/vHCad/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20013048",
+          "name": "The ‘Golden Bend’ in the Herengracht, Amsterdam, Seen from the West",
+          "timespan": "1672",
+          "artist": "Gerrit Berckheyde",
+          "material": "oil on panel",
+          "dimensions": "height 40.5 cm x width 63 cm",
+          "exhibitScript": "The cityscape developed into an independent genre only after 1650, with Berckheyde as one of its leading exponents. In this painting he recorded with mathematical precision the newly built houses along the ‘Golden Bend’, the most expensive stretch of Amsterdam’s\r\nHerengracht. Through the omission of the row of young trees that lined the quay of the canal in reality, the topographical accuracy of the scene is complemented by a bit of artistic license.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221551",
+            "https://id.rijksmuseum.nl/221391"
+          ],
+          "imageUrl": "https://iiif.micr.io/PMvvG/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200109707",
+          "name": "Gezicht vanaf de Rapenburgwal op de Peperbrug en het pakhuis Sweeden",
+          "timespan": "1911",
+          "artist": "Willem Witsen",
+          "material": "oil on canvas",
+          "dimensions": "height 52 cm x width 42 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2211058",
+            "https://id.rijksmuseum.nl/2211057",
+            "https://id.rijksmuseum.nl/221391"
+          ],
+          "imageUrl": "https://iiif.micr.io/COuNW/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
