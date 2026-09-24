@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T00:54:47.572Z",
+  "generatedAt": "2026-09-24T00:56:15.899Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -6950,6 +6950,82 @@
             "https://id.rijksmuseum.nl/221391"
           ],
           "imageUrl": "https://iiif.micr.io/COuNW/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "number": 86,
+      "title": "Daily Art #86 — Lamentation over the dead Christ by his relatives and friends (Christ usually without crown of thorns)",
+      "answer": {
+        "id": "200109204",
+        "name": "The Lamentation",
+        "timespan": "c. 1510 - c. 1515",
+        "artist": "Colijn de Coter",
+        "material": "oil on panel",
+        "dimensions": "support: height 35.5 cm x width 42.9 cm",
+        "exhibitScript": "Here the artist ‘zoomed in’ on the faces of the dead Christ and his grieving disciples. The painting is thus both intimate and confrontational. This made it easier for believers to identify with Christ’s suffering and the Virgin’s sorrow. The man on the right holding the nails from the cross is Nicodemus; it is probably also a portrait of the person who commissioned the painting.",
+        "tags": [
+          "https://id.rijksmuseum.nl/221870"
+        ],
+        "imageUrl": "https://iiif.micr.io/XwQuN/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20027683",
+          "name": "Triptych with the Lamentation of Christ (center), flanked by the male Donor with Saint Benedict (left, inner wing) and female Donor with Saint Elizabeth of Thuringia (right, inner wing)",
+          "timespan": "c. 1540 - c. 1545",
+          "artist": "attributed to Cornelis Cornelisz II Buys",
+          "material": "oil on panel",
+          "dimensions": "support: height 47.1 cm (centre panel) x width 39.2 cm (centre panel) x height 55.3 cm (left wing) x width 23 cm (left wing) x height 55.3 cm (right wing) x width 23 cm (right wing)",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221870"
+          ],
+          "imageUrl": "https://iiif.micr.io/EwYHE/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20028309",
+          "name": "Maria en Johannes wenend bij het lichaam van Christus",
+          "timespan": "c. 1500 - c. 1510",
+          "artist": "Master of Delft",
+          "material": "oil on panel",
+          "dimensions": "depth 3.2 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221870"
+          ],
+          "imageUrl": "https://iiif.micr.io/HOcSq/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027682",
+          "name": "De bewening van Christus",
+          "timespan": "c. 1530 - c. 1540",
+          "artist": "attributed to Cornelis Cornelisz II Buys",
+          "material": "oil on panel",
+          "dimensions": "depth 6.9 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2213336",
+            "https://id.rijksmuseum.nl/221870"
+          ],
+          "imageUrl": "https://iiif.micr.io/Xccde/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
