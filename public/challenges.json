@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T00:56:15.899Z",
+  "generatedAt": "2026-09-25T00:56:41.385Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -7026,6 +7026,97 @@
             "https://id.rijksmuseum.nl/221870"
           ],
           "imageUrl": "https://iiif.micr.io/Xccde/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "number": 87,
+      "title": "Daily Art #87 — Violin, fiddle",
+      "answer": {
+        "id": "200107820",
+        "name": "Het dansende paar",
+        "timespan": "c. 1635",
+        "artist": "Adriaen van Ostade (mentioned on object)",
+        "material": "oil on panel",
+        "dimensions": "support: height 38.3 cm x width 52.2 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221242",
+          "https://id.rijksmuseum.nl/221243",
+          "https://id.rijksmuseum.nl/221241"
+        ],
+        "imageUrl": "https://iiif.micr.io/vFvZz/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200109388",
+          "name": "Merry Violinist with Wineglass",
+          "timespan": "1623",
+          "artist": "Gerard van Honthorst (signed by artist)",
+          "material": "oil on canvas",
+          "dimensions": "support: height 107.2 cm x width 88.3 cm",
+          "exhibitScript": "The man wearing extravagant Italian-looking clothing takes us by surprise. He appears from behind a tapestry and leans out of the window. He tries to engage with the viewer in order to clink glasses. So lifelike and convincing is Honthorst’s rendering that the fiddler seems to have slipped out from the frame of the painting to join us.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221242",
+            "https://id.rijksmuseum.nl/221447",
+            "https://id.rijksmuseum.nl/221254"
+          ],
+          "imageUrl": "https://iiif.micr.io/LAWVX/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026363",
+          "name": "Vanitas stilleven",
+          "timespan": "1630 - 1660",
+          "artist": "Stevers",
+          "material": "oil on canvas",
+          "dimensions": "depth 7 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221308",
+            "https://id.rijksmuseum.nl/221242",
+            "https://id.rijksmuseum.nl/22121319",
+            "https://id.rijksmuseum.nl/22137",
+            "https://id.rijksmuseum.nl/221246",
+            "https://id.rijksmuseum.nl/22135",
+            "https://id.rijksmuseum.nl/221593"
+          ],
+          "imageUrl": "https://iiif.micr.io/FXmYv/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200109184",
+          "name": "Vanitas Still Life with the Spinario",
+          "timespan": "1628",
+          "artist": "Pieter Claesz (signed by artist)",
+          "material": "oil on panel",
+          "dimensions": "support: height 70.5 cm x width 80.5 cm",
+          "exhibitScript": "Appearances can be deceptive – certainly in painting, which gives only an impression of reality. Here Claesz presents the study materials of an educated painter: books, drawings, armour, musical instruments and a plaster cast of the Spinario, a famous antique sculpture of a boy extracting a thorn from his foot. On the table are a paintbrush and a palette, along with bones and a skull. The message is clear: the world is mere illusion and transience (vanitas).",
+          "tags": [
+            "https://id.rijksmuseum.nl/221838",
+            "https://id.rijksmuseum.nl/221839",
+            "https://id.rijksmuseum.nl/221538",
+            "https://id.rijksmuseum.nl/221455",
+            "https://id.rijksmuseum.nl/221242",
+            "https://id.rijksmuseum.nl/221370",
+            "https://id.rijksmuseum.nl/22137"
+          ],
+          "imageUrl": "https://iiif.micr.io/OUCmC/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
