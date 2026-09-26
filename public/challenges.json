@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T00:56:41.385Z",
+  "generatedAt": "2026-09-26T00:55:36.391Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -7117,6 +7117,92 @@
             "https://id.rijksmuseum.nl/22137"
           ],
           "imageUrl": "https://iiif.micr.io/OUCmC/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "number": 88,
+      "title": "Daily Art #88 — Lute, and special forms of lute, e.g.: theorbo",
+      "answer": {
+        "id": "200108168",
+        "name": "Portrait of Johanna le Gillon (1635-1706)",
+        "timespan": "1670",
+        "artist": "Jan de Baen",
+        "material": "oil on canvas",
+        "dimensions": "height 156.5 cm x width 121.5 cm",
+        "exhibitScript": "Johanna le Gillon had herself portrayed holding a lute, her favourite instrument, showcasing her exceptional musical talent. The famous composer Constantijn Huygens sent her all manner of musical pieces for the lute. The portrait is still in its original gilt limewood frame, lavishly adorned with putti (cherubs) collecting roses, lush golden vines, and garlands. The fitting motto in the cartouche at the bottom reads: ‘A contented heart leads to great talent’.",
+        "tags": [
+          "https://id.rijksmuseum.nl/221538",
+          "https://id.rijksmuseum.nl/221173"
+        ],
+        "imageUrl": "https://iiif.micr.io/XCRkS/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200109184",
+          "name": "Vanitas Still Life with the Spinario",
+          "timespan": "1628",
+          "artist": "Pieter Claesz (signed by artist)",
+          "material": "oil on panel",
+          "dimensions": "support: height 70.5 cm x width 80.5 cm",
+          "exhibitScript": "Appearances can be deceptive – certainly in painting, which gives only an impression of reality. Here Claesz presents the study materials of an educated painter: books, drawings, armour, musical instruments and a plaster cast of the Spinario, a famous antique sculpture of a boy extracting a thorn from his foot. On the table are a paintbrush and a palette, along with bones and a skull. The message is clear: the world is mere illusion and transience (vanitas).",
+          "tags": [
+            "https://id.rijksmuseum.nl/221838",
+            "https://id.rijksmuseum.nl/221839",
+            "https://id.rijksmuseum.nl/221538",
+            "https://id.rijksmuseum.nl/221455",
+            "https://id.rijksmuseum.nl/221242",
+            "https://id.rijksmuseum.nl/221370",
+            "https://id.rijksmuseum.nl/22137"
+          ],
+          "imageUrl": "https://iiif.micr.io/OUCmC/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200109355",
+          "name": "Still Life with Books",
+          "timespan": "c. 1628 - c. 1629",
+          "artist": "Jan Davidsz. de Heem",
+          "material": "oil on panel",
+          "dimensions": "height 26.5 cm x width 41.5 cm",
+          "exhibitScript": "Grey and brown tints dominate this composition, and a shadow spreads slowly over the wall. The painting\r\nalludes to the fleetingness of life. The battered books allude to transience. The music produced by the lute\r\nis momentary, a symbol of the brevity of life. A literal reference to death is inscribed on the sheet of paper\r\ndraped over the table’s edge: ‘finis’ ([the] end).",
+          "tags": [
+            "https://id.rijksmuseum.nl/22134",
+            "https://id.rijksmuseum.nl/22137",
+            "https://id.rijksmuseum.nl/221538"
+          ],
+          "imageUrl": "https://iiif.micr.io/JpMwf/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107992",
+          "name": "Lute Player",
+          "timespan": "1661",
+          "artist": "Hendrick Martensz Sorgh",
+          "material": "oil on panel",
+          "dimensions": "height 51.2 cm x width 38.2 cm",
+          "exhibitScript": "A young man is singing and playing the lute on an open veranda. Where the woman’s thoughts have wandered is a mystery. The music and the theme of the paramours Pyramus and Thisbe in the painting in the background suggest that harmonious love is the subject. Yet the work may also be a warning against impulsive lust. Both interpretations are equally valid.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221538",
+            "https://id.rijksmuseum.nl/22192",
+            "https://id.rijksmuseum.nl/2214380"
+          ],
+          "imageUrl": "https://iiif.micr.io/mDaro/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
