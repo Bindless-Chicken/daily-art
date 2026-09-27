@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T00:55:36.391Z",
+  "generatedAt": "2026-09-27T01:05:07.778Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -7203,6 +7203,89 @@
             "https://id.rijksmuseum.nl/2214380"
           ],
           "imageUrl": "https://iiif.micr.io/mDaro/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "number": 89,
+      "title": "Daily Art #89 — River",
+      "answer": {
+        "id": "20028038",
+        "name": "Italian Landscape with Resting Herdman",
+        "timespan": "1650 - 1692",
+        "artist": "Willem de Heusch",
+        "material": "oil on canvas",
+        "dimensions": "height 40 cm x width 56 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221171",
+          "https://id.rijksmuseum.nl/221174",
+          "https://id.rijksmuseum.nl/2212688"
+        ],
+        "imageUrl": "https://iiif.micr.io/DSFof/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200109265",
+          "name": "River Landscape near Nijmegen with Riders Watering their Horses",
+          "timespan": "c. 1653 - 1657",
+          "artist": "Aelbert Cuyp (mentioned on object)",
+          "material": "oil on canvas",
+          "dimensions": "outer size: depth 10 cm (support incl. frame)",
+          "exhibitScript": "This is a panoramic, sun-drenched river landscape – somewhat hazy in the distance – with sketchily drawn clouds. Two Dutch officers halt at the river, and water their horses next to a herder and his resting cattle. This idyllic scene does not unfold in Italy, but along the Waal between Nijmegen and Cleves, where Cuyp made landscape drawings that he took back to his workshop in Dordrecht.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221130",
+            "https://id.rijksmuseum.nl/22150",
+            "https://id.rijksmuseum.nl/221171"
+          ],
+          "imageUrl": "https://iiif.micr.io/uMHxo/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107959",
+          "name": "The windmill at Wijk bij Duurstede",
+          "timespan": "c. 1668 - c. 1670",
+          "artist": "Jacob Isaacksz van Ruisdael",
+          "material": "oil on canvas",
+          "dimensions": "height 83 cm x width 101 cm",
+          "exhibitScript": "The windmill rises up majestically, defying the dark rain clouds and overshadowing the castle and the church of Wijk bij Duurstede. The River Lek flows in the foreground. This painting is world famous, and rightly so. In this impressive composition, Ruisdael united all the typical Dutch elements – the low-lying land, the water and the expansive sky – manipulating them to converge on the equally characteristic Dutch mill.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221171",
+            "https://id.rijksmuseum.nl/221132",
+            "https://id.rijksmuseum.nl/221352"
+          ],
+          "imageUrl": "https://iiif.micr.io/XWEFp/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108386",
+          "name": "Italianate Landscape with Pines",
+          "timespan": "1795",
+          "artist": "Hendrik Voogd",
+          "material": "oil on canvas",
+          "dimensions": "height 72.5 cm x width 90 cm",
+          "exhibitScript": "In 1788 the financial support of an Amsterdam art patron allowed Hendrik Voogd to travel to Rome, where he joined the colony of international artists. This painting, the artist’s earliest known work, is a good example of his speciality: the campagna landscape around Rome, dotted with ancient remains, painted in a cool, clear light.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221644",
+            "https://id.rijksmuseum.nl/221171",
+            "https://id.rijksmuseum.nl/221645"
+          ],
+          "imageUrl": "https://iiif.micr.io/TwvEJ/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
