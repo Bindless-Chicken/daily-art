@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T01:04:56.732Z",
+  "generatedAt": "2026-09-29T01:01:42.637Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -7372,6 +7372,89 @@
             "https://id.rijksmuseum.nl/22123"
           ],
           "imageUrl": "https://iiif.micr.io/TcyTU/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "number": 91,
+      "title": "Daily Art #91 — Historical persons not known by name",
+      "answer": {
+        "id": "20027520",
+        "name": "Portret van een man, misschien J.W. Beynen",
+        "timespan": "c. 1812 - c. 1813",
+        "artist": "Charles Howard Hodges",
+        "material": "oil on canvas",
+        "dimensions": "height 73 cm x width 60 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221981"
+        ],
+        "imageUrl": "https://iiif.micr.io/qReaf/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20027906",
+          "name": "Portrait of an Officer",
+          "timespan": "c. 1625 - c. 1635",
+          "artist": "Wybrand de Geest",
+          "material": "oil on panel",
+          "dimensions": "support: height 55.3 cm x width 47.7 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221981",
+            "https://id.rijksmuseum.nl/22119737"
+          ],
+          "imageUrl": "https://iiif.micr.io/QLYVH/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20025825",
+          "name": "Family scene",
+          "timespan": "1649 - 1684",
+          "artist": "attributed to Caspar Netscher",
+          "material": "oil on panel",
+          "dimensions": "height 114 cm x width 166.5 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221402",
+            "https://id.rijksmuseum.nl/221981",
+            "https://id.rijksmuseum.nl/221178",
+            "https://id.rijksmuseum.nl/2218283",
+            "https://id.rijksmuseum.nl/2211440"
+          ],
+          "imageUrl": "https://iiif.micr.io/kJheZ/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027958",
+          "name": "Portrait of a Boy with a Kolf Club",
+          "timespan": "1631",
+          "artist": "Wybrand de Geest",
+          "material": "oil on panel",
+          "dimensions": "support: height 115.4 cm x width 85.3 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2211864",
+            "https://id.rijksmuseum.nl/22146",
+            "https://id.rijksmuseum.nl/221981",
+            "https://id.rijksmuseum.nl/221961"
+          ],
+          "imageUrl": "https://iiif.micr.io/vtbus/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
