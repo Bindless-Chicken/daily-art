@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T01:03:22.685Z",
+  "generatedAt": "2026-10-01T01:10:56.598Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -7533,6 +7533,82 @@
             "https://id.rijksmuseum.nl/221423"
           ],
           "imageUrl": "https://iiif.micr.io/ZgRBT/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "number": 93,
+      "title": "Daily Art #93 — Historical persons not known by name - BB - woman",
+      "answer": {
+        "id": "20028886",
+        "name": "Portret van een vrouw",
+        "timespan": "1700 - 1720",
+        "artist": "anonymous",
+        "material": "undefined",
+        "dimensions": "height 2.7 cm x width 2.3 cm x depth 0.7 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221178"
+        ],
+        "imageUrl": "https://iiif.micr.io/dyvSK/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20026296",
+          "name": "Portret van een vrouw",
+          "timespan": "1550 - 1574",
+          "artist": "anonymous",
+          "material": "oil on panel",
+          "dimensions": "height 43.7 cm x width 32.2 cm x thickness 0.8 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221178"
+          ],
+          "imageUrl": "https://iiif.micr.io/SVnun/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026441",
+          "name": "Portrait of a Young Woman Holding a Flower",
+          "timespan": "c. 1668 - c. 1670",
+          "artist": "Wallerant Vaillant",
+          "material": "oil on canvas",
+          "dimensions": "outer size: depth 7.5 cm (support incl. SK-L-1988)",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221178"
+          ],
+          "imageUrl": "https://iiif.micr.io/bvHme/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108843",
+          "name": "Young Italian Woman with the Dog Puck",
+          "timespan": "c. 1885 - c. 1886",
+          "artist": "Thérèse Schwartze",
+          "material": "oil on canvas",
+          "dimensions": "height 144 cm x width 103 cm",
+          "exhibitScript": "Known as Fortunata, this woman was one of the many professional Italian models working in Paris in the late 19th century. Schwartze started this painting while sojourning there in 1884 and exhibited it a year later in Amsterdam, having added the dog in the meanwhile. For a young female artist at the time, studying in Paris was as unconventional as pursuing a career as an artist. However, Schwartze pressed on and became a highly successful portraitist.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221178",
+            "https://id.rijksmuseum.nl/22192"
+          ],
+          "imageUrl": "https://iiif.micr.io/wJkMC/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
