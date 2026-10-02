@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T01:10:56.598Z",
+  "generatedAt": "2026-10-02T01:00:32.484Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -7609,6 +7609,91 @@
             "https://id.rijksmuseum.nl/22192"
           ],
           "imageUrl": "https://iiif.micr.io/wJkMC/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "number": 94,
+      "title": "Daily Art #94 — Child",
+      "answer": {
+        "id": "20026421",
+        "name": "Children with a mousetrap",
+        "timespan": "1660 - 1676",
+        "artist": "Domenicus van Tol",
+        "material": "oil on panel",
+        "dimensions": "depth 9.5 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/2214967",
+          "https://id.rijksmuseum.nl/221224",
+          "https://id.rijksmuseum.nl/2213701",
+          "https://id.rijksmuseum.nl/221153"
+        ],
+        "imageUrl": "https://iiif.micr.io/CasDq/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20025858",
+          "name": "Christian Allegory with two Children with a Bible and Snake",
+          "timespan": "1650 - 1699",
+          "artist": "anonymous",
+          "material": "oil on canvas",
+          "dimensions": "height 114 cm x width 75.5 cm x thickness 2.3 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221880",
+            "https://id.rijksmuseum.nl/2211285",
+            "https://id.rijksmuseum.nl/2211220",
+            "https://id.rijksmuseum.nl/221224",
+            "https://id.rijksmuseum.nl/2211394"
+          ],
+          "imageUrl": "https://iiif.micr.io/EnkXy/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107795",
+          "name": "Portrait of a Boy, possibly Louis of Nassau, later Lord of Beverweerd, De Leck, Odijk and Lekkerkerk, Illegitimate Son of Maurice, Prince of Orange, and Margaretha van Mechelen",
+          "timespan": "1604",
+          "artist": "anonymous",
+          "material": "oil on panel",
+          "dimensions": "height 90 cm x width 69 cm",
+          "exhibitScript": "This sitter is probably Louis of Nassau, an illegitimate son of Maurice. He is depicted wearing a gold medal bearing a portrait of his father. This medal was struck to celebrate the Capture of Grave in 1602. Louis was born at that time and is eighteen months old in this portrait. Did Maurice dedicate his victory to his youngest scion?",
+          "tags": [
+            "https://id.rijksmuseum.nl/221224",
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/uykLv/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026484",
+          "name": "The Butterflies",
+          "timespan": "1871",
+          "artist": "August Allebé (mentioned on object)",
+          "material": "oil on panel",
+          "dimensions": "height 35 cm x width 50 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221527",
+            "https://id.rijksmuseum.nl/221224",
+            "https://id.rijksmuseum.nl/2217511"
+          ],
+          "imageUrl": "https://iiif.micr.io/StEbd/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
