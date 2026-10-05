@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T01:30:33.531Z",
+  "generatedAt": "2026-10-05T01:06:39.689Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -7861,6 +7861,92 @@
             "https://id.rijksmuseum.nl/221215"
           ],
           "imageUrl": "https://iiif.micr.io/JBSyv/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "number": 97,
+      "title": "Daily Art #97 — Cat",
+      "answer": {
+        "id": "20026482",
+        "name": "Old Woman by the Fireplace",
+        "timespan": "c. 1850 - c. 1875",
+        "artist": "August Allebé (mentioned on object)",
+        "material": "oil on panel",
+        "dimensions": "depth 6.4 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221319",
+          "https://id.rijksmuseum.nl/221165",
+          "https://id.rijksmuseum.nl/221153",
+          "https://id.rijksmuseum.nl/2211230",
+          "https://id.rijksmuseum.nl/22121"
+        ],
+        "imageUrl": "https://iiif.micr.io/Kfkew/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200105887",
+          "name": "The cat at play",
+          "timespan": "c. 1860 - c. 1878",
+          "artist": "Henriëtte Ronner (mentioned on object)",
+          "material": "oil on panel",
+          "dimensions": "depth 12.3 cm",
+          "exhibitScript": "A young cat plays with dominoes on a tabletop. At any moment an unexpected move could tip the ashtray with a burning cigar onto the ground – or worse. With this kind of endearing and amusing scenes Ronner became one of the most successful Dutch artists of her time. Her cat tableaux appealed to the sentimental love of her contemporaries for their pets.",
+          "tags": [
+            "https://id.rijksmuseum.nl/22115685",
+            "https://id.rijksmuseum.nl/221153"
+          ],
+          "imageUrl": "https://iiif.micr.io/YAxov/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107997",
+          "name": "Children teaching a cat to dance, known as 'The dancing lesson'",
+          "timespan": "1660 - 1679",
+          "artist": "Jan Havicksz. Steen",
+          "material": "oil on panel",
+          "dimensions": "height 68.5 cm x width 59 cm",
+          "exhibitScript": "These children are up to mischief: they are teaching a cat to dance to the music of a small shawm. Widely used between the 15th and 17th centuries, the shawm was the predecessor of the oboe. Mostly played in dance and ceremonial music, shawms were appreciated for their loud tone.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221153",
+            "https://id.rijksmuseum.nl/221409",
+            "https://id.rijksmuseum.nl/221408",
+            "https://id.rijksmuseum.nl/22192"
+          ],
+          "imageUrl": "https://iiif.micr.io/zpbFV/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027069",
+          "name": "The Overturned Bouquet",
+          "timespan": "1660 - 1679",
+          "artist": "Abraham Mignon",
+          "material": "oil on canvas",
+          "dimensions": "height 89.5 cm x width 71.5 cm",
+          "exhibitScript": "The ultimate challenge facing a 17th-century still-life painter was to render various materials in a convincing fashion. Everything had to appear real: a contemporary aptly coined this as ‘semblance without being’. Abraham Mignon was a master of such seeming realism. In this still life the cat playing with a mousetrap has upset a vase of flowers. Amongst the tulips, irises, poppies, and peonies can be discerned ants, spiders,\r\ncaterpillars, and snails.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221153",
+            "https://id.rijksmuseum.nl/221532",
+            "https://id.rijksmuseum.nl/2211248",
+            "https://id.rijksmuseum.nl/2214967"
+          ],
+          "imageUrl": "https://iiif.micr.io/uBkBf/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
