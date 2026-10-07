@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T00:59:54.959Z",
+  "generatedAt": "2026-10-07T01:03:06.675Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -8029,6 +8029,96 @@
             "https://id.rijksmuseum.nl/2216213"
           ],
           "imageUrl": "https://iiif.micr.io/JLXQi/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "number": 99,
+      "title": "Daily Art #99 — Interior of the house",
+      "answer": {
+        "id": "200108180",
+        "name": "The Rag Basket",
+        "timespan": "c. 1850 - c. 1882",
+        "artist": "Alexander Hugo Bakker Korff (mentioned on object)",
+        "material": "oil on panel",
+        "dimensions": "height 21 cm x width 16 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221634",
+          "https://id.rijksmuseum.nl/221560",
+          "https://id.rijksmuseum.nl/221397"
+        ],
+        "imageUrl": "https://iiif.micr.io/CquKM/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "2003051",
+          "name": "Interior with Women beside a Linen Cupboard",
+          "timespan": "1663",
+          "artist": "Pieter de Hooch",
+          "material": "oil on canvas",
+          "dimensions": "height 70 cm x width 75.5 cm",
+          "exhibitScript": "The sun lights up the canal houses outside, while in the darker interior a girl plays ‘kolf,’ a kind of hockey. Two women stack freshly pressed linen in a closet. The linen cupboard had an important place in the home. The lady of the house carried its key with her and ‘handed out the sheets’: she called the shots and was in charge of the household.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221962",
+            "https://id.rijksmuseum.nl/221963",
+            "https://id.rijksmuseum.nl/221521",
+            "https://id.rijksmuseum.nl/221960",
+            "https://id.rijksmuseum.nl/221958",
+            "https://id.rijksmuseum.nl/221397",
+            "https://id.rijksmuseum.nl/221370",
+            "https://id.rijksmuseum.nl/221961"
+          ],
+          "imageUrl": "https://iiif.micr.io/NYvCK/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20028104",
+          "name": "Interior with a Mother Delousing her Child's Hair, known as 'A Mother's Duty'",
+          "timespan": "c. 1660 - c. 1661",
+          "artist": "Pieter de Hooch",
+          "material": "oil on canvas",
+          "dimensions": "height 52.5 cm x width 61 cm",
+          "exhibitScript": "A mother thoroughly inspects her child’s head for lice. She pursues her task in a sober Dutch interior, with Delft blue tiles and a box bed. In the right foreground is a ‘kakstoel’, or potty chair. Through the doorway is a glimpse of a sunny back room and a garden. De Hooch specialized in such ‘through-views’.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221397",
+            "https://id.rijksmuseum.nl/221521",
+            "https://id.rijksmuseum.nl/221956",
+            "https://id.rijksmuseum.nl/22192",
+            "https://id.rijksmuseum.nl/221955"
+          ],
+          "imageUrl": "https://iiif.micr.io/SgpJY/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200109391",
+          "name": "Woman with a Child in a Pantry",
+          "timespan": "c. 1656 - c. 1660",
+          "artist": "Pieter de Hooch",
+          "material": "oil on canvas",
+          "dimensions": "height 65 cm x width 60.5 cm",
+          "exhibitScript": "A maidservant shows a little boy the contents of her jug. At that time, all children wore dresses with walking reins to hold onto them while they learned to walk. De Hooch was renowned for his views through one space to another. He depicted two here: one to the\r\ncellar and another to the front room, where he painted the daylight streaming in pure white.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221304",
+            "https://id.rijksmuseum.nl/221957",
+            "https://id.rijksmuseum.nl/221397"
+          ],
+          "imageUrl": "https://iiif.micr.io/DSKRH/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
