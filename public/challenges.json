@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T01:03:06.675Z",
+  "generatedAt": "2026-10-08T01:02:48.195Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -8119,6 +8119,83 @@
             "https://id.rijksmuseum.nl/221397"
           ],
           "imageUrl": "https://iiif.micr.io/DSKRH/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "number": 100,
+      "title": "Daily Art #100 — Battle (+ sailing-ships)",
+      "answer": {
+        "id": "20015890",
+        "name": "Battle between the Dutch and Swedish Fleets, in the Sound, 8 November 1658",
+        "timespan": "1665",
+        "artist": "Willem van de Velde (I)",
+        "material": "oil on canvas",
+        "dimensions": "height 106 cm x width 155 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221617"
+        ],
+        "imageUrl": "https://iiif.micr.io/jQdQf/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20026830",
+          "name": "The Dutch Raid on the Medway, 1667",
+          "timespan": "c. 1670",
+          "artist": "anonymous",
+          "material": "oil on panel",
+          "dimensions": "support: height 72.4 cm x width 107.3 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221617",
+            "https://id.rijksmuseum.nl/221132"
+          ],
+          "imageUrl": "https://iiif.micr.io/HjvCQ/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108357",
+          "name": "\"Sea Battle between Cornelis Tromp on the \"\"Gouden Leeuw\"\" and Sir Edward Spragg on the \"\"Royal Prince\"\" during the Battle at Kijkduin (Battle of Texel), 21 August 1673: episode from the Third Anglo-Dutch War\"",
+          "timespan": "c. 1675",
+          "artist": "Willem van de Velde (II)",
+          "material": "oil on canvas",
+          "dimensions": "height 114 cm x width 183 cm",
+          "exhibitScript": "This painting is traditionally called the Nocturnal Battle. However, the naval battle at Kijkduin, between Cornelis Tromp on the Gouden Leeuw and Sir Edward Spragg on the Royal Prince, actually took place in daylight hours on 21 August 1673. It looks like night only because the encounter is shown partially hidden behind clouds of smoke and gunpowder fumes. While the Dutch flagship is sinking at the right, Tromp\r\nbattles on from a captured ship.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221617"
+          ],
+          "imageUrl": "https://iiif.micr.io/FUmRx/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20025890",
+          "name": "Naval Battle of Vigo Bay, 23 October 1702. Episode from the War of the Spanish Succession",
+          "timespan": "c. 1705",
+          "artist": "anonymous",
+          "material": "oil on panel",
+          "dimensions": "depth 6 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221617",
+            "https://id.rijksmuseum.nl/221132"
+          ],
+          "imageUrl": "https://iiif.micr.io/UyudF/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
