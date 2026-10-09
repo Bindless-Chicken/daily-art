@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T01:02:48.195Z",
+  "generatedAt": "2026-10-09T01:05:02.521Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -8196,6 +8196,93 @@
             "https://id.rijksmuseum.nl/221132"
           ],
           "imageUrl": "https://iiif.micr.io/UyudF/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "number": 101,
+      "title": "Daily Art #101 — Historical persons",
+      "answer": {
+        "id": "200108189",
+        "name": "Portrait of William I. Prince of Orange, called William the Silent",
+        "timespan": "1582 - 1592",
+        "artist": "circle of Dirck Barendsz.",
+        "material": "oil on panel",
+        "dimensions": "depth 9 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/22123",
+          "https://id.rijksmuseum.nl/221474"
+        ],
+        "imageUrl": "https://iiif.micr.io/Ssguu/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200639587",
+          "name": "Portrait of Marten Soolmans",
+          "timespan": "1634",
+          "artist": "Rembrandt van Rijn",
+          "material": "undefined",
+          "dimensions": "height 207.5 cm x width 132 cm x depth 3.7 cm",
+          "exhibitScript": "Marten and Oopjen are the only couple that Rembrandt painted life-size, standing, and at full-length. Marten’s father came to Amsterdam from Antwerp as a Protestant refugee. He made his fortune as the owner of a sugar refinery. Marten married Oopjen in 1633. He was 20 and a law student, ready for a career in politics. Sadly, he died a mere eight years later.",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/ydvFQ/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107876",
+          "name": "Giuliano & Francesco Giamberti da Sangallo Piero di Cosimo (1462–1522)",
+          "timespan": "1482 - 1485",
+          "artist": "Piero di Cosimo",
+          "material": "oil on panel",
+          "dimensions": "height 47.5 cm x width 33.5 cm",
+          "exhibitScript": "In these pendant portraits, the Florentine architect Giuliano da Sangallo is portrayed with his recently deceased father Francesco, who was a musician as well as an architect. These two panels are among the earliest examples of portraits in which the sitter’s vocation is central. The quill and compass denote architecture, the sheet of notes refers to music: both arts are based on harmony and proportion.",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221264",
+            "https://id.rijksmuseum.nl/221205",
+            "https://id.rijksmuseum.nl/221266",
+            "https://id.rijksmuseum.nl/221265"
+          ],
+          "imageUrl": "https://iiif.micr.io/RXrQw/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200109346",
+          "name": "Portrait of a Couple in a Landscape, probably Isaac Abrahamsz Massa (1586-1643) and Beatrix van der Laen (1592-1639)",
+          "timespan": "c. 1622",
+          "artist": "Frans Hals",
+          "material": "oil on canvas",
+          "dimensions": "support: height 140 cm x width 166.5 cm",
+          "exhibitScript": "It was rare for a married couple to be portrayed lifesize and together in a single painting, and even more so in such an intimate and joyful manner. The patron would have had to have been receptive to such innovation. The close friendship between Hals and the newlywed couple, presumably Isaac Abrahamsz Massa and Beatrix van der Laen, likely played a crucial role in facilitating the creation of this audacious portrait.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221317",
+            "https://id.rijksmuseum.nl/221930",
+            "https://id.rijksmuseum.nl/221177",
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221173",
+            "https://id.rijksmuseum.nl/221221",
+            "https://id.rijksmuseum.nl/221931",
+            "https://id.rijksmuseum.nl/221205"
+          ],
+          "imageUrl": "https://iiif.micr.io/kMSwz/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
