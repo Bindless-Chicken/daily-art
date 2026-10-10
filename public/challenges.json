@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T01:05:02.521Z",
+  "generatedAt": "2026-10-10T01:02:42.878Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -8283,6 +8283,86 @@
             "https://id.rijksmuseum.nl/221205"
           ],
           "imageUrl": "https://iiif.micr.io/kMSwz/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "number": 102,
+      "title": "Daily Art #102 — River",
+      "answer": {
+        "id": "20027962",
+        "name": "View of a Town on a River",
+        "timespan": "1645",
+        "artist": "Jan van Goyen (signed by artist)",
+        "material": "oil on canvas",
+        "dimensions": "outer size: depth 8.5 cm (support incl. frame)",
+        "exhibitScript": "Van Goyen revolutionized Dutch landscape painting with a fresh style. Utilizing blue, grey, and ochre tints he skilfully portrayed the country’s damp weather. He made sketches during his walks, which served as references for his paintings. The figures in this picture are also on the move, by boat or by carriage, while the inn with a swan on its signboard offers a place to rest.",
+        "tags": [
+          "https://id.rijksmuseum.nl/2212695",
+          "https://id.rijksmuseum.nl/221171"
+        ],
+        "imageUrl": "https://iiif.micr.io/CKDSN/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20026252",
+          "name": "Berglandschap bij Boppard aan de Rijn",
+          "timespan": "1660",
+          "artist": "Herman Saftleven",
+          "material": "oil on copper",
+          "dimensions": "outersize: depth 9.5 cm (support incl. SK-L-4522)",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2212688",
+            "https://id.rijksmuseum.nl/221171"
+          ],
+          "imageUrl": "https://iiif.micr.io/ZNopF/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108505",
+          "name": "\"Claudius Civilis Defeats the Roman Troops near the Rhine in 69 AD",
+          "timespan": "1600 - 1613",
+          "artist": "Otto van Veen",
+          "material": "oil on panel",
+          "dimensions": "height 38 cm x width 52 cm",
+          "exhibitScript": "In 1613, the Dutch parliament (States General) commissioned Otto van Veen to paint twelve paintings depicting the revolt of the Batavians against the Romans in AD 69 and 70. These were displayed in Binnenhof, the central government building in The Hague. In the early years of the Dutch Republic, many compared their own revolt against Spain to the Batavian uprising.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221263",
+            "https://id.rijksmuseum.nl/221171"
+          ],
+          "imageUrl": "https://iiif.micr.io/jQFoM/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108386",
+          "name": "Italianate Landscape with Pines",
+          "timespan": "1795",
+          "artist": "Hendrik Voogd",
+          "material": "oil on canvas",
+          "dimensions": "height 72.5 cm x width 90 cm",
+          "exhibitScript": "In 1788 the financial support of an Amsterdam art patron allowed Hendrik Voogd to travel to Rome, where he joined the colony of international artists. This painting, the artist’s earliest known work, is a good example of his speciality: the campagna landscape around Rome, dotted with ancient remains, painted in a cool, clear light.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221644",
+            "https://id.rijksmuseum.nl/221171",
+            "https://id.rijksmuseum.nl/221645"
+          ],
+          "imageUrl": "https://iiif.micr.io/TwvEJ/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
