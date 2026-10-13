@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T01:10:21.797Z",
+  "generatedAt": "2026-10-13T01:06:24.738Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -8522,6 +8522,85 @@
             "https://id.rijksmuseum.nl/221705"
           ],
           "imageUrl": "https://iiif.micr.io/KEwFA/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "number": 105,
+      "title": "Daily Art #105 — Commander-in-chief, admiral",
+      "answer": {
+        "id": "20028189",
+        "name": "Maerten Harpertsz Tromp (1598-1653). Luitenant-admiraal",
+        "timespan": "c. 1660 - c. 1670",
+        "artist": "Jan Lievens",
+        "material": "oil on canvas",
+        "dimensions": "support: height 132.3 cm x width 101.1 cm x thickness 4.2 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221753",
+          "https://id.rijksmuseum.nl/22123"
+        ],
+        "imageUrl": "https://iiif.micr.io/QNYZZ/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20027196",
+          "name": "Johan de Liefde (ca. 1619-73), Vice-Admiral",
+          "timespan": "1668",
+          "artist": "Bartholomeus van der Helst",
+          "material": "oil on canvas",
+          "dimensions": "depth 8 cm",
+          "exhibitScript": "Johan de Liefde by Bartholomeus van der Helst, 1668. Johan de Liefde (c. 1619-1673) played a key role in the capture of the English flagship, the Royal Charles, in 1667. In honour of the victory he received a gold chain with a commemorative medal. Van der Helst portrayed him in all his finery, wearing the chain. The background, with the battle, was painted by Ludolf Bakhuysen. De Liefde, who was made lieutenant admiral in 1666, was killed in the Battle of Kijkduin off the coast of Holland during the Third Anglo-Dutch War (1672-1674).",
+          "tags": [
+            "https://id.rijksmuseum.nl/221753",
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/jXfXz/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026674",
+          "name": "Michiel Adriaenszoon de Ruyter (1607-1676), luitenant-admiraal",
+          "timespan": "1650 - 1750",
+          "artist": "copy after Ferdinand Bol",
+          "material": "oil on canvas",
+          "dimensions": "support: height 112 cm x width 90 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221753",
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/waRyv/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20028058",
+          "name": "Portrait of Joos van Trappen, called Banckert, Vice-Admiral of Zeeland",
+          "timespan": "c. 1640",
+          "artist": "anonymous",
+          "material": "oil on canvas",
+          "dimensions": "height 60 cm x width 46 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221753",
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/Uobzt/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
