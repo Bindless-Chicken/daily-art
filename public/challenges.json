@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T01:06:24.738Z",
+  "generatedAt": "2026-10-14T00:52:35.941Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -8601,6 +8601,86 @@
             "https://id.rijksmuseum.nl/22123"
           ],
           "imageUrl": "https://iiif.micr.io/Uobzt/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "number": 106,
+      "title": "Daily Art #106 — Storm at sea",
+      "answer": {
+        "id": "20026546",
+        "name": "Warships in a Heavy Squall",
+        "timespan": "c. 1695",
+        "artist": "Ludolf Bakhuysen",
+        "material": "oil on canvas",
+        "dimensions": "height 150 cm x width 227 cm",
+        "exhibitScript": "In early 1694 some 30 Dutch warships set sail for the Mediterranean. They were sent to protect a merchant fleet from French attacks. In the Straits of Gibraltar they ran into a heavy storm. Various ships sank or were seriously damaged, including the Hollandia, portrayed centre right in the painting.",
+        "tags": [
+          "https://id.rijksmuseum.nl/221541"
+        ],
+        "imageUrl": "https://iiif.micr.io/PGeVS/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20026543",
+          "name": "Woelige zee met schepen",
+          "timespan": "1697",
+          "artist": "Ludolf Bakhuysen (mentioned on object)",
+          "material": "oil on canvas",
+          "dimensions": "depth 4 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221541",
+            "https://id.rijksmuseum.nl/221132"
+          ],
+          "imageUrl": "https://iiif.micr.io/kqMBw/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026301",
+          "name": "Schepen op een onstuimige zee",
+          "timespan": "1826",
+          "artist": "Johannes Christiaan Schotel",
+          "material": "oil on canvas",
+          "dimensions": "depth 14.4 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221337",
+            "https://id.rijksmuseum.nl/221541",
+            "https://id.rijksmuseum.nl/221132"
+          ],
+          "imageUrl": "https://iiif.micr.io/QSgUk/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027254",
+          "name": "Storm in the Strait of Dover",
+          "timespan": "1819 - 1866",
+          "artist": "Louis Meijer",
+          "material": "oil on panel",
+          "dimensions": "depth 7 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221132",
+            "https://id.rijksmuseum.nl/221233",
+            "https://id.rijksmuseum.nl/221541"
+          ],
+          "imageUrl": "https://iiif.micr.io/Gmscq/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
