@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T00:52:35.941Z",
+  "generatedAt": "2026-10-15T00:51:54.110Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -8681,6 +8681,90 @@
             "https://id.rijksmuseum.nl/221541"
           ],
           "imageUrl": "https://iiif.micr.io/Gmscq/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "number": 107,
+      "title": "Daily Art #107 — Mother and baby or young child",
+      "answer": {
+        "id": "20025820",
+        "name": "Interior with a Mother Combing her Child’s Hair",
+        "timespan": "1669",
+        "artist": "Caspar Netscher",
+        "material": "oil on panel",
+        "dimensions": "height 44.5 cm x width 38 cm x height 61 cm x width 53.5 cm x thickness 4.7 cm",
+        "exhibitScript": "These two children serve as examples of good and bad upbringing. Toys litter the floor in a dimly lit bedroom. A mother combs the long curls of her son, who obediently leans on her lap. Meanwhile, her daughter mischievously sticks out her tongue in the mirror – is it directed at her reflection or at the maid in the background?",
+        "tags": [
+          "https://id.rijksmuseum.nl/221219",
+          "https://id.rijksmuseum.nl/221220",
+          "https://id.rijksmuseum.nl/22145"
+        ],
+        "imageUrl": "https://iiif.micr.io/keTFT/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20015870",
+          "name": "A Cherry Vendor at the Door",
+          "timespan": "1816",
+          "artist": "Abraham van Strij (I) (signed by artist)",
+          "material": "oil on panel",
+          "dimensions": "height 72.7 cm x width 59 cm",
+          "exhibitScript": "Carrying her baskets full of goods, the cherry seller goes from door to door. She meets with success at this house. The finely dressed occupant holds up a handful of cherries, for which her little daughter eagerly reaches. This sunny, colourful scene by the Dordrecht painter Van Strij exudes a pleasant atmosphere. The harmony is disrupted only by the dog, which has frightened the cat.",
+          "tags": [
+            "https://id.rijksmuseum.nl/22116567",
+            "https://id.rijksmuseum.nl/221654",
+            "https://id.rijksmuseum.nl/2215105",
+            "https://id.rijksmuseum.nl/221163",
+            "https://id.rijksmuseum.nl/22145",
+            "https://id.rijksmuseum.nl/2213890"
+          ],
+          "imageUrl": "https://iiif.micr.io/xcWMf/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20029049",
+          "name": "The Housewife",
+          "timespan": "1800 - 1811",
+          "artist": "Abraham van Strij (I)",
+          "material": "oil on panel",
+          "dimensions": "height 56.5 cm x width 49 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/22143",
+            "https://id.rijksmuseum.nl/22145",
+            "https://id.rijksmuseum.nl/2214953"
+          ],
+          "imageUrl": "https://iiif.micr.io/qrePa/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027713",
+          "name": "A Mother and her Child",
+          "timespan": "1794",
+          "artist": "Louis Bernard Coclers",
+          "material": "oil on panel",
+          "dimensions": "height 36.5 cm x width 30 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/22145"
+          ],
+          "imageUrl": "https://iiif.micr.io/BvXWC/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
