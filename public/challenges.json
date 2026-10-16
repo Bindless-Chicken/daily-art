@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T00:51:54.110Z",
+  "generatedAt": "2026-10-16T00:51:48.350Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -8765,6 +8765,89 @@
             "https://id.rijksmuseum.nl/22145"
           ],
           "imageUrl": "https://iiif.micr.io/BvXWC/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "number": 108,
+      "title": "Daily Art #108 — Fruits: lemon",
+      "answer": {
+        "id": "200108952",
+        "name": "Jonge vrouw met citroen",
+        "timespan": "1685 - 1690",
+        "artist": "Godfried Schalcken",
+        "material": "oil on panel",
+        "dimensions": "height 23 cm x width 18 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/2211316",
+          "https://id.rijksmuseum.nl/221937"
+        ],
+        "imageUrl": "https://iiif.micr.io/MeEhF/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20028015",
+          "name": "Still life with a Gilded Beer Tankard",
+          "timespan": "1634",
+          "artist": "Willem Claesz Heda (signed by artist)",
+          "material": "oil on panel",
+          "dimensions": "outer size: depth 8.5 cm (support incl. frame)",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221447",
+            "https://id.rijksmuseum.nl/221555",
+            "https://id.rijksmuseum.nl/221937"
+          ],
+          "imageUrl": "https://iiif.micr.io/fWtuQ/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20025947",
+          "name": "Still Life with Lemon and Cut Glass",
+          "timespan": "1823 - 1826",
+          "artist": "Maria Margaretha van Os",
+          "material": "oil on panel",
+          "dimensions": "depth 8.2 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221527",
+            "https://id.rijksmuseum.nl/2216759",
+            "https://id.rijksmuseum.nl/221937",
+            "https://id.rijksmuseum.nl/221976"
+          ],
+          "imageUrl": "https://iiif.micr.io/ecqwF/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20028547",
+          "name": "Stilleven met kan van steengoed",
+          "timespan": "1878",
+          "artist": "Maria Vos (mentioned on object)",
+          "material": "oil on canvas",
+          "dimensions": "depth 6.2 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221850",
+            "https://id.rijksmuseum.nl/221937",
+            "https://id.rijksmuseum.nl/221976"
+          ],
+          "imageUrl": "https://iiif.micr.io/DnuJv/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
