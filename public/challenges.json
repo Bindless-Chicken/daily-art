@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T00:51:48.350Z",
+  "generatedAt": "2026-10-17T00:52:42.801Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -8848,6 +8848,82 @@
             "https://id.rijksmuseum.nl/221976"
           ],
           "imageUrl": "https://iiif.micr.io/DnuJv/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "number": 109,
+      "title": "Daily Art #109 — Historical persons not known by name - BB - woman",
+      "answer": {
+        "id": "20028886",
+        "name": "Portret van een vrouw",
+        "timespan": "1700 - 1720",
+        "artist": "anonymous",
+        "material": "undefined",
+        "dimensions": "height 2.7 cm x width 2.3 cm x depth 0.7 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221178"
+        ],
+        "imageUrl": "https://iiif.micr.io/dyvSK/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200108843",
+          "name": "Young Italian Woman with the Dog Puck",
+          "timespan": "c. 1885 - c. 1886",
+          "artist": "Thérèse Schwartze",
+          "material": "oil on canvas",
+          "dimensions": "height 144 cm x width 103 cm",
+          "exhibitScript": "Known as Fortunata, this woman was one of the many professional Italian models working in Paris in the late 19th century. Schwartze started this painting while sojourning there in 1884 and exhibited it a year later in Amsterdam, having added the dog in the meanwhile. For a young female artist at the time, studying in Paris was as unconventional as pursuing a career as an artist. However, Schwartze pressed on and became a highly successful portraitist.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221178",
+            "https://id.rijksmuseum.nl/22192"
+          ],
+          "imageUrl": "https://iiif.micr.io/wJkMC/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026296",
+          "name": "Portrait of a Woman (previously identified as Queen Elizabeth I)",
+          "timespan": "1550 - 1574",
+          "artist": "anonymous",
+          "material": "oil on panel",
+          "dimensions": "depth 5 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221178"
+          ],
+          "imageUrl": "https://iiif.micr.io/SVnun/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20028127",
+          "name": "Portrait of a Woman",
+          "timespan": "1900 - 1922",
+          "artist": "Isaac Israels",
+          "material": "oil on canvas",
+          "dimensions": "depth 8 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221178"
+          ],
+          "imageUrl": "https://iiif.micr.io/htSbb/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
