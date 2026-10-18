@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T00:52:42.801Z",
+  "generatedAt": "2026-10-18T00:58:03.769Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -8924,6 +8924,87 @@
             "https://id.rijksmuseum.nl/221178"
           ],
           "imageUrl": "https://iiif.micr.io/htSbb/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "number": 110,
+      "title": "Daily Art #110 — Portrait, self-portrait of artist",
+      "answer": {
+        "id": "20090297",
+        "name": "Portret van de vrouw van Johann Philip Lembke",
+        "timespan": "1650 - 1713",
+        "artist": "Johann Philipp Lemke",
+        "material": "undefined",
+        "dimensions": "diameter 4 cm x height 0.2 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221451"
+        ],
+        "imageUrl": "https://iiif.micr.io/NCghD/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20020404",
+          "name": "Self-Portrait",
+          "timespan": "c. 1670",
+          "artist": "Jan Havicksz. Steen",
+          "material": "oil on canvas",
+          "dimensions": "height 95 cm x width 85.5 cm x thickness 9 cm",
+          "exhibitScript": "A distinguished citizen dressed in decorous black is seated before a red curtain and tassel. Jan Steen, known primarily for his humorous scenes with simple folk, portrayed himself here as utterly self-assured. He also regularly included himself in other paintings, but then usually in a comic role.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221451",
+            "https://id.rijksmuseum.nl/221633",
+            "https://id.rijksmuseum.nl/221328",
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/hbNwm/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200109198",
+          "name": "Portrait of Jacob Cornelisz van Oostsanen (c. 1472/77-1528/33)",
+          "timespan": "c. 1533",
+          "artist": "workshop of Jacob Cornelisz van Oostsanen",
+          "material": "oil on panel",
+          "dimensions": "support: height 37.8 cm x width 29.4 cm",
+          "exhibitScript": "Long accepted as the earliest known north Netherlandish self-portrait, this is probably a copy after a lost work. Such portraits illustrate the increasing status of artists. Jacob, whose traditional nickname means ‘son of Cornelis from Oostsanen’, looks directly at us. Behind him is a  paper with the date 1533 and his monogram, I W (inverted) v A (‘J[acob] W[ar] v[an] A[msterdam]’).",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221328",
+            "https://id.rijksmuseum.nl/221451"
+          ],
+          "imageUrl": "https://iiif.micr.io/DLGpa/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20028540",
+          "name": "Portrait of a Painter",
+          "timespan": "1700 - 1799",
+          "artist": "anonymous",
+          "material": "oil on canvas",
+          "dimensions": "depth 5.3 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221382",
+            "https://id.rijksmuseum.nl/221451"
+          ],
+          "imageUrl": "https://iiif.micr.io/SHRJx/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
