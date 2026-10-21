@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T00:53:55.760Z",
+  "generatedAt": "2026-10-21T00:53:29.576Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -9167,6 +9167,85 @@
             "https://id.rijksmuseum.nl/221948"
           ],
           "imageUrl": "https://iiif.micr.io/wEuxE/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "number": 113,
+      "title": "Daily Art #113 — Storm at sea",
+      "answer": {
+        "id": "20026543",
+        "name": "Rough Sea with Ships",
+        "timespan": "1697",
+        "artist": "Ludolf Bakhuysen (mentioned on object)",
+        "material": "oil on canvas",
+        "dimensions": "depth 4 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221132",
+          "https://id.rijksmuseum.nl/221541"
+        ],
+        "imageUrl": "https://iiif.micr.io/kqMBw/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20026546",
+          "name": "Warships in a Heavy Squall",
+          "timespan": "c. 1695",
+          "artist": "Ludolf Bakhuysen",
+          "material": "oil on canvas",
+          "dimensions": "depth 9 cm",
+          "exhibitScript": "In early 1694 some 30 Dutch warships set sail for the Mediterranean. They were sent to protect a merchant fleet from French attacks. In the Straits of Gibraltar they ran into a heavy storm. Various ships sank or were seriously damaged, including the Hollandia, portrayed centre right in the painting.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221541"
+          ],
+          "imageUrl": "https://iiif.micr.io/PGeVS/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108359",
+          "name": "A Ship on the High Seas Caught by a Squall, Known as ‘The Gust’",
+          "timespan": "c. 1680",
+          "artist": "Willem van de Velde (II)",
+          "material": "oil on canvas",
+          "dimensions": "height 77 cm x width 63.5 cm x height 90.5 cm x width 78.5 cm x depth 6.5 cm",
+          "exhibitScript": "This large, 70-gun British warship is in distress. A fierce gust of wind has broken one of its masts, and a sail has come loose. In 1672, Willem van de Velde II, together with his father, who was also a marine painter, entered the service of the English court. He made this painting and its companion, The Cannon Shot, in England.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221132",
+            "https://id.rijksmuseum.nl/221541"
+          ],
+          "imageUrl": "https://iiif.micr.io/eBrWZ/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026301",
+          "name": "Schepen op een onstuimige zee",
+          "timespan": "1826",
+          "artist": "Johannes Christiaan Schotel",
+          "material": "oil on canvas",
+          "dimensions": "depth 14.4 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221132",
+            "https://id.rijksmuseum.nl/221337",
+            "https://id.rijksmuseum.nl/221541"
+          ],
+          "imageUrl": "https://iiif.micr.io/QSgUk/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
