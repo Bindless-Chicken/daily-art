@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T00:53:29.576Z",
+  "generatedAt": "2026-10-22T00:52:46.075Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -9246,6 +9246,90 @@
             "https://id.rijksmuseum.nl/221541"
           ],
           "imageUrl": "https://iiif.micr.io/QSgUk/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "number": 114,
+      "title": "Daily Art #114 — Seeking death, suicide",
+      "answer": {
+        "id": "200107979",
+        "name": "Jan van Speyk Debating whether to Set Fire to the Gunpowder",
+        "timespan": "1834",
+        "artist": "Jacobus Schoemaker Doyer",
+        "material": "oil on canvas",
+        "dimensions": "height 89 cm x width 75 cm",
+        "exhibitScript": "During the Belgian Revolution, Jan van Speijk was in command of a Dutch gunboat. When on 5 February 1831 the ship was in danger of falling into rebel Belgian hands, he decided to set fire to a keg of gunpowder. That moment is depicted here: Van Speijk has made up his mind, and his crew take to their heels. Van Speijk’s act of courage made him a national hero in the Netherlands.",
+        "tags": [
+          "https://id.rijksmuseum.nl/22123",
+          "https://id.rijksmuseum.nl/221376",
+          "https://id.rijksmuseum.nl/2214945"
+        ],
+        "imageUrl": "https://iiif.micr.io/pKWWE/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20029048",
+          "name": "De ontploffing voor Antwerpen van kanonneerboot nr 2 onder commando van Jan van Speyk, 5 februari 1831",
+          "timespan": "1832",
+          "artist": "Martinus Schouman",
+          "material": "oil on panel",
+          "dimensions": "depth 6 cm",
+          "exhibitScript": "The explosion of Dutch Gunboat No. 2 under command of Jan van Speyk on the Scheldt at Antwerp, 5 February 1831, by M. Schouman, 1832. To avoid falling in Belgian hands Van Speyk blew up his own ship. In Holland this created a sensation. There was a massive demand for pictures. Many different artists portrayed the event. Rather than show the dramatic moment when Van Speyk set the powder alight, Schouman portrayed the fatal result.",
+          "tags": [
+            "https://id.rijksmuseum.nl/2214945",
+            "https://id.rijksmuseum.nl/221789",
+            "https://id.rijksmuseum.nl/221936"
+          ],
+          "imageUrl": "https://iiif.micr.io/xseWA/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20029047",
+          "name": "Jan van Speyk steekt de lont in het kruit, 5 februari 1831",
+          "timespan": "1831 - 1850",
+          "artist": "Jacobus Schoemaker Doyer",
+          "material": "oil on canvas",
+          "dimensions": "depth 8 cm",
+          "exhibitScript": "Van Speyk putting the Spark to the Tinder on his Ship, 5 February 1831, by J. Schoemaker Doyer, c. 1834. During the Belgian revolution Jan C.J. van Speyk (1802 - 1831) was given command of a Dutch gunboat. Caught in a storm, the ship ended up against the banks of the Scheldt in Antwerp where it was overwhelmed by a crowd of Belgians. Van Speyk blew his ship up: he and his fellow officers had sworn an oath never to let their ship fall into the hands of the enemy undamaged. Almost all the crew, including Van Speyk, as well as several Belgians died in the explosion. Van Speyk's embalmed remains were solemnly interred in the New Church in Amsterdam in May 1832. He was honoured as a national hero. Schoemaker Doyer based his work on an eyewitness account.",
+          "tags": [
+            "https://id.rijksmuseum.nl/2211187",
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/2214945"
+          ],
+          "imageUrl": "https://iiif.micr.io/LQGwS/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026153",
+          "name": "Ophélie, la cape bleue sur les eaux",
+          "timespan": "1900 - 1905",
+          "artist": "Odilon Redon (signed by artist)",
+          "material": "undefined",
+          "dimensions": "depth 2.5 cm",
+          "exhibitScript": "Around 1900 young artists exhibited at various independent societies. Les Vingt in Brussels was such an association, of which both James Ensor and Jan Toorop were members and where Redon was invited to show his work. His dreamy, visionary art is part of Symbolism. Here he depicted the fatal drowning of Ophelia, the lover of Hamlet from the Shakespearean tragedy of the same title.",
+          "tags": [
+            "https://id.rijksmuseum.nl/22110198",
+            "https://id.rijksmuseum.nl/22114447",
+            "https://id.rijksmuseum.nl/22120934",
+            "https://id.rijksmuseum.nl/2214945"
+          ],
+          "imageUrl": "https://iiif.micr.io/etdwk/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
