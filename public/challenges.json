@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T00:52:46.075Z",
+  "generatedAt": "2026-10-23T00:55:21.806Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -9330,6 +9330,89 @@
             "https://id.rijksmuseum.nl/2214945"
           ],
           "imageUrl": "https://iiif.micr.io/etdwk/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "number": 115,
+      "title": "Daily Art #115 — Widow",
+      "answer": {
+        "id": "20026362",
+        "name": "De weduwe",
+        "timespan": "1850 - 1906",
+        "artist": "Alfred Stevens (mentioned on object)",
+        "material": "oil on canvas",
+        "dimensions": "depth 8.5 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/2211085",
+          "https://id.rijksmuseum.nl/22145",
+          "https://id.rijksmuseum.nl/221511"
+        ],
+        "imageUrl": "https://iiif.micr.io/LEpIV/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200108234",
+          "name": "De schildersweduwe",
+          "timespan": "1870",
+          "artist": "Kate Bisschop-Swift",
+          "material": "oil on canvas",
+          "dimensions": "height 79 cm x width 52.5 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2214907",
+            "https://id.rijksmuseum.nl/221493",
+            "https://id.rijksmuseum.nl/221511"
+          ],
+          "imageUrl": "https://iiif.micr.io/zoDeo/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200109286",
+          "name": "Allegorie op de nagedachtenis van Frederik Hendrik, prins van Oranje, met het portret van zijn weduwe Amalia van Solms",
+          "timespan": "1654",
+          "artist": "Govert Flinck (signed by artist)",
+          "material": "oil on canvas",
+          "dimensions": "support: height 307 cm x width 189 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221173",
+            "https://id.rijksmuseum.nl/22121804",
+            "https://id.rijksmuseum.nl/221511"
+          ],
+          "imageUrl": "https://iiif.micr.io/TULXC/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108126",
+          "name": "The Egyptian Widow",
+          "timespan": "1872",
+          "artist": "Lourens Alma Tadema",
+          "material": "oil on panel",
+          "dimensions": "height 74.9 cm x width 99.1 cm",
+          "exhibitScript": "The Frisian artist Alma-Tadema was a great success in England, where he was even knighted. His representations of ancient Egyptian, Greek and Roman scenes made him one of the most popular 19th-century painters. In this picture, full of archaeological details, a woman is mourning beside the inner mummy case containing the body of her husband. His sarcophagus stands at left, while priests and singers lament the departed.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221511",
+            "https://id.rijksmuseum.nl/221512",
+            "https://id.rijksmuseum.nl/2219735"
+          ],
+          "imageUrl": "https://iiif.micr.io/rfeVO/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
