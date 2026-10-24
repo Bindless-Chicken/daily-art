@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T00:55:21.806Z",
+  "generatedAt": "2026-10-24T00:51:44.775Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -9413,6 +9413,85 @@
             "https://id.rijksmuseum.nl/2219735"
           ],
           "imageUrl": "https://iiif.micr.io/rfeVO/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "number": 116,
+      "title": "Daily Art #116 — Horse",
+      "answer": {
+        "id": "20027554",
+        "name": "Paard",
+        "timespan": "1860 - 1888",
+        "artist": "Anton Mauve",
+        "material": "oil on canvas",
+        "dimensions": "depth 11.6 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/22150"
+        ],
+        "imageUrl": "https://iiif.micr.io/cUEzD/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20027525",
+          "name": "Paarden bij het hek",
+          "timespan": "1878",
+          "artist": "Anton Mauve (mentioned on object)",
+          "material": "oil on canvas",
+          "dimensions": "depth 9.9 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221239",
+            "https://id.rijksmuseum.nl/22150"
+          ],
+          "imageUrl": "https://iiif.micr.io/zfnRF/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200109265",
+          "name": "River Landscape near Nijmegen with Riders Watering their Horses",
+          "timespan": "c. 1653 - 1657",
+          "artist": "Aelbert Cuyp (mentioned on object)",
+          "material": "oil on canvas",
+          "dimensions": "outer size: depth 10 cm (support incl. frame)",
+          "exhibitScript": "This is a panoramic, sun-drenched river landscape – somewhat hazy in the distance – with sketchily drawn clouds. Two Dutch officers halt at the river, and water their horses next to a herder and his resting cattle. This idyllic scene does not unfold in Italy, but along the Waal between Nijmegen and Cleves, where Cuyp made landscape drawings that he took back to his workshop in Dordrecht.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221130",
+            "https://id.rijksmuseum.nl/221171",
+            "https://id.rijksmuseum.nl/22150"
+          ],
+          "imageUrl": "https://iiif.micr.io/uMHxo/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108316",
+          "name": "Building Site",
+          "timespan": "c. 1900",
+          "artist": "George Hendrik Breitner",
+          "material": "oil on canvas",
+          "dimensions": "height 52 cm x width 91 cm",
+          "exhibitScript": "Amsterdam underwent tremendous growth at the turn of the 20th century. The city expanded with new residential areas built on millions of piles. Breitner was fascinated by the modern metropolis and its many building sites. In this painting, we see new homes rising on the left, while a horse drags a pile into the construction pit in the foreground. On the right, another pile is driven into the ground with a steam hammer, a recent invention.",
+          "tags": [
+            "https://id.rijksmuseum.nl/22150",
+            "https://id.rijksmuseum.nl/221598"
+          ],
+          "imageUrl": "https://iiif.micr.io/UKMgl/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
