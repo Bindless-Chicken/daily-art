@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T00:58:12.885Z",
+  "generatedAt": "2026-10-26T00:57:19.705Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -9575,6 +9575,86 @@
             "https://id.rijksmuseum.nl/22192"
           ],
           "imageUrl": "https://iiif.micr.io/eyuyD/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "number": 118,
+      "title": "Daily Art #118 — Cupids: 'amores', 'amoretti', 'putti'",
+      "answer": {
+        "id": "20027610",
+        "name": "Four Putti with Grapes",
+        "timespan": "c. 1725 - c. 1774",
+        "artist": "anonymous",
+        "material": "oil on canvas",
+        "dimensions": "depth 8 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221705"
+        ],
+        "imageUrl": "https://iiif.micr.io/qXxQk/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20027609",
+          "name": "Four Putti Carrying a Fruit Basket",
+          "timespan": "c. 1725 - c. 1774",
+          "artist": "anonymous",
+          "material": "oil on canvas",
+          "dimensions": "depth 7.5 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221705"
+          ],
+          "imageUrl": "https://iiif.micr.io/UsdfU/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200111830",
+          "name": "Allegorie op de Wetenschappen",
+          "timespan": "c. 1675 - c. 1683",
+          "artist": "Gerard de Lairesse",
+          "material": "oil on canvas",
+          "dimensions": "height 289 cm x width 161 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2211218",
+            "https://id.rijksmuseum.nl/2211219",
+            "https://id.rijksmuseum.nl/2211220",
+            "https://id.rijksmuseum.nl/2211221",
+            "https://id.rijksmuseum.nl/2211222",
+            "https://id.rijksmuseum.nl/221705"
+          ],
+          "imageUrl": "https://iiif.micr.io/eKMxZ/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20028771",
+          "name": "Putti met bloemenkrans",
+          "timespan": "c. 1650",
+          "artist": "workshop of Gerard van Honthorst",
+          "material": "oil on canvas",
+          "dimensions": "outer size: depth 6.5 cm (support incl. frame)",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221705"
+          ],
+          "imageUrl": "https://iiif.micr.io/KEwFA/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
