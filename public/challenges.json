@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T00:57:19.705Z",
+  "generatedAt": "2026-10-27T00:55:30.607Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -9655,6 +9655,88 @@
             "https://id.rijksmuseum.nl/221705"
           ],
           "imageUrl": "https://iiif.micr.io/KEwFA/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "number": 119,
+      "title": "Daily Art #119 — Siege",
+      "answer": {
+        "id": "200108806",
+        "name": "De uittocht van de Spaanse bezetting van Breda, 10 oktober 1637",
+        "timespan": "1647 - 1683",
+        "artist": "Hendrick de Meijer",
+        "material": "undefined",
+        "dimensions": "height 94.5 cm x width 162 cm",
+        "exhibitScript": "Hendrik de Meyer (active 1637 - 1683). The Departure of the Spanish Occupying Force from Breda on 10 October 1637. Signed 1663 (?). In original gilt lime frame.",
+        "tags": [
+          "https://id.rijksmuseum.nl/22122637",
+          "https://id.rijksmuseum.nl/2213898",
+          "https://id.rijksmuseum.nl/221661"
+        ],
+        "imageUrl": "https://iiif.micr.io/wEufg/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200108621",
+          "name": "Prince Frederik Hendrik at the Siege of 's-Hertogenbosch, 1629",
+          "timespan": "c. 1631",
+          "artist": "Pauwels van Hillegaert",
+          "material": "oil on canvas",
+          "dimensions": "frame: height 130 cm x width 199 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221105",
+            "https://id.rijksmuseum.nl/2211313",
+            "https://id.rijksmuseum.nl/221661"
+          ],
+          "imageUrl": "https://iiif.micr.io/mvofH/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108585",
+          "name": "Prince Frederik Hendrik and Count Ernst Casimir at the Siege of 's-Hertogenbosch, 1629",
+          "timespan": "c. 1629 - c. 1635",
+          "artist": "Pauwels van Hillegaert",
+          "material": "oil on panel",
+          "dimensions": "support: height 47.1 cm x width 63.1 cm",
+          "exhibitScript": "Prince Frederick Henry and his cousin Count Ernst Casimir pose triumphantly on their horses before\r\n’s-Hertogenbosch. Frederick Henry points his commander’s staff at the Habsburg-occupied city now being stormed by Dutch forces. It was not for nothing that he was nicknamed ‘the conqueror of cities’. He captured a series of cites from the Spanish. The retaking of ‘s-Hertogenbosch in 1629 was one of the most important.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221105",
+            "https://id.rijksmuseum.nl/221661",
+            "https://id.rijksmuseum.nl/221712"
+          ],
+          "imageUrl": "https://iiif.micr.io/ktbuS/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200111815",
+          "name": "The Bombardment of 's-Hertogenbosch",
+          "timespan": "1800",
+          "artist": "Josephus Augustus Knip",
+          "material": "oil on panel",
+          "dimensions": "height 47 cm x width 62 cm",
+          "exhibitScript": "At the request of the Patriots, a French army invaded the Dutch Republic in September 1794. After a siege lasting more than two weeks, ’s-Hertogenbosch was captured on 10 October. The city was shelled –even at night –with cannons set up by the French. To keep out the attackers, a large area around the city was flooded.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221661",
+            "https://id.rijksmuseum.nl/221760"
+          ],
+          "imageUrl": "https://iiif.micr.io/cCEwC/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
