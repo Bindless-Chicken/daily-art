@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T00:55:30.607Z",
+  "generatedAt": "2026-10-28T00:42:42.863Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -9737,6 +9737,90 @@
             "https://id.rijksmuseum.nl/221760"
           ],
           "imageUrl": "https://iiif.micr.io/cCEwC/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "number": 120,
+      "title": "Daily Art #120 — Portrait, self-portrait of painter",
+      "answer": {
+        "id": "20027268",
+        "name": "Jan Steen Sends his Son to the Streets to Exchange Paintings for Beer and Wine",
+        "timespan": "1828",
+        "artist": "Ignatius Josephus Van Regemorter",
+        "material": "oil on panel",
+        "dimensions": "depth 9.5 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/22110686",
+          "https://id.rijksmuseum.nl/22117703",
+          "https://id.rijksmuseum.nl/221328",
+          "https://id.rijksmuseum.nl/221451",
+          "https://id.rijksmuseum.nl/2215014"
+        ],
+        "imageUrl": "https://iiif.micr.io/ZwtHw/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200109794",
+          "name": "Self Portrait",
+          "timespan": "1887",
+          "artist": "Vincent van Gogh",
+          "material": "undefined",
+          "dimensions": "depth 8 cm",
+          "exhibitScript": "Vincent moved to Paris in 1886, after hearing from his brother Theo about the new, colourful style of French painting. Wasting no time, he tried it out in several self-portraits. He did this mostly to avoid having to pay for a model. Using rhythmic brushstrokes in striking colours, he portrayed himself here as a fashionably dressed Parisian.",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221328",
+            "https://id.rijksmuseum.nl/221451"
+          ],
+          "imageUrl": "https://iiif.micr.io/bTpft/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200109198",
+          "name": "Portrait of Jacob Cornelisz van Oostsanen (c. 1472/77-1528/33)",
+          "timespan": "c. 1533",
+          "artist": "workshop of Jacob Cornelisz van Oostsanen",
+          "material": "oil on panel",
+          "dimensions": "support: height 37.8 cm x width 29.4 cm",
+          "exhibitScript": "Long accepted as the earliest known north Netherlandish self-portrait, this is probably a copy after a lost work. Such portraits illustrate the increasing status of artists. Jacob, whose traditional nickname means ‘son of Cornelis from Oostsanen’, looks directly at us. Behind him is a  paper with the date 1533 and his monogram, I W (inverted) v A (‘J[acob] W[ar] v[an] A[msterdam]’).",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221328",
+            "https://id.rijksmuseum.nl/221451"
+          ],
+          "imageUrl": "https://iiif.micr.io/DLGpa/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107981",
+          "name": "Portrait of Lizzy Ansingh (1875-1959)",
+          "timespan": "1902",
+          "artist": "Thérèse Schwartze",
+          "material": "oil on canvas",
+          "dimensions": "depth 9.5 cm",
+          "exhibitScript": "Thérèse Schwartze was the most sought-after portraitist of Dutch 19th-century high society. Yet the portraits she painted of those closest to her were her favourites. This likeness of her niece and fellow artist Lizzy Ansingh is one of her best works. The strong contrast between light and dark creates an intimate atmosphere. At the same time, the energetic brushwork and fiery red accent on the bright green in her clothes exude a powerful aura.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221173",
+            "https://id.rijksmuseum.nl/221328"
+          ],
+          "imageUrl": "https://iiif.micr.io/zkwTG/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
