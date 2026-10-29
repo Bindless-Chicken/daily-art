@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T00:42:42.863Z",
+  "generatedAt": "2026-10-29T00:42:02.829Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -9821,6 +9821,89 @@
             "https://id.rijksmuseum.nl/221328"
           ],
           "imageUrl": "https://iiif.micr.io/zkwTG/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "number": 121,
+      "title": "Daily Art #121 — Historical persons",
+      "answer": {
+        "id": "20027052",
+        "name": "Portrait of Mattheus van den Broucke (1620-1685). Councillor of the Indies",
+        "timespan": "1670 - 1678",
+        "artist": "Samuel van Hoogstraten",
+        "material": "oil on canvas",
+        "dimensions": "depth 10.5 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/2211131",
+          "https://id.rijksmuseum.nl/22123"
+        ],
+        "imageUrl": "https://iiif.micr.io/sHNFH/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200109367",
+          "name": "Gerard Andriesz Bicker (1622-66), Lord of Engelenburg. High Bailiff of Muiden",
+          "timespan": "c. 1642",
+          "artist": "Bartholomeus van der Helst",
+          "material": "oil on panel",
+          "dimensions": "height 117.5 cm x width 96 cm",
+          "exhibitScript": "Like his father, the twenty-year-old Gerard Bicker is portrayed as self-assured, his arm akimbo. The striking differences in the garments worn by father and son confirm that they are from different generations. While his father Andries is dressed in dignified black clothing with an old-fashioned ruff, Gerard wears a colourful and showy outfit with a flat collar and elegant gloves. Gerard was not awarded as many key administrative positions in Amsterdam.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221175",
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/Qhoba/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107876",
+          "name": "Giuliano & Francesco Giamberti da Sangallo Piero di Cosimo (1462–1522)",
+          "timespan": "1482 - 1485",
+          "artist": "Piero di Cosimo",
+          "material": "oil on panel",
+          "dimensions": "height 47.5 cm x width 33.5 cm",
+          "exhibitScript": "In these pendant portraits, the Florentine architect Giuliano da Sangallo is portrayed with his recently deceased father Francesco, who was a musician as well as an architect. These two panels are among the earliest examples of portraits in which the sitter’s vocation is central. The quill and compass denote architecture, the sheet of notes refers to music: both arts are based on harmony and proportion.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221205",
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221264",
+            "https://id.rijksmuseum.nl/221265",
+            "https://id.rijksmuseum.nl/221266"
+          ],
+          "imageUrl": "https://iiif.micr.io/RXrQw/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200109794",
+          "name": "Self Portrait",
+          "timespan": "1887",
+          "artist": "Vincent van Gogh",
+          "material": "undefined",
+          "dimensions": "depth 8 cm",
+          "exhibitScript": "Vincent moved to Paris in 1886, after hearing from his brother Theo about the new, colourful style of French painting. Wasting no time, he tried it out in several self-portraits. He did this mostly to avoid having to pay for a model. Using rhythmic brushstrokes in striking colours, he portrayed himself here as a fashionably dressed Parisian.",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221328",
+            "https://id.rijksmuseum.nl/221451"
+          ],
+          "imageUrl": "https://iiif.micr.io/bTpft/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
