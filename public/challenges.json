@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T00:42:02.829Z",
+  "generatedAt": "2026-10-30T00:43:00.708Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -9904,6 +9904,84 @@
             "https://id.rijksmuseum.nl/221451"
           ],
           "imageUrl": "https://iiif.micr.io/bTpft/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "number": 122,
+      "title": "Daily Art #122 — Historical persons - BB - woman",
+      "answer": {
+        "id": "20025973",
+        "name": "Portrait of a Woman, probably Jacobmina de Grebber (?-1666)",
+        "timespan": "1652",
+        "artist": "Anthonie Palamedesz (signed by artist)",
+        "material": "oil on canvas",
+        "dimensions": "outer size: depth 8 cm (support incl. frame)",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221173"
+        ],
+        "imageUrl": "https://iiif.micr.io/tsiCU/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20027475",
+          "name": "Portrait of Mertijntje van Ceters (1609-24)",
+          "timespan": "1623",
+          "artist": "anonymous",
+          "material": "oil on panel",
+          "dimensions": "outer size: depth 5.2 cm (support incl. frame)",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221173"
+          ],
+          "imageUrl": "https://iiif.micr.io/tGtBk/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20029234",
+          "name": "Elisabeth I (1533-1603), koningin van Engeland",
+          "timespan": "1550 - 1599",
+          "artist": "anonymous",
+          "material": "oil on panel",
+          "dimensions": "depth 5.5 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221173"
+          ],
+          "imageUrl": "https://iiif.micr.io/OmhQF/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200412737",
+          "name": "Portrait of Alida Christina Assink",
+          "timespan": "1833",
+          "artist": "Jan Adam Kruseman",
+          "material": "oil on canvas",
+          "dimensions": "height 206 cm x width 149 cm",
+          "exhibitScript": "This portrait of Alida Assink presents her in her finest attire, depicted from head to toe. That is quite exceptional, as the painter Kruseman typically reserved such a full-length portrait exclusively for royalty. Assink was 23 years old when this likeness was commissioned by her guardian, a wealthy landowner. The rural setting with hunting dog and garden vase harks back to the\r\nEnglish portrait style, which Kruseman admired.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221173",
+            "https://id.rijksmuseum.nl/221308",
+            "https://id.rijksmuseum.nl/22192",
+            "https://id.rijksmuseum.nl/221948"
+          ],
+          "imageUrl": "https://iiif.micr.io/wEuxE/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
