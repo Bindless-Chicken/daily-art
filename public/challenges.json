@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T00:43:00.708Z",
+  "generatedAt": "2026-10-31T00:35:09.773Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -9982,6 +9982,87 @@
             "https://id.rijksmuseum.nl/221948"
           ],
           "imageUrl": "https://iiif.micr.io/wEuxE/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "number": 123,
+      "title": "Daily Art #123 — Historical persons",
+      "answer": {
+        "id": "20028002",
+        "name": "Portrait of Cornelis van Aerssen (1600/02-1662), Lord of Sommelsdijk",
+        "timespan": "1658",
+        "artist": "Adriaen Hanneman",
+        "material": "oil on canvas",
+        "dimensions": "outer size: depth 7.5 cm (support incl. frame)",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/22121936",
+          "https://id.rijksmuseum.nl/22123"
+        ],
+        "imageUrl": "https://iiif.micr.io/jOaNV/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200109367",
+          "name": "Gerard Andriesz Bicker (1622-66), Lord of Engelenburg. High Bailiff of Muiden",
+          "timespan": "c. 1642",
+          "artist": "Bartholomeus van der Helst",
+          "material": "oil on panel",
+          "dimensions": "height 117.5 cm x width 96 cm",
+          "exhibitScript": "Like his father, the twenty-year-old Gerard Bicker is portrayed as self-assured, his arm akimbo. The striking differences in the garments worn by father and son confirm that they are from different generations. While his father Andries is dressed in dignified black clothing with an old-fashioned ruff, Gerard wears a colourful and showy outfit with a flat collar and elegant gloves. Gerard was not awarded as many key administrative positions in Amsterdam.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221175",
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/Qhoba/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107876",
+          "name": "Giuliano & Francesco Giamberti da Sangallo Piero di Cosimo (1462–1522)",
+          "timespan": "1482 - 1485",
+          "artist": "Piero di Cosimo",
+          "material": "oil on panel",
+          "dimensions": "height 47.5 cm x width 33.5 cm",
+          "exhibitScript": "In these pendant portraits, the Florentine architect Giuliano da Sangallo is portrayed with his recently deceased father Francesco, who was a musician as well as an architect. These two panels are among the earliest examples of portraits in which the sitter’s vocation is central. The quill and compass denote architecture, the sheet of notes refers to music: both arts are based on harmony and proportion.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221205",
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221264",
+            "https://id.rijksmuseum.nl/221265",
+            "https://id.rijksmuseum.nl/221266"
+          ],
+          "imageUrl": "https://iiif.micr.io/RXrQw/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027368",
+          "name": "Portrait of William Frederick, Prince of Orange-Nassau, later King William I, as a Child",
+          "timespan": "c. 1775",
+          "artist": "anonymous",
+          "material": "oil on canvas",
+          "dimensions": "depth 6 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/TcyTU/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
