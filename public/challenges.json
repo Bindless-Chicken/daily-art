@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T00:35:09.773Z",
+  "generatedAt": "2026-11-01T00:42:40.859Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -10063,6 +10063,85 @@
             "https://id.rijksmuseum.nl/22123"
           ],
           "imageUrl": "https://iiif.micr.io/TcyTU/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "number": 124,
+      "title": "Daily Art #124 — Historical persons - BB - woman",
+      "answer": {
+        "id": "200109387",
+        "name": "Portrait of Amalia van Solms (1602-75)",
+        "timespan": "1650",
+        "artist": "workshop of Gerard van Honthorst",
+        "material": "oil on canvas",
+        "dimensions": "support: height 125.2 cm x width 102.2 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221173"
+        ],
+        "imageUrl": "https://iiif.micr.io/wOEfV/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200108248",
+          "name": "Three Regentesses of the Lepers' Asylum in Amsterdam, 1668",
+          "timespan": "c. 1668 - c. 1671",
+          "artist": "Ferdinand Bol, anonymous",
+          "material": "oil on canvas",
+          "dimensions": "height 170 cm x width 208 cm",
+          "exhibitScript": "The regentesses Clara Abba, Elisabeth van Duynen, and Agatha Munter administered Amsterdam’s leper house, a charitable institution. Bol portrayed them at a table with a cash book, an inkwell, and coins, suggesting their involvement in record keeping and financial management. They likely oversaw staff, handled purchasing goods, and effected various other tasks for the institution.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221173",
+            "https://id.rijksmuseum.nl/221463"
+          ],
+          "imageUrl": "https://iiif.micr.io/vNmhc/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20029234",
+          "name": "Elisabeth I (1533-1603), koningin van Engeland",
+          "timespan": "1550 - 1599",
+          "artist": "anonymous",
+          "material": "oil on panel",
+          "dimensions": "depth 5.5 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221173"
+          ],
+          "imageUrl": "https://iiif.micr.io/OmhQF/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200412737",
+          "name": "Portrait of Alida Christina Assink",
+          "timespan": "1833",
+          "artist": "Jan Adam Kruseman",
+          "material": "oil on canvas",
+          "dimensions": "height 206 cm x width 149 cm",
+          "exhibitScript": "This portrait of Alida Assink presents her in her finest attire, depicted from head to toe. That is quite exceptional, as the painter Kruseman typically reserved such a full-length portrait exclusively for royalty. Assink was 23 years old when this likeness was commissioned by her guardian, a wealthy landowner. The rural setting with hunting dog and garden vase harks back to the\r\nEnglish portrait style, which Kruseman admired.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221173",
+            "https://id.rijksmuseum.nl/221308",
+            "https://id.rijksmuseum.nl/22192",
+            "https://id.rijksmuseum.nl/221948"
+          ],
+          "imageUrl": "https://iiif.micr.io/wEuxE/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
