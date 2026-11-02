@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T00:42:40.859Z",
+  "generatedAt": "2026-11-02T00:38:15.858Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -10142,6 +10142,89 @@
             "https://id.rijksmuseum.nl/221948"
           ],
           "imageUrl": "https://iiif.micr.io/wEuxE/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "number": 125,
+      "title": "Daily Art #125 — Cattle",
+      "answer": {
+        "id": "200109802",
+        "name": "Riviergezicht",
+        "timespan": "c. 1635",
+        "artist": "anonymous",
+        "material": "oil on panel",
+        "dimensions": "height 29.5 cm x width 47.5 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/2211764",
+          "https://id.rijksmuseum.nl/221356",
+          "https://id.rijksmuseum.nl/2216170"
+        ],
+        "imageUrl": "https://iiif.micr.io/uVzKG/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200108675",
+          "name": "Landscape near Hilversum",
+          "timespan": "1820 - 1839",
+          "artist": "George Jacobus Johannes van Os",
+          "material": "oil on canvas",
+          "dimensions": "height 81 cm x width 100 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2211764",
+            "https://id.rijksmuseum.nl/221239"
+          ],
+          "imageUrl": "https://iiif.micr.io/JzgHg/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026145",
+          "name": "Meadow with Animals",
+          "timespan": "1820 - 1837",
+          "artist": "Jan van Ravenswaay",
+          "material": "oil on canvas",
+          "dimensions": "depth 7.5 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221130",
+            "https://id.rijksmuseum.nl/221174",
+            "https://id.rijksmuseum.nl/2211764",
+            "https://id.rijksmuseum.nl/221239",
+            "https://id.rijksmuseum.nl/22150"
+          ],
+          "imageUrl": "https://iiif.micr.io/tTHYd/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20029300",
+          "name": "Italiaans landschap",
+          "timespan": "1848",
+          "artist": "Barend Cornelis Koekkoek",
+          "material": "oil on canvas",
+          "dimensions": "depth 8.4 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221174",
+            "https://id.rijksmuseum.nl/2211764"
+          ],
+          "imageUrl": "https://iiif.micr.io/dLYYn/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
