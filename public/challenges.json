@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T00:35:17.659Z",
+  "generatedAt": "2026-11-04T00:34:12.251Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -10304,6 +10304,86 @@
             "https://id.rijksmuseum.nl/221948"
           ],
           "imageUrl": "https://iiif.micr.io/wEuxE/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "number": 127,
+      "title": "Daily Art #127 — Riding a horse, ass, or mule; rider, horseman",
+      "answer": {
+        "id": "20027534",
+        "name": "Italiaans landschap met figuren",
+        "timespan": "1650 - 1674",
+        "artist": "Johannes Lingelbach (mentioned on object)",
+        "material": "oil on canvas",
+        "dimensions": "depth 6 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221105",
+          "https://id.rijksmuseum.nl/221251"
+        ],
+        "imageUrl": "https://iiif.micr.io/ZToNn/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200108351",
+          "name": "The Hut",
+          "timespan": "1671",
+          "artist": "Adriaen van de Velde",
+          "material": "oil on canvas",
+          "dimensions": "height 76 cm x width 65 cm",
+          "exhibitScript": "In composing this scene, Van de Velde relied on various preliminary drawings made from life. His superb skills as a painter of figures and animals were renowned in the 17th century, and he was regularly asked to paint the staffage in the landscapes and city views of other artists.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221105",
+            "https://id.rijksmuseum.nl/221174",
+            "https://id.rijksmuseum.nl/221606"
+          ],
+          "imageUrl": "https://iiif.micr.io/qtaTQ/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108302",
+          "name": "De Gele Rijders",
+          "timespan": "1885 - 1886",
+          "artist": "George Hendrik Breitner",
+          "material": "oil on canvas",
+          "dimensions": "height 115 cm x width 77.5 cm x depth 13.5 cm",
+          "exhibitScript": "The elite ‘Yellow Riders’ (a mounted artillery corps) gallops down the dunes at breakneck speed. Breitner took full advantage of their black-and-red busbies and the gold braid on their uniforms. The repetition of these colour accents reinforces the dynamism of the movement. The sand kicked up by the horses at front clouds the view of the horsemen behind. All that remains are the accents of black, yellow and red.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221105",
+            "https://id.rijksmuseum.nl/221472"
+          ],
+          "imageUrl": "https://iiif.micr.io/qSdGE/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108686",
+          "name": "De cascatelle bij Tivoli bij opkomend onweer",
+          "timespan": "1824",
+          "artist": "Abraham Teerlink",
+          "material": "oil on canvas",
+          "dimensions": "height 101.5 cm x width 143 cm",
+          "exhibitScript": "The cascades (cascatelle in Italian) at Tivoli were already a tourist attraction in Teerlink’s time. The artist incorporated this contemporary activity in a view of the famous waterfalls. Beneath a menacing, stormy sky, a company of travellers ascends the hill opposite the falls. The man on the white horse is a painter, whose portfolio of sketches is carried by the guide at the front of the group.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221105",
+            "https://id.rijksmuseum.nl/22122"
+          ],
+          "imageUrl": "https://iiif.micr.io/QbQjE/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
