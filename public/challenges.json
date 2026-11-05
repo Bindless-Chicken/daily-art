@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T00:34:12.251Z",
+  "generatedAt": "2026-11-05T00:36:08.537Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -10384,6 +10384,92 @@
             "https://id.rijksmuseum.nl/22122"
           ],
           "imageUrl": "https://iiif.micr.io/QbQjE/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "number": 128,
+      "title": "Daily Art #128 — Letter, envelope",
+      "answer": {
+        "id": "200108223",
+        "name": "Portrait of Carolina Frederica Kerst (1803-1883)",
+        "timespan": "1830",
+        "artist": "Charles van Beveren",
+        "material": "oil on panel",
+        "dimensions": "height 25 cm x width 21 cm",
+        "exhibitScript": "The couple Louis Royer and Carolina Kerst were captured in a portrait after their return from a yearlong sojourn in Rome. Louis is seen in his sculptor’s studio surrounded by his work, some of which is on view in this gallery. One of his sculptures is visible in Carolina’s likeness. A letter and an Italian landscape allude to their Italian trip and the cross around her neck signifies her Catholic faith.",
+        "tags": [
+          "https://id.rijksmuseum.nl/221173",
+          "https://id.rijksmuseum.nl/221270",
+          "https://id.rijksmuseum.nl/221553"
+        ],
+        "imageUrl": "https://iiif.micr.io/SaBmk/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20015910",
+          "name": "The Love Letter",
+          "timespan": "1808",
+          "artist": "Willem Bartel van der Kooi",
+          "material": "oil on canvas",
+          "dimensions": "height 131 cm x width 108 cm",
+          "exhibitScript": "Dutch artists of the 19th century drew inspiration from the 17th century, the Golden Age of Dutch art. In this picture, Van der Kooi reprised a typically 17th-century theme, the delivery of a love letter. The tension between the lady and the young messenger is almost palpable. Yet The Love Letter is also highly contemporary, for the interior, hairstyles and clothing are entirely in keeping with the fashions of 1808.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221553",
+            "https://id.rijksmuseum.nl/221724"
+          ],
+          "imageUrl": "https://iiif.micr.io/CfFko/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200108372",
+          "name": "Woman in Blue Reading a Letter",
+          "timespan": "c. 1663",
+          "artist": "Johannes Vermeer",
+          "material": "oil on canvas",
+          "dimensions": "height 46.5 cm x width 39 cm x depth 6.5 cm",
+          "exhibitScript": "Enjoying a quiet, private moment, this young woman is absorbed in reading a letter in the morning light. She is still wearing her blue night jacket. All of the colours in the composition are secondary to its radiant lapis lazuli blue. Vermeer recorded the effects of light with extraordinary precision. Particularly innovative is his rendering of the woman’s skin with pale grey, and the shadows on the wall using light  blue.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221136",
+            "https://id.rijksmuseum.nl/221196",
+            "https://id.rijksmuseum.nl/221553",
+            "https://id.rijksmuseum.nl/221638"
+          ],
+          "imageUrl": "https://iiif.micr.io/RwfHG/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200109392",
+          "name": "Man Handing a Letter to a Woman in the Entrance Hall of a House",
+          "timespan": "1670",
+          "artist": "Pieter de Hooch",
+          "material": "oil on canvas",
+          "dimensions": "height 68 cm x width 59 cm",
+          "exhibitScript": "All the windows and doors of this canal house are open. Daylight falls on the lady of the house, who is receiving a letter. With lighting effects and figures, De Hooch leads our gaze outside. We follow the dog to the canal and to a child playing with a whip, and\r\nbeyond towards the sunny street on the opposite side. The view continues through the gate on the right.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221163",
+            "https://id.rijksmuseum.nl/221391",
+            "https://id.rijksmuseum.nl/221397",
+            "https://id.rijksmuseum.nl/221553",
+            "https://id.rijksmuseum.nl/221958",
+            "https://id.rijksmuseum.nl/221959"
+          ],
+          "imageUrl": "https://iiif.micr.io/YEDXA/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
