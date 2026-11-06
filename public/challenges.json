@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T00:36:08.537Z",
+  "generatedAt": "2026-11-06T00:35:23.885Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -10470,6 +10470,91 @@
             "https://id.rijksmuseum.nl/221959"
           ],
           "imageUrl": "https://iiif.micr.io/YEDXA/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "number": 129,
+      "title": "Daily Art #129 — Hunting dogs",
+      "answer": {
+        "id": "20026581",
+        "name": "Hunter with Hounds at the Edge of a Wood",
+        "timespan": "c. 1696",
+        "artist": "Adriaen Cornelisz Beeldemaker",
+        "material": "oil on canvas",
+        "dimensions": "outer size: depth 11.5 cm (support incl. frame)",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221169",
+          "https://id.rijksmuseum.nl/2212011",
+          "https://id.rijksmuseum.nl/221346",
+          "https://id.rijksmuseum.nl/22192"
+        ],
+        "imageUrl": "https://iiif.micr.io/GHroT/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20027075",
+          "name": "Bear Hunt",
+          "timespan": "1649",
+          "artist": "Paulus Potter",
+          "material": "oil on canvas",
+          "dimensions": "height 305 cm x width 338 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221169",
+            "https://id.rijksmuseum.nl/2212288",
+            "https://id.rijksmuseum.nl/2213051"
+          ],
+          "imageUrl": "https://iiif.micr.io/btEUV/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20025746",
+          "name": "River Landscape with Boar Hunt",
+          "timespan": "c. 1590 - c. 1635",
+          "artist": "Joos de Momper (II)",
+          "material": "oil on panel",
+          "dimensions": "depth 9 cm",
+          "exhibitScript": "Joos de Momper (1564 - 1635). River landscape with wild boar hunt, c. 1600. In this work the artist has created an impressive landscape. As was common at the time, the artist has added human figures: several men who are in the process of subduing a wild boar. The landscapes dating from this period were usually imaginary, although the artist always included a number of elements which actually existed. By around 1600 this type of landscape had evolved into a separate genre. De Momper even had someone else - Sebastiaan Vrancx - painting the figures. Joos de Momper composed his painting according to a fixed colourscheme: the foreground in brown, with the middleground in green fading into blue and becoming steadily lighter, creating the effect of depth. This illusion of depth is enhanced by the fact that various parts of the composition function as 'wings', almost as if the landscape is a stage. Purchased in 1958, with the support of the Jubileum-Fonds.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221168",
+            "https://id.rijksmuseum.nl/221169",
+            "https://id.rijksmuseum.nl/221170",
+            "https://id.rijksmuseum.nl/221171"
+          ],
+          "imageUrl": "https://iiif.micr.io/TEqxS/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026929",
+          "name": "A Dog with a dead Goose and Peacock (A Study of Game and Fruit)",
+          "timespan": "c. 1700",
+          "artist": "Jan Weenix",
+          "material": "oil on canvas",
+          "dimensions": "depth 14 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221169",
+            "https://id.rijksmuseum.nl/221314",
+            "https://id.rijksmuseum.nl/22192"
+          ],
+          "imageUrl": "https://iiif.micr.io/eyuyD/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
