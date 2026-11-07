@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T00:35:23.885Z",
+  "generatedAt": "2026-11-07T00:34:06.895Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -10555,6 +10555,94 @@
             "https://id.rijksmuseum.nl/22192"
           ],
           "imageUrl": "https://iiif.micr.io/eyuyD/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "number": 130,
+      "title": "Daily Art #130 — Book",
+      "answer": {
+        "id": "20026047",
+        "name": "An old scholar",
+        "timespan": "1645 - 1672",
+        "artist": "copy after Gottfried Kneller",
+        "material": "oil on canvas",
+        "dimensions": "depth 5.2 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/2211281",
+          "https://id.rijksmuseum.nl/2211463",
+          "https://id.rijksmuseum.nl/22134"
+        ],
+        "imageUrl": "https://iiif.micr.io/ADGdW/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200108938",
+          "name": "Vanitas Still Life with Books",
+          "timespan": "1633",
+          "artist": "anonymous",
+          "material": "undefined",
+          "dimensions": "height 73.5 cm x width 70 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2211154",
+            "https://id.rijksmuseum.nl/221327",
+            "https://id.rijksmuseum.nl/22134",
+            "https://id.rijksmuseum.nl/22135",
+            "https://id.rijksmuseum.nl/221373"
+          ],
+          "imageUrl": "https://iiif.micr.io/atydp/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200109472",
+          "name": "Still Life with Books in a Niche",
+          "timespan": "1442 - 1445",
+          "artist": "Barthélémy d'Eyck",
+          "material": "undefined",
+          "dimensions": "height 30 cm x width 56 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221308",
+            "https://id.rijksmuseum.nl/221327",
+            "https://id.rijksmuseum.nl/22134"
+          ],
+          "imageUrl": "https://iiif.micr.io/SUcCV/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107935",
+          "name": "Musical Company",
+          "timespan": "1626",
+          "artist": "Rembrandt van Rijn",
+          "material": "oil on panel",
+          "dimensions": "height 63.5 cm x width 48 cm",
+          "exhibitScript": "The subject of this painting is a mystery: is it an exhortation to praise God through singing and string music, or a scene of seduction with the old woman as a procuress? In any case, in this early work Rembrandt used elements from his own surroundings: his mother modelled for the old woman, and Rembrandt’s own features can be recognized in the young man.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221312",
+            "https://id.rijksmuseum.nl/221319",
+            "https://id.rijksmuseum.nl/221320",
+            "https://id.rijksmuseum.nl/221321",
+            "https://id.rijksmuseum.nl/221322",
+            "https://id.rijksmuseum.nl/22134"
+          ],
+          "imageUrl": "https://iiif.micr.io/hdvov/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
