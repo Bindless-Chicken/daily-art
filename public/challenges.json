@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T00:34:06.895Z",
+  "generatedAt": "2026-11-08T00:38:39.249Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -10643,6 +10643,93 @@
             "https://id.rijksmuseum.nl/22134"
           ],
           "imageUrl": "https://iiif.micr.io/hdvov/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "number": 131,
+      "title": "Daily Art #131 — Milking",
+      "answer": {
+        "id": "20028030",
+        "name": "Italiaans landschap met vee",
+        "timespan": "1640 - 1669",
+        "artist": "Nicolaes van Helt Stockade",
+        "material": "oil on panel",
+        "dimensions": "depth 5 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/2211209",
+          "https://id.rijksmuseum.nl/221630",
+          "https://id.rijksmuseum.nl/221885"
+        ],
+        "imageUrl": "https://iiif.micr.io/zwOrY/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200109267",
+          "name": "Italian Landscape with Girl milking a Goat",
+          "timespan": "1652",
+          "artist": "Karel du Jardin",
+          "material": "oil on panel",
+          "dimensions": "height 37 cm x width 50 cm",
+          "exhibitScript": "These Italian peasants have risen early to milk the, cattle. A soft yellow mist still hangs in the valley. Du Jardin underscored their simple life by portraying the woman with bare feet. Clad in vibrant blue and red clothes, the two figures stand out brightly against\r\nthe yellow-brown mountain landscape.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221205",
+            "https://id.rijksmuseum.nl/22150",
+            "https://id.rijksmuseum.nl/221884",
+            "https://id.rijksmuseum.nl/221885"
+          ],
+          "imageUrl": "https://iiif.micr.io/BUKEU/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026268",
+          "name": "Cows in a Stable; Witches in the Four Corners",
+          "timespan": "1615",
+          "artist": "Roelant Savery (signed by artist)",
+          "material": "oil on panel",
+          "dimensions": "outer size: depth 4.1 cm (support incl. frame)",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221130",
+            "https://id.rijksmuseum.nl/221174",
+            "https://id.rijksmuseum.nl/2212280",
+            "https://id.rijksmuseum.nl/2213718",
+            "https://id.rijksmuseum.nl/221630",
+            "https://id.rijksmuseum.nl/2216618",
+            "https://id.rijksmuseum.nl/221885"
+          ],
+          "imageUrl": "https://iiif.micr.io/fzFQC/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027446",
+          "name": "De melkbocht",
+          "timespan": "1870 - 1888",
+          "artist": "Anton Mauve",
+          "material": "oil on canvas",
+          "dimensions": "depth 6.5 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221130",
+            "https://id.rijksmuseum.nl/221885"
+          ],
+          "imageUrl": "https://iiif.micr.io/rycDX/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
