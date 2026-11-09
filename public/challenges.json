@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T00:38:39.249Z",
+  "generatedAt": "2026-11-09T00:38:43.980Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -10730,6 +10730,97 @@
             "https://id.rijksmuseum.nl/221885"
           ],
           "imageUrl": "https://iiif.micr.io/rycDX/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "number": 132,
+      "title": "Daily Art #132 — Dog",
+      "answer": {
+        "id": "20028201",
+        "name": "De terugkomst van de jacht",
+        "timespan": "1650 - 1674",
+        "artist": "Johannes Lingelbach",
+        "material": "oil on panel",
+        "dimensions": "depth 10.5 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221105",
+          "https://id.rijksmuseum.nl/221169",
+          "https://id.rijksmuseum.nl/221424",
+          "https://id.rijksmuseum.nl/221847",
+          "https://id.rijksmuseum.nl/22192"
+        ],
+        "imageUrl": "https://iiif.micr.io/nEJrM/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20028104",
+          "name": "Interior with a Mother Delousing her Child's Hair, known as 'A Mother's Duty'",
+          "timespan": "c. 1660 - c. 1661",
+          "artist": "Pieter de Hooch",
+          "material": "oil on canvas",
+          "dimensions": "height 52.5 cm x width 61 cm",
+          "exhibitScript": "A mother thoroughly inspects her child’s head for lice. She pursues her task in a sober Dutch interior, with Delft blue tiles and a box bed. In the right foreground is a ‘kakstoel’, or potty chair. Through the doorway is a glimpse of a sunny back room and a garden. De Hooch specialized in such ‘through-views’.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221397",
+            "https://id.rijksmuseum.nl/221521",
+            "https://id.rijksmuseum.nl/22192",
+            "https://id.rijksmuseum.nl/221955",
+            "https://id.rijksmuseum.nl/221956"
+          ],
+          "imageUrl": "https://iiif.micr.io/SgpJY/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200107928",
+          "name": "Officers and other civic guardsmen of District II in Amsterdam, under the command of Captain Frans Banninck Cocq and Lieutenant Willem van Ruytenburch, known as ‘The Night Watch’",
+          "timespan": "1642",
+          "artist": "Rembrandt van Rijn",
+          "material": "oil on canvas",
+          "dimensions": "height 379.5 cm x width 453.5 cm x weight 337 kg x weight 170 kg",
+          "exhibitScript": "Rembrandt’s largest, most famous canvas was made for the Arquebusiers guild hall. This was one of several halls of Amsterdam’s civic guard, the city’s militia and police. Rembrandt was the first to paint figures in a group portrait actually doing something. The captain, dressed in black, is telling his lieutenant to start the company marching. The guardsmen are getting into formation. Rembrandt used the light to focus on particular details, like the captain’s gesturing hand and the young girl in the background. She was the company mascot.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221303",
+            "https://id.rijksmuseum.nl/221304",
+            "https://id.rijksmuseum.nl/221305",
+            "https://id.rijksmuseum.nl/221306",
+            "https://id.rijksmuseum.nl/221307",
+            "https://id.rijksmuseum.nl/22192"
+          ],
+          "imageUrl": "https://iiif.micr.io/PJEZO/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200412737",
+          "name": "Portrait of Alida Christina Assink",
+          "timespan": "1833",
+          "artist": "Jan Adam Kruseman",
+          "material": "oil on canvas",
+          "dimensions": "height 206 cm x width 149 cm",
+          "exhibitScript": "This portrait of Alida Assink presents her in her finest attire, depicted from head to toe. That is quite exceptional, as the painter Kruseman typically reserved such a full-length portrait exclusively for royalty. Assink was 23 years old when this likeness was commissioned by her guardian, a wealthy landowner. The rural setting with hunting dog and garden vase harks back to the\r\nEnglish portrait style, which Kruseman admired.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221173",
+            "https://id.rijksmuseum.nl/221308",
+            "https://id.rijksmuseum.nl/22192",
+            "https://id.rijksmuseum.nl/221948"
+          ],
+          "imageUrl": "https://iiif.micr.io/wEuxE/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
