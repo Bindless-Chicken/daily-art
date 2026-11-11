@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T00:34:33.319Z",
+  "generatedAt": "2026-11-11T00:35:16.092Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -10906,6 +10906,93 @@
             "https://id.rijksmuseum.nl/221713"
           ],
           "imageUrl": "https://iiif.micr.io/kdUus/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "number": 134,
+      "title": "Daily Art #134 — The Annunciation: Mary, usually reading, is visited by the angel (sometimes a woman overhears the conversation)",
+      "answer": {
+        "id": "200108795",
+        "name": "Drieluik met de kruisiging",
+        "timespan": "c. 1460",
+        "artist": "anonymous",
+        "material": "oil on panel",
+        "dimensions": "support: height 85.5 cm (centre panel) x width 56 cm (centre panel) x height 85.5 cm (left wing) x width 28 cm (left wing) x height 85.3 cm (right wing) x width 28 cm (right wing)",
+        "exhibitScript": "The Crucifixion at centre is set against the background of the city of Utrecht. Thus the biblical scene acquired a certain reality for the medieval viewer. At left is Pope Gregory the Great, who experienced a vision of Christ while celebrating Mass. At right is Saint Christopher who bears the Christ Child and the burden of mankind on his shoulders.",
+        "tags": [
+          "https://id.rijksmuseum.nl/221741",
+          "https://id.rijksmuseum.nl/221742",
+          "https://id.rijksmuseum.nl/221743",
+          "https://id.rijksmuseum.nl/221744"
+        ],
+        "imageUrl": "https://iiif.micr.io/WZkWd/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200109298",
+          "name": "Scenes from the life of Christ",
+          "timespan": "c. 1435",
+          "artist": "anonymous",
+          "material": "oil on canvas on panel",
+          "dimensions": "support: height 110.1 cm x width 173.3 cm x height 33 cm x width 27.5 cm",
+          "exhibitScript": "Unfolding before us like a cartoon strip are eighteen scenes from the life of Christ. The painting thus becomes a visual résumé of Christian redemption: the salvation of mankind through the death and resurrection of God’s son. It begins at top left with the Annunciation and the Nativity and finishes at bottom right with the Crucifixion and the Resurrection.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221184",
+            "https://id.rijksmuseum.nl/221357",
+            "https://id.rijksmuseum.nl/221741",
+            "https://id.rijksmuseum.nl/221763",
+            "https://id.rijksmuseum.nl/221903",
+            "https://id.rijksmuseum.nl/221904",
+            "https://id.rijksmuseum.nl/221905",
+            "https://id.rijksmuseum.nl/221906",
+            "https://id.rijksmuseum.nl/221907",
+            "https://id.rijksmuseum.nl/221908"
+          ],
+          "imageUrl": "https://iiif.micr.io/fWjJD/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026409",
+          "name": "De verkondiging aan Maria; Maria",
+          "timespan": "1560 - 1585",
+          "artist": "Jacopo Tintoretto",
+          "material": "oil on canvas",
+          "dimensions": "height 117 cm x width 94.5 cm",
+          "exhibitScript": "Jacopo Tintoretto (1518 - 1594). The Virgin, right half of the Annunciation. Fragment of an organ-decoration, c. 1575. From the Otto Lanz collection, 1948.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221741"
+          ],
+          "imageUrl": "https://iiif.micr.io/GKSQk/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20026408",
+          "name": "Angel from the Annunciation to the Virgin",
+          "timespan": "1560 - 1585",
+          "artist": "Jacopo Tintoretto",
+          "material": "oil on canvas",
+          "dimensions": "height 115 cm x width 93 cm",
+          "exhibitScript": "Jacopo Tintoretto (1518 - 1594). The Archangel Gabriel, left half the Annunciation. Fragment of an organ-decoration, c. 1575. From the Otto Lanz collection, 1948.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221741"
+          ],
+          "imageUrl": "https://iiif.micr.io/oCupQ/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
