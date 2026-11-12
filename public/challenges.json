@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T00:35:16.092Z",
+  "generatedAt": "2026-11-12T00:36:41.171Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -10993,6 +10993,87 @@
             "https://id.rijksmuseum.nl/221741"
           ],
           "imageUrl": "https://iiif.micr.io/oCupQ/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "number": 135,
+      "title": "Daily Art #135 — Colonial governor",
+      "answer": {
+        "id": "20028660",
+        "name": "Pieter Merkus (1787-1844). Gouverneur-generaal (1841-44)",
+        "timespan": "1844 - 1851",
+        "artist": "copy after Jan Willem Pieneman",
+        "material": "oil on canvas",
+        "dimensions": "depth 10.5 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/2211131",
+          "https://id.rijksmuseum.nl/22123"
+        ],
+        "imageUrl": "https://iiif.micr.io/QDRpa/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "20028658",
+          "name": "Jean Chrétien Baud (1789-1859). Gouverneur-generaal ad interim (1833-35)",
+          "timespan": "1837",
+          "artist": "Raden Sarief Bastaman Saleh",
+          "material": "oil on canvas",
+          "dimensions": "depth 11 cm",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/2211131",
+            "https://id.rijksmuseum.nl/22123"
+          ],
+          "imageUrl": "https://iiif.micr.io/WuCud/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200109981",
+          "name": "Portrait of Christoffel van Swoll (Swol, Zwol), Governor-General of the Dutch East Indies",
+          "timespan": "1713 - 1718",
+          "artist": "Hendrik van den Bosch (mentioned on object)",
+          "material": "oil on panel",
+          "dimensions": "height 99 cm x width 77 cm",
+          "exhibitScript": "The highest-ranking Dutch East India Company (VOC) official in Asia was the governor-general. He presided in the Castle of Batavia (now Jakarta, Indonesia), a fort built by the Dutch. The assembly hall in the Castle of Batavia was the centre of Dutch power in Asia. The walls were hung with portraits of all of the governors-general. Most of the 18th-century examples shown here were painted in Asia, often by anony¬mous artists.",
+          "tags": [
+            "https://id.rijksmuseum.nl/2211131",
+            "https://id.rijksmuseum.nl/22123",
+            "https://id.rijksmuseum.nl/221712"
+          ],
+          "imageUrl": "https://iiif.micr.io/FBMUR/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20028673",
+          "name": "Johannes Benedictus van Heutsz (1851-1924). Gouverneur-generaal (1904-09)",
+          "timespan": "1909",
+          "artist": "Hannké (mentioned on object)",
+          "material": "oil on canvas",
+          "dimensions": "depth 9.2 cm",
+          "exhibitScript": "Governor General J.B. van Heutsz, by Hannké, Batavia 1909. Van Heutsz (1851-1924) was 22 years old when he joined the Dutch East Indies army. At his own request, he was posted to the rebellious Atjeh principality. Van Heutsz's career was closely tied with the struggle against Atjeh. He returned many times and argued for a more aggressive military strategy combined with administrative measures. In 1898 he was appointed governor of Atjeh. It was his chance to implement these ideas. In a series of quick campaigns he conquered large tracts of Atjeh. His fame spread. He was awarded the grand cross of the Militaire Willemsorde (Military Order of William), the highest military honour: in the portrait he is shown wearing it. Back in the Netherlands he received a hero's welcome. In 1904 he was appointed governor general of the Dutch East Indies. He remained in this post until 1909, the year this portrait was painted.",
+          "tags": [
+            "https://id.rijksmuseum.nl/2211131",
+            "https://id.rijksmuseum.nl/2217505",
+            "https://id.rijksmuseum.nl/221933"
+          ],
+          "imageUrl": "https://iiif.micr.io/syRAx/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
