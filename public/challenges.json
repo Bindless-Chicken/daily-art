@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T00:36:41.171Z",
+  "generatedAt": "2026-11-13T00:36:25.620Z",
   "challenges": [
     {
       "date": "2026-07-01",
@@ -11074,6 +11074,86 @@
             "https://id.rijksmuseum.nl/221933"
           ],
           "imageUrl": "https://iiif.micr.io/syRAx/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "number": 136,
+      "title": "Daily Art #136 — Old man",
+      "answer": {
+        "id": "20028919",
+        "name": "Kop van een oude man",
+        "timespan": "c. 1700 - c. 1799",
+        "artist": "anonymous",
+        "material": "undefined",
+        "dimensions": "height 6.9 cm x width 4.9 cm",
+        "exhibitScript": "undefined",
+        "tags": [
+          "https://id.rijksmuseum.nl/221311"
+        ],
+        "imageUrl": "https://iiif.micr.io/hAoHW/full/max/0/default.jpg",
+        "origin": {
+          "name": "Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/"
+        }
+      },
+      "options": [
+        {
+          "id": "200111843",
+          "name": "Morning Visit",
+          "timespan": "1796",
+          "artist": "Adriaan de Lelie",
+          "material": "oil on panel",
+          "dimensions": "height 53 cm x width 43 cm",
+          "exhibitScript": "The greengrocer has delivered his produce and before moving on has a chat with the maidservant. De Lelie painted this old Dutch kitchen scene in the tradition of 17th-century genre painting. He was interested in rendering the various details as faithfully as possible: the baskets of vegetables, the earthenware jug, the pewterware on the fireplace mantel and the brassutensils against the white tiles.",
+          "tags": [
+            "https://id.rijksmuseum.nl/2211112",
+            "https://id.rijksmuseum.nl/2211230",
+            "https://id.rijksmuseum.nl/221311",
+            "https://id.rijksmuseum.nl/221586"
+          ],
+          "imageUrl": "https://iiif.micr.io/sAYUe/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "200109478",
+          "name": "De oude drinker",
+          "timespan": "c. 1661 - c. 1663",
+          "artist": "Gabriël Metsu",
+          "material": "oil on panel",
+          "dimensions": "height 22 cm x width 19.5 cm",
+          "exhibitScript": "This old man holding a beer tankard looks out at us somewhat drowsily. The tally of the drinks he has consumed is chalked up on the slate behind him. The beer barrel at the left bears the mark of Het Rode Hert (The Red Hart), an Amsterdam brewery on the Prinsengracht. Metsu was living next door to it around 1650.",
+          "tags": [
+            "https://id.rijksmuseum.nl/221246",
+            "https://id.rijksmuseum.nl/221311",
+            "https://id.rijksmuseum.nl/221586"
+          ],
+          "imageUrl": "https://iiif.micr.io/ZcEuJ/full/max/0/default.jpg",
+          "origin": {
+            "name": "Rijksmuseum",
+            "url": "https://www.rijksmuseum.nl/"
+          }
+        },
+        {
+          "id": "20027017",
+          "name": "Een oude man",
+          "timespan": "c. 1650",
+          "artist": "anonymous",
+          "material": "oil on panel",
+          "dimensions": "outer size: height 29.9 cm x width 26.2 cm x depth 4.8 cm (support incl. frame)",
+          "exhibitScript": "undefined",
+          "tags": [
+            "https://id.rijksmuseum.nl/221311"
+          ],
+          "imageUrl": "https://iiif.micr.io/xLUcE/full/max/0/default.jpg",
           "origin": {
             "name": "Rijksmuseum",
             "url": "https://www.rijksmuseum.nl/"
